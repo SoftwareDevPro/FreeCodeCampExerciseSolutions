@@ -10,7 +10,7 @@
 
 1. Say Hello to HTML Elements
 
-[https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/001_BasicHTMLandHTML5/0010_link-to-external-pages-with-anchor-elements.json](0001_say-hello-to-html-elements.json)
+[0001_say-hello-to-html-elements.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/001_BasicHTMLandHTML5/0010_link-to-external-pages-with-anchor-elements.json)
 
 1. Headline with the h2 Element
 
