@@ -38,7 +38,7 @@
 
 8. Introduction to HTML5 Elements
 
-[0008_introduction-to-html5-elements](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/001_BasicHTMLandHTML5/0008_introduction-to-html5-elements)
+[0008_introduction-to-html5-elements](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/001_BasicHTMLandHTML5/0008_introduction-to-html5-elements.json)
 
 9.  Add Images to Your Website
 
