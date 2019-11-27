@@ -18,6 +18,8 @@
 
 3. Inform with the Paragraph Element
 
+[0003_inform-with-the-paragraph-element.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/001_BasicHTMLandHTML5/0003_inform-with-the-paragraph-element.json)
+
 4. Fill in the Blank with Placeholder Text
 
 5. Uncomment HTML
@@ -28,7 +30,7 @@
 
 8. Introduction to HTML5 Elements
 
-9. Add Images to Your Website
+9.  Add Images to Your Website
 
 10.  Link to External Pages with Anchor Elements
 
