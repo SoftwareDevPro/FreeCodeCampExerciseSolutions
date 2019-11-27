@@ -1,0 +1,3 @@
+{
+  "index.html": "<style>\n  body {\n    background-color: black;\n    font-family: monospace;\n    color: green;\n  }\n  .pink-text {\n    color: pink;\n  }\n  .blue-text {\n    color: blue;\n  }\n</style>\n<h1 class=\"pink-text blue-text\">Hello World!</h1>\n"
+}

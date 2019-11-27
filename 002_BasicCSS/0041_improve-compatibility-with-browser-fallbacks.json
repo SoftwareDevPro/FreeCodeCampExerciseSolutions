@@ -1,0 +1,3 @@
+{
+  "index.html": "<style>\n  :root {\n    --red-color: red;\n  }\n  .red-box {\n    background: red;\n    background: var(--red-color);\n    height: 200px;\n    width:200px;\n  }\n</style>\n<div class=\"red-box\"></div>\n"
+}
