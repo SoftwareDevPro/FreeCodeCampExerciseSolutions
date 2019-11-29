@@ -229,331 +229,331 @@
 
 #### Basic JavaScript
 
-Comment Your JavaScript Code
-Declare JavaScript Variables
-Storing Values with the Assignment Operator
-Initializing Variables with the Assignment Operator
-Understanding Uninitialized Variables
-Understanding Case Sensitivity in Variables
-Add Two Numbers with JavaScript
-Subtract One Number from Another with JavaScript
-Multiply Two Numbers with JavaScript
-Divide One Number by Another with JavaScript
-Increment a Number with JavaScript
-Decrement a Number with JavaScript
-Create Decimal Numbers with JavaScript
-Multiply Two Decimals with JavaScript
-Divide One Decimal by Another with JavaScript
-Finding a Remainder in JavaScript
-Compound Assignment With Augmented Addition
-Compound Assignment With Augmented Subtraction
-Compound Assignment With Augmented Multiplication
-Compound Assignment With Augmented Division
-Declare String Variables
-Escaping Literal Quotes in Strings
-Quoting Strings with Single Quotes
-Escape Sequences in Strings
-Concatenating Strings with Plus Operator
-Concatenating Strings with the Plus Equals Operator
-Constructing Strings with Variables
-Appending Variables to Strings
-Find the Length of a String
-Use Bracket Notation to Find the First Character in a String
-Understand String Immutability
-Use Bracket Notation to Find the Nth Character in a String
-Use Bracket Notation to Find the Last Character in a String
-Use Bracket Notation to Find the Nth-to-Last Character in a String
-Word Blanks
-Store Multiple Values in one Variable using JavaScript Arrays
-Nest one Array within Another Array
-Access Array Data with Indexes
-Modify Array Data With Indexes
-Access Multi-Dimensional Arrays With Indexes
-Manipulate Arrays With push()
-Manipulate Arrays With pop()
-Manipulate Arrays With shift()
-Manipulate Arrays With unshift()
-Shopping List
-Write Reusable JavaScript with Functions
-Passing Values to Functions with Arguments
-Global Scope and Functions
-Local Scope and Functions
-Global vs. Local Scope in Functions
-Return a Value from a Function with Return
-Understanding Undefined Value returned from a Function
-Assignment with a Returned Value
-Stand in Line
-Understanding Boolean Values
-Use Conditional Logic with If Statements
-Comparison with the Equality Operator
-Comparison with the Strict Equality Operator
-Practice comparing different values
-Comparison with the Inequality Operator
-Comparison with the Strict Inequality Operator
-Comparison with the Greater Than Operator
-Comparison with the Greater Than Or Equal To Operator
-Comparison with the Less Than Operator
-Comparison with the Less Than Or Equal To Operator
-Comparisons with the Logical And Operator
-Comparisons with the Logical Or Operator
-Introducing Else Statements
-Introducing Else If Statements
-Logical Order in If Else Statements
-Chaining If Else Statements
-Golf Code
-Selecting from Many Options with Switch Statements
-Adding a Default Option in Switch Statements
-Multiple Identical Options in Switch Statements
-Replacing If Else Chains with Switch
-Returning Boolean Values from Functions
-Return Early Pattern for Functions
-Counting Cards
-Build JavaScript Objects
-Accessing Object Properties with Dot Notation
-Accessing Object Properties with Bracket Notation
-Accessing Object Properties with Variables
-Updating Object Properties
-Add New Properties to a JavaScript Object
-Delete Properties from a JavaScript Object
-Using Objects for Lookups
-Testing Objects for Properties
-Manipulating Complex Objects
-Accessing Nested Objects
-Accessing Nested Arrays
-Record Collection
-Iterate with JavaScript While Loops
-Iterate with JavaScript For Loops
-Iterate Odd Numbers With a For Loop
-Count Backwards With a For Loop
-Iterate Through an Array with a For Loop
-Nesting For Loops
-Iterate with JavaScript Do...While Loops
-Replace Loops using Recursion
-Profile Lookup
-Generate Random Fractions with JavaScript
-Generate Random Whole Numbers with JavaScript
-Generate Random Whole Numbers within a Range
-Use the parseInt Function
-Use the parseInt Function with a Radix
-Use the Conditional (Ternary) Operator
-Use Multiple Conditional (Ternary) Operators
-Use Recursion to Create a Range of Numbers
-Use Recursion to Create a Countdown
+1. Comment Your JavaScript Code
+2. Declare JavaScript Variables
+3. Storing Values with the Assignment Operator
+4. Initializing Variables with the Assignment Operator
+5. Understanding Uninitialized Variables
+6. Understanding Case Sensitivity in Variables
+7. Add Two Numbers with JavaScript
+8. Subtract One Number from Another with JavaScript
+9. Multiply Two Numbers with JavaScript
+10. Divide One Number by Another with JavaScript
+11. Increment a Number with JavaScript
+12. Decrement a Number with JavaScript
+13. Create Decimal Numbers with JavaScript
+14. Multiply Two Decimals with JavaScript
+15. Divide One Decimal by Another with JavaScript
+16. Finding a Remainder in JavaScript
+17. Compound Assignment With Augmented Addition
+18. Compound Assignment With Augmented Subtraction
+19. Compound Assignment With Augmented Multiplication
+20. Compound Assignment With Augmented Division
+21. Declare String Variables
+22. Escaping Literal Quotes in Strings
+23. Quoting Strings with Single Quotes
+24. Escape Sequences in Strings
+25. Concatenating Strings with Plus Operator
+26. Concatenating Strings with the Plus Equals Operator
+27. Constructing Strings with Variables
+28. Appending Variables to Strings
+29. Find the Length of a String
+30. Use Bracket Notation to Find the First Character in a String
+31. Understand String Immutability
+32. Use Bracket Notation to Find the Nth Character in a String
+33. Use Bracket Notation to Find the Last Character in a String
+34. Use Bracket Notation to Find the Nth-to-Last Character in a String
+35. Word Blanks
+36. Store Multiple Values in one Variable using JavaScript Arrays
+37. Nest one Array within Another Array
+38. Access Array Data with Indexes
+39. Modify Array Data With Indexes
+40. Access Multi-Dimensional Arrays With Indexes
+41. Manipulate Arrays With push()
+42. Manipulate Arrays With pop()
+43. Manipulate Arrays With shift()
+44. Manipulate Arrays With unshift()
+45. Shopping List
+46. Write Reusable JavaScript with Functions
+47. Passing Values to Functions with Arguments
+48. Global Scope and Functions
+49. Local Scope and Functions
+50. Global vs. Local Scope in Functions
+51. Return a Value from a Function with Return
+52. Understanding Undefined Value returned from a Function
+53. Assignment with a Returned Value
+54. Stand in Line
+55. Understanding Boolean Values
+56. Use Conditional Logic with If Statements
+57. Comparison with the Equality Operator
+58. Comparison with the Strict Equality Operator
+59. Practice comparing different values
+60. Comparison with the Inequality Operator
+61. Comparison with the Strict Inequality Operator
+62. Comparison with the Greater Than Operator
+63. Comparison with the Greater Than Or Equal To Operator
+64. Comparison with the Less Than Operator
+65. Comparison with the Less Than Or Equal To Operator
+66. Comparisons with the Logical And Operator
+67. Comparisons with the Logical Or Operator
+68. Introducing Else Statements
+69. Introducing Else If Statements
+70. Logical Order in If Else Statements
+71. Chaining If Else Statements
+72. Golf Code
+73. Selecting from Many Options with Switch Statements
+74. Adding a Default Option in Switch Statements
+75. Multiple Identical Options in Switch Statements
+76. Replacing If Else Chains with Switch
+77. Returning Boolean Values from Functions
+78. Return Early Pattern for Functions
+79. Counting Cards
+80. Build JavaScript Objects
+81. Accessing Object Properties with Dot Notation
+82. Accessing Object Properties with Bracket Notation
+83. Accessing Object Properties with Variables
+84. Updating Object Properties
+85. Add New Properties to a JavaScript Object
+86. Delete Properties from a JavaScript Object
+87. Using Objects for Lookups
+88. Testing Objects for Properties
+89. Manipulating Complex Objects
+90. Accessing Nested Objects
+91. Accessing Nested Arrays
+92. Record Collection
+93. Iterate with JavaScript While Loops
+94. Iterate with JavaScript For Loops
+95. Iterate Odd Numbers With a For Loop
+96. Count Backwards With a For Loop
+97. Iterate Through an Array with a For Loop
+98. Nesting For Loops
+99. Iterate with JavaScript Do...While Loops
+100. Replace Loops using Recursion
+101. Profile Lookup
+102. Generate Random Fractions with JavaScript
+103. Generate Random Whole Numbers with JavaScript
+104. Generate Random Whole Numbers within a Range
+105. Use the parseInt Function
+106. Use the parseInt Function with a Radix
+107. Use the Conditional (Ternary) Operator
+108. Use Multiple Conditional (Ternary) Operators
+109. Use Recursion to Create a Range of Numbers
+110. Use Recursion to Create a Countdown
 
 #### ES6
 
-Explore Differences Between the var and let Keywords
-Compare Scopes of the var and let Keywords
-Declare a Read-Only Variable with the const Keyword
-Mutate an Array Declared with const
-Prevent Object Mutation
-Use Arrow Functions to Write Concise Anonymous Functions
-Write Arrow Functions with Parameters
-Set Default Parameters for Your Functions
-Use the Rest Parameter with Function Parameters
-Use the Spread Operator to Evaluate Arrays In-Place
-Use Destructuring Assignment to Extract Values from Objects
-Use Destructuring Assignment to Assign Variables from Objects
-Use Destructuring Assignment to Assign Variables from Nested Objects
-Use Destructuring Assignment to Assign Variables from Arrays
-Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements
-Use Destructuring Assignment to Pass an Object as a Function's Parameters
-Create Strings using Template Literals
-Write Concise Object Literal Declarations Using Object Property Shorthand
-Write Concise Declarative Functions with ES6
-Use class Syntax to Define a Constructor Function
-Use getters and setters to Control Access to an Object
-Create a Module Script
-Use export to Share a Code Block
-Reuse Javascript Code Using import
-Use * to Import Everything from a File
-Create an Export Fallback with export default
-Import a Default Export
-Create a JavaScript Promise
-Complete a Promise with resolve and reject
-Handle a Fulfilled Promise with then
-Handle a Rejected Promise with catch
+1. Explore Differences Between the var and let Keywords
+2. Compare Scopes of the var and let Keywords
+3. Declare a Read-Only Variable with the const Keyword
+4. Mutate an Array Declared with const
+5. Prevent Object Mutation
+6. Use Arrow Functions to Write Concise Anonymous Functions
+7. Write Arrow Functions with Parameters
+8. Set Default Parameters for Your Functions
+9. Use the Rest Parameter with Function Parameters
+10. Use the Spread Operator to Evaluate Arrays In-Place
+11. Use Destructuring Assignment to Extract Values from Objects
+12. Use Destructuring Assignment to Assign Variables from Objects
+13. Use Destructuring Assignment to Assign Variables from Nested Objects
+14. Use Destructuring Assignment to Assign Variables from Arrays
+15. Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements
+16. Use Destructuring Assignment to Pass an Object as a Function's Parameters
+17. Create Strings using Template Literals
+18. Write Concise Object Literal Declarations Using Object Property Shorthand
+19. Write Concise Declarative Functions with ES6
+20. Use class Syntax to Define a Constructor Function
+21. Use getters and setters to Control Access to an Object
+22. Create a Module Script
+23. Use export to Share a Code Block
+24. Reuse Javascript Code Using import
+25. Use * to Import Everything from a File
+26. Create an Export Fallback with export default
+27. Import a Default Export
+28. Create a JavaScript Promise
+29. Complete a Promise with resolve and reject
+30. Handle a Fulfilled Promise with then
+31. Handle a Rejected Promise with catch
 
 #### Regular Expressions
 
-Using the Test Method
-Match Literal Strings
-Match a Literal String with Different Possibilities
-Ignore Case While Matching
-Extract Matches
-Find More Than the First Match
-Match Anything with Wildcard Period
-Match Single Character with Multiple Possibilities
-Match Letters of the Alphabet
-Match Numbers and Letters of the Alphabet
-Match Single Characters Not Specified
-Match Characters that Occur One or More Times
-Match Characters that Occur Zero or More Times
-Find Characters with Lazy Matching
-Find One or More Criminals in a Hunt
-Match Beginning String Patterns
-Match Ending String Patterns
-Match All Letters and Numbers
-Match Everything But Letters and Numbers
-Match All Numbers
-Match All Non-Numbers
-Restrict Possible Usernames
-Match Whitespace
-Match Non-Whitespace Characters
-Specify Upper and Lower Number of Matches
-Specify Only the Lower Number of Matches
-Specify Exact Number of Matches
-Check for All or None
-Positive and Negative Lookahead
-Check For Mixed Grouping of Characters
-Reuse Patterns Using Capture Groups
-Use Capture Groups to Search and Replace
-Remove Whitespace from Start and End
+1. Using the Test Method
+2. Match Literal Strings
+3. Match a Literal String with Different Possibilities
+4. Ignore Case While Matching
+5. Extract Matches
+6. Find More Than the First Match
+7. Match Anything with Wildcard Period
+8. Match Single Character with Multiple Possibilities
+9. Match Letters of the Alphabet
+10. Match Numbers and Letters of the Alphabet
+11. Match Single Characters Not Specified
+12. Match Characters that Occur One or More Times
+13. Match Characters that Occur Zero or More Times
+14. Find Characters with Lazy Matching
+15. Find One or More Criminals in a Hunt
+16. Match Beginning String Patterns
+17. Match Ending String Patterns
+18. Match All Letters and Numbers
+19. Match Everything But Letters and Numbers
+20. Match All Numbers
+21. Match All Non-Numbers
+22. Restrict Possible Usernames
+23. Match Whitespace
+24. Match Non-Whitespace Characters
+25. Specify Upper and Lower Number of Matches
+26. Specify Only the Lower Number of Matches
+27. Specify Exact Number of Matches
+28. Check for All or None
+29. Positive and Negative Lookahead
+30. Check For Mixed Grouping of Characters
+31. Reuse Patterns Using Capture Groups
+32. Use Capture Groups to Search and Replace
+33. Remove Whitespace from Start and End
 
 #### Debugging
 
-Use the JavaScript Console to Check the Value of a Variable
-Understanding the Differences between the freeCodeCamp and Browser Console
-Use typeof to Check the Type of a Variable
-Catch Misspelled Variable and Function Names
-Catch Unclosed Parentheses, Brackets, Braces and Quotes
-Catch Mixed Usage of Single and Double Quotes
-Catch Use of Assignment Operator Instead of Equality Operator
-Catch Missing Open and Closing Parenthesis After a Function Call
-Catch Arguments  in the Wrong Order When Calling a Function
-Catch Off By One Errors When Using Indexing
-Use Caution When Reinitializing Variables Inside a Loop
-Prevent Infinite Loops with a Valid Terminal Condition
+1. Use the JavaScript Console to Check the Value of a Variable
+2. Understanding the Differences between the freeCodeCamp and Browser Console
+3. Use typeof to Check the Type of a Variable
+4. Catch Misspelled Variable and Function Names
+5. Catch Unclosed Parentheses, Brackets, Braces and Quotes
+6. Catch Mixed Usage of Single and Double Quotes
+7. Catch Use of Assignment Operator Instead of Equality Operator
+8. Catch Missing Open and Closing Parenthesis After a Function Call
+9. Catch Arguments  in the Wrong Order When Calling a Function
+10. Catch Off By One Errors When Using Indexing
+11. Use Caution When Reinitializing Variables Inside a Loop
+12. Prevent Infinite Loops with a Valid Terminal Condition
 
 #### Basic Data Structures
 
-Use an Array to Store a Collection of Data
-Access an Array's Contents Using Bracket Notation
-Add Items to an Array with push() and unshift()
-Remove Items from an Array with pop() and shift()
-Remove Items Using splice()
-Add Items Using splice()
-Copy Array Items Using slice()
-Copy an Array with the Spread Operator
-Combine Arrays with the Spread Operator
-Check For The Presence of an Element With indexOf()
-Iterate Through All an Array's Items Using For Loops
-Create complex multi-dimensional arrays
-Add Key-Value Pairs to JavaScript Objects
-Modify an Object Nested Within an Object
-Access Property Names with Bracket Notation
-Use the delete Keyword to Remove Object Properties
-Check if an Object has a Property
-Iterate Through the Keys of an Object with a for...in Statement
-Generate an Array of All Object Keys with Object.keys()
-Modify an Array Stored in an Object
+1. Use an Array to Store a Collection of Data
+2. Access an Array's Contents Using Bracket Notation
+3. Add Items to an Array with push() and unshift()
+4. Remove Items from an Array with pop() and shift()
+5. Remove Items Using splice()
+6. Add Items Using splice()
+7. Copy Array Items Using slice()
+8. Copy an Array with the Spread Operator
+9. Combine Arrays with the Spread Operator
+10. Check For The Presence of an Element With indexOf()
+11. Iterate Through All an Array's Items Using For Loops
+12. Create complex multi-dimensional arrays
+13. Add Key-Value Pairs to JavaScript Objects
+14. Modify an Object Nested Within an Object
+15. Access Property Names with Bracket Notation
+16. Use the delete Keyword to Remove Object Properties
+17. Check if an Object has a Property
+18. Iterate Through the Keys of an Object with a for...in Statement
+19. Generate an Array of All Object Keys with Object.keys()
+20. Modify an Array Stored in an Object
 
 #### Basic Algorithm Scripting
 
-Convert Celsius to Fahrenheit
-Reverse a String
-Factorialize a Number
-Find the Longest Word in a String
-Return Largest Numbers in Arrays
-Confirm the Ending
-Repeat a String Repeat a String
-Truncate a String
-Finders Keepers
-Boo who
-Title Case a Sentence
-Slice and Splice
-Falsy Bouncer
-Where do I Belong
-Mutations
-Chunky Monkey
+1. Convert Celsius to Fahrenheit
+2. Reverse a String
+3. Factorialize a Number
+4. Find the Longest Word in a String
+5. Return Largest Numbers in Arrays
+6. Confirm the Ending
+7. Repeat a String Repeat a String
+8. Truncate a String
+9. Finders Keepers
+10. Boo who
+11. Title Case a Sentence
+12. Slice and Splice
+13. Falsy Bouncer
+14. Where do I Belong
+15. Mutations
+16. Chunky Monkey
 
 #### Object Oriented Programming
 
-Create a Basic JavaScript Object
-Use Dot Notation to Access the Properties of an Object
-Create a Method on an Object
-Make Code More Reusable with the this Keyword
-Define a Constructor Function
-Use a Constructor to Create Objects
-Extend Constructors to Receive Arguments
-Verify an Object's Constructor with instanceof
-Understand Own Properties
-Use Prototype Properties to Reduce Duplicate Code
-Iterate Over All Properties
-Understand the Constructor Property
-Change the Prototype to a New Object
-Remember to Set the Constructor Property when Changing the Prototype
-Understand Where an Object’s Prototype Comes From
-Understand the Prototype Chain
-Use Inheritance So You Don't Repeat Yourself
-Inherit Behaviors from a Supertype
-Set the Child's Prototype to an Instance of the Parent
-Reset an Inherited Constructor Property
-Add Methods After Inheritance
-Override Inherited Methods
-Use a Mixin to Add Common Behavior Between Unrelated Objects
-Use Closure to Protect Properties Within an Object from Being Modified Externally
-Understand the Immediately Invoked Function Expression (IIFE)
-Use an IIFE to Create a Module
+1. Create a Basic JavaScript Object
+2. Use Dot Notation to Access the Properties of an Object
+3. Create a Method on an Object
+4. Make Code More Reusable with the this Keyword
+5. Define a Constructor Function
+6. Use a Constructor to Create Objects
+7. Extend Constructors to Receive Arguments
+8. Verify an Object's Constructor with instanceof
+9. Understand Own Properties
+10. Use Prototype Properties to Reduce Duplicate Code
+11. Iterate Over All Properties
+12. Understand the Constructor Property
+13. Change the Prototype to a New Object
+14. Remember to Set the Constructor Property when Changing the Prototype
+15. Understand Where an Object’s Prototype Comes From
+16. Understand the Prototype Chain
+17. Use Inheritance So You Don't Repeat Yourself
+18. Inherit Behaviors from a Supertype
+19. Set the Child's Prototype to an Instance of the Parent
+20. Reset an Inherited Constructor Property
+21. Add Methods After Inheritance
+22. Override Inherited Methods
+23. Use a Mixin to Add Common Behavior Between Unrelated Objects
+24. Use Closure to Protect Properties Within an Object from Being Modified Externally
+25. Understand the Immediately Invoked Function Expression (IIFE)
+26. Use an IIFE to Create a Module
 
 #### Functional Programming
 
-Learn About Functional Programming
-Understand Functional Programming Terminology
-Understand the Hazards of Using Imperative Code
-Avoid Mutations and Side Effects Using Functional Programming
-Pass Arguments to Avoid External Dependence in a Function
-Refactor Global Variables Out of Functions
-Use the map Method to Extract Data from an Array
-Implement map on a Prototype
-Use the filter Method to Extract Data from an Array
-Implement the filter Method on a Prototype
-Return Part of an Array Using the slice Method
-Remove Elements from an Array Using slice Instead of splice
-Combine Two Arrays Using the concat Method
-Add Elements to the End of an Array Using concat Instead of push
-Use the reduce Method to Analyze Data
-Use Higher-Order Functions map, filter, or reduce to Solve a Complex Problem
-Sort an Array Alphabetically using the sort Method
-Return a Sorted Array Without Changing the Original Array
-Split a String into an Array Using the split Method
-Combine an Array into a String Using the join Method
-Apply Functional Programming to Convert Strings to URL Slugs
-Use the every Method to Check that Every Element in an Array Meets a Criteria
-Use the some Method to Check that Any Elements in an Array Meet a Criteria
-Introduction to Currying and Partial Application
+1. Learn About Functional Programming
+2. Understand Functional Programming Terminology
+3. Understand the Hazards of Using Imperative Code
+4. Avoid Mutations and Side Effects Using Functional Programming
+5. Pass Arguments to Avoid External Dependence in a Function
+6. Refactor Global Variables Out of Functions
+7. Use the map Method to Extract Data from an Array
+8. Implement map on a Prototype
+9. Use the filter Method to Extract Data from an Array
+10. Implement the filter Method on a Prototype
+11. Return Part of an Array Using the slice Method
+12. Remove Elements from an Array Using slice Instead of splice
+13. Combine Two Arrays Using the concat Method
+14. Add Elements to the End of an Array Using concat Instead of push
+15. Use the reduce Method to Analyze Data
+16. Use Higher-Order Functions map, filter, or reduce to Solve a Complex Problem
+17. Sort an Array Alphabetically using the sort Method
+18. Return a Sorted Array Without Changing the Original Array
+19. Split a String into an Array Using the split Method
+20. Combine an Array into a String Using the join Method
+21. Apply Functional Programming to Convert Strings to URL Slugs
+22. Use the every Method to Check that Every Element in an Array Meets a Criteria
+23. Use the some Method to Check that Any Elements in an Array Meet a Criteria
+24. Introduction to Currying and Partial Application
 
 #### Intermediate Algorithm Scripting
 
-Sum All Numbers in a Range
-Diff Two Arrays
-Seek and Destroy
-Wherefore art thou
-Spinal Tap Case
-Pig Latin
-Search and Replace
-DNA Pairing
-Missing letters
-Sorted Union
-Convert HTML Entities
-Sum All Odd Fibonacci Numbers
-Sum All Primes
-Smallest Common Multiple
-Drop it
-Steamroller
-Binary Agents
-Everything Be True
-Arguments Optional
-Make a Person
-Map the Debris
+1. Sum All Numbers in a Range
+2. Diff Two Arrays
+3. Seek and Destroy
+4. Wherefore art thou
+5. Spinal Tap Case
+6. Pig Latin
+7. Search and Replace
+8. DNA Pairing
+9. Missing letters
+10. Sorted Union
+11. Convert HTML Entities
+12. Sum All Odd Fibonacci Numbers
+13. Sum All Primes
+14. Smallest Common Multiple
+15. Drop it
+16. Steamroller
+17. Binary Agents
+18. Everything Be True
+19. Arguments Optional
+20. Make a Person
+21. Map the Debris
 
 #### JavaScript Algorithms and Data Structures Projects
 
-Palindrome Checker
-Roman Numeral Converter
-Caesars Cipher
-Telephone Number Validator
-Cash Register
+1. Palindrome Checker
+2. Roman Numeral Converter
+3. Caesars Cipher
+4. Telephone Number Validator
+5. Cash Register
 
 
 
