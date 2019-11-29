@@ -1,0 +1,3 @@
+{
+  "index.html": "<style>\n  #navbar {\n    position: fixed;\n    top: 0px;\n    left: 0px;\n\n\n\n    width: 100%;\n    background-color: #767676;\n  }\n  nav ul {\n    margin: 0px;\n    padding: 5px 0px 5px 30px;\n  }\n  nav li {\n    display: inline;\n    margin-right: 20px;\n  }\n  a {\n    text-decoration: none;\n  }\n</style>\n<body>\n  <header>\n    <h1>Welcome!</h1>\n    <nav id=\"navbar\">\n      <ul>\n        <li><a href=\"\">Home</a></li>\n        <li><a href=\"\">Contact</a></li>\n      </ul>\n    </nav>\n  </header>\n  <p>I shift up when the #navbar is fixed to the browser window.</p>\n</body>\n"
+}

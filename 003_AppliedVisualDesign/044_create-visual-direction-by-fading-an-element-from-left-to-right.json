@@ -1,0 +1,3 @@
+{
+  "index.html": "<style>\n\n  #ball {\n    width: 70px;\n    height: 70px;\n    margin: 50px auto;\n    position: fixed;\n    left: 20%;\n    border-radius: 50%;\n    background: linear-gradient(\n      35deg,\n      #ccffff,\n      #ffcccc\n    );\n    animation-name: fade;\n    animation-duration: 3s;\n  }\n\n  @keyframes fade {\n    50% {\n      left: 60%;\n      opacity: 0.1;\n\n    }\n  }\n\n</style>\n\n<div id=\"ball\"></div>\n"
+}

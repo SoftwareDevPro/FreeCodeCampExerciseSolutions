@@ -1,0 +1,3 @@
+{
+  "index.html": "<style>\n  .ball {\n    width: 40px;\n    height: 40px;\n    margin: 50 auto;\n    position: fixed;\n    background: linear-gradient(\n      35deg,\n      #ccffff,\n      #ffcccc\n    );\n    border-radius: 50%;\n  }\n  #ball1 {\n    left: 20%;\n  }\n  #ball2 {\n    left: 65%;\n    transform: scale(1.5);\n  }\n\n\n</style>\n\n<div class=\"ball\" id= \"ball1\"></div>\n<div class=\"ball\" id= \"ball2\"></div>\n"
+}

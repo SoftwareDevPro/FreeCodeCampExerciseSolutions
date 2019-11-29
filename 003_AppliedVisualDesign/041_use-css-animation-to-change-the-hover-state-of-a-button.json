@@ -1,0 +1,3 @@
+{
+  "index.html": "<style>\n  button {\n    border-radius: 5px;\n    color: white;\n    background-color: #0F5897;\n    padding: 5px 10px 8px 10px;\n  }\n\n  button:hover {\n    animation-name: background-color;\n    animation-duration: 500ms;\n  }\n\n  @keyframes background-color {\n    100% {\n      background-color: #4791d0;\n    }\n  }\n\n\n</style>\n\n<button>Register</button>\n"
+}

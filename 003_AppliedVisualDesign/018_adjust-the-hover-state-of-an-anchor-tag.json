@@ -1,0 +1,3 @@
+{
+  "index.html": "<style>\n  a:hover {\n    color: blue;\n  }\n\n  a {\n    color: black;\n  }\n\n\n</style>\n<a href=\"http://freecatphotoapp.com/\" target=\"_blank\">CatPhotoApp</a>\n"
+}

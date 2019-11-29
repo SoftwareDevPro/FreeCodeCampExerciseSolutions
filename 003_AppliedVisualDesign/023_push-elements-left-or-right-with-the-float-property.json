@@ -1,0 +1,3 @@
+{
+  "index.html": "<head>\n  <style>\n    #left {\n      float: left;\n      width: 50%;\n    }\n    #right {\n      float: right;\n      width: 40%;\n    }\n    aside, section {\n      padding: 2px;\n      background-color: #ccc;\n    }\n  </style>\n</head>\n<body>\n  <header>\n    <h1>Welcome!</h1>\n  </header>\n  <section id=\"left\">\n    <h2>Content</h2>\n    <p>Good stuff</p>\n  </section>\n  <aside id=\"right\">\n    <h2>Sidebar</h2>\n    <p>Links</p>\n  </aside>\n</body>\n"
+}

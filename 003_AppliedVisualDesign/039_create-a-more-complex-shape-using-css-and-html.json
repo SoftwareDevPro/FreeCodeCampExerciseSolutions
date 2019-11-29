@@ -1,0 +1,3 @@
+{
+  "index.html": "<style>\n  .heart {\n    position: absolute;\n    margin: auto;\n    top: 0;\n    right: 0;\n    bottom: 0;\n    left: 0;\n    background-color: pink;\n    height: 50px;\n    width: 50px;\n    transform: rotate(-45deg);\n  }\n  .heart::after {\n    background-color: pink;\n    content: \"\";\n    border-radius: 50%;\n    position: absolute;\n    width: 50px;\n    height: 50px;\n    top: 0px;\n    left: 25px;\n  }\n  .heart::before {\n    content: \"\";\n    background-color: pink;\n    border-radius: 50%;\n    position: absolute;\n    width: 50px;\n    height: 50px;\n    top: -25px;\n    left: 0px;\n  }\n</style>\n<div class=\"heart\"></div>\n"
+}

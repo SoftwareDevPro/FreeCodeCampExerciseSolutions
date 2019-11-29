@@ -1,0 +1,3 @@
+{
+  "index.html": "<style>\n  div {\n    height: 40px;\n    width: 70%;\n    background: black;\n    margin: 50px auto;\n    border-radius: 5px;\n  }\n\n  #rect {\n    animation-name: rainbow;\n    animation-duration: 4s;\n\n\n  }\n\n@keyframes rainbow {\n  0% {\n    background-color: blue;\n  }\n  50% {\n    background-color: green;\n  }\n  100% {\n    background-color: yellow;\n  }\n}\n\n\n</style>\n<div id=\"rect\"></div>\n"
+}

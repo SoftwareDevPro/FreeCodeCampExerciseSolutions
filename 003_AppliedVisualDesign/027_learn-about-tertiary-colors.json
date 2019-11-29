@@ -1,0 +1,3 @@
+{
+  "index.html": "<style>\n  body {\n    background-color: #FFFFFF;\n  }\n\n  .orange {\n    background-color: #FF7F00;\n  }\n\n  .cyan {\n    background-color: #00FFFF;\n  }\n\n  .raspberry {\n    background-color: #FF007F;\n  }\n\n  div {\n    height: 100px;\n    width: 100px;\n    margin-bottom: 5px;\n  }\n</style>\n\n<div class=\"orange\"></div>\n<div class=\"cyan\"></div>\n<div class=\"raspberry\"></div>\n"
+}

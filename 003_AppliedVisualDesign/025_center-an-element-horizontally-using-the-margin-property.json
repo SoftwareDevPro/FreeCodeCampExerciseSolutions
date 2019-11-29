@@ -1,0 +1,3 @@
+{
+  "index.html": "<style>\n  div {\n    background-color: blue;\n    height: 100px;\n    width: 100px;\n    margin: auto;\n  }\n</style>\n<div></div>\n"
+}

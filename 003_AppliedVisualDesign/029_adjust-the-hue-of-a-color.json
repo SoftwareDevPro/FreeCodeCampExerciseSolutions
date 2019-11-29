@@ -1,0 +1,3 @@
+{
+  "index.html": "<style>\n  body {\n    background-color: #FFFFFF;\n  }\n\n  .green {\n    background-color: hsl(120, 100%, 50%);\n  }\n\n  .cyan {\n    background-color: hsl(180, 100%, 50%);\n  }\n\n  .blue {\n    background-color: \thsl(240, 100%, 50%);\n  }\n\n  div {\n    display: inline-block;\n    height: 100px;\n    width: 100px;\n  }\n</style>\n\n<div class=\"green\"></div>\n<div class=\"cyan\"></div>\n<div class=\"blue\"></div>\n"
+}

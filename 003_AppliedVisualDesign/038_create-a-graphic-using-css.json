@@ -1,0 +1,3 @@
+{
+  "index.html": "<style>\n  .center {\n    position: absolute;\n    margin: auto;\n    top: 0;\n    right: 0;\n    bottom: 0;\n    left: 0;\n    width: 100px;\n    height: 100px;\n    background-color: transparent;\n    border-radius: 50%;\n    box-shadow: 25px 10px 0 0 blue;\n  }\n\n</style>\n<div class=\"center\"></div>\n"
+}

@@ -1,0 +1,3 @@
+{
+  "index.html": "<style>\n  .balls {\n    border-radius: 50%;\n    position: fixed;\n    width: 50px;\n    height: 50px;\n    top: 60%;\n    animation-name: jump;\n    animation-duration: 2s;\n    animation-iteration-count: infinite;\n  }\n  #red {\n    background: red;\n    left: 25%;\n    animation-timing-function: linear;\n  }\n  #blue {\n    background: blue;\n    left: 50%;\n    animation-timing-function: ease-out;\n  }\n  #green {\n    background: green;\n    left: 75%;\n    animation-timing-function: cubic-bezier(0.311, 0.441, 0.444, 1.649);\n  }\n\n  @keyframes jump {\n    50% {\n      top: 10%;\n    }\n  }\n</style>\n<div class=\"balls\" id=\"red\"></div>\n<div class=\"balls\" id=\"blue\"></div>\n<div class=\"balls\" id=\"green\"></div>\n"
+}
