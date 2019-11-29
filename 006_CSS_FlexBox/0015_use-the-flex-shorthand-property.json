@@ -1,0 +1,3 @@
+{
+  "index.html": "<style>\n  #box-container {\n    display: flex;\n    height: 500px;\n  }\n  #box-1 {\n    background-color: dodgerblue;\n    flex: 2 2 150px;\n    height: 200px;\n  }\n\n  #box-2 {\n    background-color: orangered;\n    flex: 1 1 150px;\n\n    height: 200px;\n  }\n</style>\n\n<div id=\"box-container\">\n  <div id=\"box-1\"></div>\n  <div id=\"box-2\"></div>\n</div>\n"
+}

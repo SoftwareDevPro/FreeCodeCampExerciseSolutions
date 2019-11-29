@@ -598,4 +598,189 @@
 
 [022_use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/004_AppliedAccessibility/022_use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements.json)
 
+#### Responsive Web Design Principles
+
+1. Create a Media Query
+
+[001_create-a-media-query.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/005_ResponsiveWebDesignPrinciples/001_create-a-media-query.json)
+
+2. Make an Image Responsive
+
+[002_make-an-image-responsive.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/005_ResponsiveWebDesignPrinciples/002_make-an-image-responsive.json)
+
+3.  Use a Retina Image for Higher Resolution Displays
+
+[003_use-a-retina-image-for-higher-resolution-displays.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/005_ResponsiveWebDesignPrinciples/003_use-a-retina-image-for-higher-resolution-displays.json)
+
+5.  Make Typography Responsive
+
+[004_make-typography-responsive.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/005_ResponsiveWebDesignPrinciples/004_make-typography-responsive.json)
+
+#### CSS FlexBox
+
+1. Use display: flex to Position Two Boxes
+
+[0001_use-display-flex-to-position-two-boxes.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/006_CSS_FlexBox/0001_use-display-flex-to-position-two-boxes.json)
+
+2. Add Flex Superpowers to the Tweet Embed
+
+[0002_add-flex-superpowers-to-the-tweet-embed.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/006_CSS_FlexBox/0002_add-flex-superpowers-to-the-tweet-embed.json)
+
+3. Use the flex-direction Property to Make a Row
+
+[0003_use-the-flex-direction-property-to-make-a-row.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/006_CSS_FlexBox/0003_use-the-flex-direction-property-to-make-a-row.json)
+
+4. Apply the flex-direction Property to Create Rows in the Tweet Embed
+
+[0004_apply-the-flex-direction-property-to-create-rows-in-the-tweet-embed.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/006_CSS_FlexBox/0004_apply-the-flex-direction-property-to-create-rows-in-the-tweet-embed.json)
+
+5. Use the flex-direction Property to Make a Column
+
+[0005_use-the-flex-direction-property-to-make-a-column.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/006_CSS_FlexBox/0005_use-the-flex-direction-property-to-make-a-column.json)
+
+6. Apply the flex-direction Property to Create a Column in the Tweet Embed
+
+[0006_apply-the-flex-direction-property-to-create-a-column-in-the-tweet-embed.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/006_CSS_FlexBox/0006_apply-the-flex-direction-property-to-create-a-column-in-the-tweet-embed.json)
+
+7. Align Elements Using the justify-content Property
+
+[0007_align-elements-using-the-justify-content-property.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/006_CSS_FlexBox/0007_align-elements-using-the-justify-content-property.json)
+
+8. Use the justify-content Property in the Tweet Embed
+
+[0008_use-the-justify-content-property-in-the-tweet-embed.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/006_CSS_FlexBox/0008_use-the-justify-content-property-in-the-tweet-embed.json)
+
+9. Align Elements Using the align-items Property
+
+[0009_align-elements-using-the-align-items-property.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/006_CSS_FlexBox/0009_align-elements-using-the-align-items-property.json)
+
+10. Use the align-items Property in the Tweet Embed
+
+[0010_use-the-align-items-property-in-the-tweet-embed.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/006_CSS_FlexBox/0010_use-the-align-items-property-in-the-tweet-embed.json)
+
+11. Use the flex-wrap Property to Wrap a Row or Column
+
+[0011_use-the-flex-wrap-property-to-wrap-a-row-or-column.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/006_CSS_FlexBox/0011_use-the-flex-wrap-property-to-wrap-a-row-or-column.json)
+
+12. Use the flex-shrink Property to Shrink Items
+
+[0012_use-the-flex-shrink-property-to-shrink-items.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/006_CSS_FlexBox/0012_use-the-flex-shrink-property-to-shrink-items.json)
+
+13. Use the flex-grow Property to Expand Items
+
+[0013_use-the-flex-grow-property-to-expand-items.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/006_CSS_FlexBox/0013_use-the-flex-grow-property-to-expand-items.json)
+
+14. Use the flex-basis Property to Set the Initial Size of an Item
+
+[0014_use-the-flex-basis-property-to-set-the-initial-size-of-an-item.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/006_CSS_FlexBox/0014_use-the-flex-basis-property-to-set-the-initial-size-of-an-item.json)
+
+15. Use the flex Shorthand Property
+
+[0015_use-the-flex-shorthand-property.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/006_CSS_FlexBox/0015_use-the-flex-shorthand-property.json)
+
+16. Use the order Property to Rearrange Items
+
+[0016_use-the-order-property-to-rearrange-items.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/006_CSS_FlexBox/0016_use-the-order-property-to-rearrange-items.json)
+
+17. Use the align-self Property
+
+[0017_use-the-align-self-property.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/006_CSS_FlexBox/0017_use-the-align-self-property.json)
+
+#### CSS Grid
+
+1. Create Your First CSS Grid
+
+[001_create-your-first-css-grid.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/001_create-your-first-css-grid.json)
+
+2. Add Columns with grid-template-columns
+
+[002_add-columns-with-grid-template-columns.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/002_add-columns-with-grid-template-columns.json)
+
+3. Add Rows with grid-template-rows
+
+[003_add-rows-with-grid-template-rows.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/003_add-rows-with-grid-template-rows.json)
+
+4. Use CSS Grid units to Change the Size of Columns and Rows
+
+[004_use-css-grid-units-to-change-the-size-of-columns-and-rows.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/004_use-css-grid-units-to-change-the-size-of-columns-and-rows.json)
+
+5. Create a Column Gap Using grid-column-gap
+
+[005_create-a-column-gap-using-grid-column-gap.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/005_create-a-column-gap-using-grid-column-gap.json)
+
+6. Create a Row Gap using grid-row-gap
+
+[006_create-a-row-gap-using-grid-row-gap.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/006_create-a-row-gap-using-grid-row-gap.json)
+
+7. Add Gaps Faster with grid-gap
+
+[007_add-gaps-faster-with-grid-gap.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/007_add-gaps-faster-with-grid-gap.json)
+
+8. Use grid-column to Control Spacing
+
+[008_use-grid-column-to-control-spacing.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/008_use-grid-column-to-control-spacing.json)
+
+9.  Use grid-row to Control Spacing
+
+[009_use-grid-row-to-control-spacing.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/009_use-grid-row-to-control-spacing.json)
+
+10. Align an Item Horizontally using justify-self
+
+[010_align-an-item-horizontally-using-justify-self.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/010_align-an-item-horizontally-using-justify-self.json)
+
+11. Align an Item Vertically using align-self
+
+[011_align-an-item-vertically-using-align-self.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/011_align-an-item-vertically-using-align-self.json)
+
+12. Align All Items Horizontally using justify-items
+
+[012_align-all-items-horizontally-using-justify-items.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/012_align-all-items-horizontally-using-justify-items.json)
+
+13. Align All Items Vertically using align-items
+
+[013_align-all-items-vertically-using-align-items.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/013_align-all-items-vertically-using-align-items.json)
+
+14. Divide the Grid Into an Area Template
+
+[014_divide-the-grid-into-an-area-template.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/014_divide-the-grid-into-an-area-template.json)
+
+15. Place Items in Grid Areas Using the grid-area Property
+
+[015_place-items-in-grid-areas-using-the-grid-area-property.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/015_place-items-in-grid-areas-using-the-grid-area-property.json)
+
+16. Use grid-area Without Creating an Areas Template
+
+[016_use-grid-area-without-creating-an-areas-template.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/016_use-grid-area-without-creating-an-areas-template.json)
+
+17. Reduce Repetition Using the repeat Function
+
+[017_reduce-repetition-using-the-repeat-function.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/017_reduce-repetition-using-the-repeat-function.json)
+
+18. Limit Item Size Using the minmax Function
+
+[018_limit-item-size-using-the-minmax-function.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/018_limit-item-size-using-the-minmax-function.json)
+
+19. Create Flexible Layouts Using auto-fill
+
+[019_create-flexible-layouts-using-auto-fill.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/019_create-flexible-layouts-using-auto-fill.json)
+
+20. Create Flexible Layouts Using auto-fit
+
+[020_create-flexible-layouts-using-auto-fit.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/020_create-flexible-layouts-using-auto-fit.json)
+
+21. Use Media Queries to Create Responsive Layouts
+
+[021_use-media-queries-to-create-responsive-layouts.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/021_use-media-queries-to-create-responsive-layouts.json)
+
+22. Create Grids within Grids
+
+[022_create-grids-within-grids.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/007_CSS_Grid/022_create-grids-within-grids.json)
+
+#### Responsive Web Design Projects
+
+1. Build A Tribute Page
+2. Build A Survey Form
+3. Build A Product Landing Page
+4. Build A Technical Documentation Page
+5. Build A Personal Portfolio Page
 
