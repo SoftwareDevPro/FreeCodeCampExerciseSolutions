@@ -1,0 +1,11 @@
+function translatePigLatin(str) {
+  // if it begins with a vowel, add 'way'
+  if (str.match(/^[aeiou]/)) {
+    return str + "way";
+  }
+  // otherwise add the 'ay'
+  const consonantCluster = str.match(/^[^aeiou]+/)[0];
+  return str.substring(consonantCluster.length) + consonantCluster + "ay";
+}
+
+translatePigLatin("consonant");

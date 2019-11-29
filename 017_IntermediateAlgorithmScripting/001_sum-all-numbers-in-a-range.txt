@@ -1,0 +1,14 @@
+function sumAll(arr) {
+  var total = 0;
+  if (arr[0] > arr[1]) {
+    var tmp = arr[0];
+    arr[0] = arr[1];
+    arr[1] = tmp;
+  }
+  for(var idx = arr[0]; idx <= arr[1]; idx++) {
+    total += idx;
+  }
+  return total;
+}
+
+sumAll([1, 4]);

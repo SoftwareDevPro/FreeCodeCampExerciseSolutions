@@ -1,0 +1,12 @@
+function bouncer(arr) {
+  // Don't show a false ID to this bouncer.
+  let newArr = [];
+  for(let idx = 0; idx < arr.length; idx++) {
+    if (arr[idx]) {
+      newArr.push(arr[idx]);
+    }
+  }
+  return newArr;
+}
+
+bouncer([7, "ate", "", false, 9]);

@@ -1,0 +1,11 @@
+function findElement(arr, func) {
+  let num = 0;
+  for(let idx = 0; idx < arr.length; idx++) {
+    if (func(arr[idx]) == true) {
+      return arr[idx];
+    }
+  }
+  return undefined;
+}
+
+findElement([1, 2, 3, 4], num => num % 2 === 0);

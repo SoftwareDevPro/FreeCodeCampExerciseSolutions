@@ -1,0 +1,3 @@
+{
+  "index.js": "// Example\nfunction ourTrueOrFalse(isItTrue) {\n  if (isItTrue) {\n    return \"Yes, it's true\";\n  }\n  return \"No, it's false\";\n}\n\n// Setup\nfunction trueOrFalse(wasThatTrue) {\n\n  // Only change code below this line.\n  if(wasThatTrue) {\n    return \"Yes, that was true\";\n  } else {\n    return \"No, that was false\";\n  }\n\n\n  // Only change code above this line.\n\n}\n\n// Change this value to test\ntrueOrFalse(true);\n"
+}

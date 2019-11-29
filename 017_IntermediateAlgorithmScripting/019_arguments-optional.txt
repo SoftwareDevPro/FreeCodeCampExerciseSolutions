@@ -1,0 +1,14 @@
+function addTogether() {
+  var args = Array.from(arguments);
+  if (args.some(n => typeof n !== "number")) {
+    return undefined;
+  } else {
+    if(args.length > 1) {
+      return args.reduce((acc, n) => (acc += n), 0);
+    } else {
+      return n => (typeof n === "number" ? n + args[0] : undefined);
+    }
+  }
+}
+
+addTogether(2,3);

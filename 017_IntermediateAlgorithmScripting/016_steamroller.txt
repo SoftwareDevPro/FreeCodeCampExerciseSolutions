@@ -1,0 +1,16 @@
+function steamrollArray(arr) {
+  // I'm a steamroller, baby
+  let newArr = [];
+  let len = arr.length;
+  for(let idx = 0; idx < len; idx++) {
+    if (! Array.isArray(arr[idx])) {
+      newArr.push(arr[idx]);
+    } else {
+      let subArr = steamrollArray(arr[idx]); 
+      newArr = [...newArr, ...subArr ];
+    }
+  }
+  return newArr;
+}
+
+steamrollArray([1, [2], [3, [[4]]]]);

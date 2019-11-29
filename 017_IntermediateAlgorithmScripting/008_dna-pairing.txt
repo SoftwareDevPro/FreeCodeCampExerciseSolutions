@@ -1,0 +1,27 @@
+function pairElement(str) {
+  // Return each strand as an array of two elements, 
+  // the original and the pair.
+  var paired = [];
+
+  // Loops through the input and pair.
+  for (var i = 0; i < str.length; i++) {
+    // check with the strand to pair
+    switch (str[i]) {
+      case "A":
+        paired.push(["A", "T"]);
+        continue;
+      case "T":
+        paired.push(["T", "A"]);
+        continue;
+      case "C":
+        paired.push(["C", "G"]);
+        continue;
+      case "G":
+        paired.push(["G", "C"]);
+        continue;
+    }
+  }
+  return paired;
+}
+
+pairElement("GCG");

@@ -1,0 +1,15 @@
+function truthCheck(collection, predicate) {
+  // Create a counter to check how many are true.
+  let counter = 0;
+  // Check for each object
+  for (let c in collection) {
+    // If it is has property and value is truthy
+    if (collection[c].hasOwnProperty(predicate) && Boolean(collection[c][predicate])) {
+      counter++;
+    }
+  }
+
+  return counter == collection.length;
+}
+
+truthCheck([{"user": "Tinky-Winky", "sex": "male"}, {"user": "Dipsy", "sex": "male"}, {"user": "Laa-Laa", "sex": "female"}, {"user": "Po", "sex": "female"}], "sex");

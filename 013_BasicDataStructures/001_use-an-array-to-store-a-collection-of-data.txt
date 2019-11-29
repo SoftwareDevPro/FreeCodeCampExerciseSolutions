@@ -1,0 +1,1 @@
+let yourArray = [true, 'mpeg', 42, false, 120]; // change this line

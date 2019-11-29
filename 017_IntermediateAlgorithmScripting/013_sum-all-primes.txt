@@ -1,0 +1,18 @@
+function isPrime(x) {
+  for (let i = 2; i < x; i++) {
+    if (x % i === 0) return false;
+  }
+  return x !== 1 && x !== 0;
+}
+
+function sumPrimes(num) {
+  let result = 0;
+  for (let idx = 1; idx <= num; idx++) {
+    if (isPrime(idx)) {
+      result += idx;
+    }
+  }
+  return result;
+}
+
+sumPrimes(10);

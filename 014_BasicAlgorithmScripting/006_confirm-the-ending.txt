@@ -1,0 +1,10 @@
+function confirmEnding(str, target) {
+  // "Never give up and good luck will find you."
+  // -- Falcor
+  let targetLen = target.length;
+  let strLen = str.length;
+
+  return str.substring(strLen-targetLen) == target;
+}
+
+confirmEnding("Bastian", "n");

@@ -1,0 +1,3 @@
+{
+  "index.js": "// Example\nvar ourName;\n\n// Declare myName below this line\nvar myName;"
+}

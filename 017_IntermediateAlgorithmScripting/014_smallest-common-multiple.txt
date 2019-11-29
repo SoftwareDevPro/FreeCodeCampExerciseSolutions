@@ -1,0 +1,29 @@
+
+function checkMe(num, smaller, larger) {
+  for(let idx = smaller; idx <= larger; idx++) {
+    if (num % idx != 0) {
+      return false;
+    }
+  }
+  return true;
+}
+
+function smallestCommons(arr) {
+  let smallest = arr[0]
+  let largest = arr[1]
+  if (arr[0] > arr[1]) {
+    smallest = arr[1];
+    largest = arr[0];    
+  }
+  let found = false;
+  let idx = largest;
+  while (! found) {
+    idx += 1;
+    found = checkMe(idx, smallest, largest);
+  }
+  return idx;
+}
+
+
+
+smallestCommons([1,5]);

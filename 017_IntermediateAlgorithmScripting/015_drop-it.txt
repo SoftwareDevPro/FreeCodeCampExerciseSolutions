@@ -1,0 +1,15 @@
+function dropElements(arr, func) {
+  // Drop them elements.
+  let newArr = [];
+  let found = false;
+  arr.forEach((item) => {
+    if (func(item) || found) {
+      found = true;
+      newArr.push(item);
+    }
+  });
+
+  return newArr;
+}
+
+dropElements([1, 2, 3], function(n) {return n < 3; });

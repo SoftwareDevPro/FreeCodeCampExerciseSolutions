@@ -1,0 +1,8 @@
+function diffArray(arr1, arr2) {
+  // Append arr2 into arr1 to form a single array,
+  // and then filter out those which aren't in both.
+  return arr1.concat(arr2)
+    .filter(item => !arr1.includes(item) || !arr2.includes(item));
+}
+
+diffArray([1, 2, 3, 5], [1, 2, 3, 4, 5]);

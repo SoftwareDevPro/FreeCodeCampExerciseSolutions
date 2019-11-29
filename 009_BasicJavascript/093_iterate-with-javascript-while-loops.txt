@@ -1,0 +1,7 @@
+// Setup
+var myArray = [];
+var val = 5;
+while (val >= 0) {
+    myArray.push(val--);
+}
+// Only change code below this line.

@@ -1,0 +1,3 @@
+{
+  "index.js": "var myNoun = \"dog\";\nvar myAdjective = \"big\";\nvar myVerb = \"ran\";\nvar myAdverb = \"quickly\";\n\nvar wordBlanks = \"The \" + myNoun + \" is \" + myAdjective + \" and \" + myVerb + \" very \" + myAdverb; // Only change this line;\n"
+}

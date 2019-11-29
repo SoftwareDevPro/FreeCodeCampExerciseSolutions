@@ -1,0 +1,16 @@
+function titleCase(str) {
+  // first convert the whole thing to lowercase,
+  // and get an array of all the strings
+  var convertToArray = str.toLowerCase().split(" ");
+
+  // for each substring, turn the first character with
+  // its uppercase version.
+  var retStr = convertToArray.map(function(val) {
+    return val.replace(val.charAt(0), val.charAt(0).toUpperCase());
+  });
+
+  // Return the substrings joined by a space
+  return retStr.join(" ");
+}
+
+titleCase("I'm a little tea pot");

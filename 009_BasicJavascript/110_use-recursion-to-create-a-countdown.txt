@@ -1,0 +1,9 @@
+//Only change code below this line
+function countdown(myArray, n){
+  if (n == -1) {
+    return [];
+  }
+  if (n != 0)
+  myArray.push(n);
+  return countdown(myArray, n - 1);
+}
