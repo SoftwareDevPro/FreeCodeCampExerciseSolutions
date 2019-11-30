@@ -229,325 +229,328 @@
 
 #### Basic JavaScript
 
-1. Comment Your JavaScript Code
-2. Declare JavaScript Variables
-3. Storing Values with the Assignment Operator
-4. Initializing Variables with the Assignment Operator
-5. Understanding Uninitialized Variables
-6. Understanding Case Sensitivity in Variables
-7. Add Two Numbers with JavaScript
-8. Subtract One Number from Another with JavaScript
-9. Multiply Two Numbers with JavaScript
-10. Divide One Number by Another with JavaScript
-11. Increment a Number with JavaScript
-12. Decrement a Number with JavaScript
-13. Create Decimal Numbers with JavaScript
-14. Multiply Two Decimals with JavaScript
-15. Divide One Decimal by Another with JavaScript
-16. Finding a Remainder in JavaScript
-17. Compound Assignment With Augmented Addition
-18. Compound Assignment With Augmented Subtraction
-19. Compound Assignment With Augmented Multiplication
-20. Compound Assignment With Augmented Division
-21. Declare String Variables
-22. Escaping Literal Quotes in Strings
-23. Quoting Strings with Single Quotes
-24. Escape Sequences in Strings
-25. Concatenating Strings with Plus Operator
-26. Concatenating Strings with the Plus Equals Operator
-27. Constructing Strings with Variables
-28. Appending Variables to Strings
-29. Find the Length of a String
-30. Use Bracket Notation to Find the First Character in a String
-31. Understand String Immutability
-32. Use Bracket Notation to Find the Nth Character in a String
-33. Use Bracket Notation to Find the Last Character in a String
-34. Use Bracket Notation to Find the Nth-to-Last Character in a String
-35. Word Blanks
-36. Store Multiple Values in one Variable using JavaScript Arrays
-37. Nest one Array within Another Array
-38. Access Array Data with Indexes
-39. Modify Array Data With Indexes
-40. Access Multi-Dimensional Arrays With Indexes
-41. Manipulate Arrays With push()
-42. Manipulate Arrays With pop()
-43. Manipulate Arrays With shift()
-44. Manipulate Arrays With unshift()
-45. Shopping List
-46. Write Reusable JavaScript with Functions
-47. Passing Values to Functions with Arguments
-48. Global Scope and Functions
-49. Local Scope and Functions
-50. Global vs. Local Scope in Functions
-51. Return a Value from a Function with Return
-52. Understanding Undefined Value returned from a Function
-53. Assignment with a Returned Value
-54. Stand in Line
-55. Understanding Boolean Values
-56. Use Conditional Logic with If Statements
-57. Comparison with the Equality Operator
-58. Comparison with the Strict Equality Operator
-59. Practice comparing different values
-60. Comparison with the Inequality Operator
-61. Comparison with the Strict Inequality Operator
-62. Comparison with the Greater Than Operator
-63. Comparison with the Greater Than Or Equal To Operator
-64. Comparison with the Less Than Operator
-65. Comparison with the Less Than Or Equal To Operator
-66. Comparisons with the Logical And Operator
-67. Comparisons with the Logical Or Operator
-68. Introducing Else Statements
-69. Introducing Else If Statements
-70. Logical Order in If Else Statements
-71. Chaining If Else Statements
-72. Golf Code
-73. Selecting from Many Options with Switch Statements
-74. Adding a Default Option in Switch Statements
-75. Multiple Identical Options in Switch Statements
-76. Replacing If Else Chains with Switch
-77. Returning Boolean Values from Functions
-78. Return Early Pattern for Functions
-79. Counting Cards
-80. Build JavaScript Objects
-81. Accessing Object Properties with Dot Notation
-82. Accessing Object Properties with Bracket Notation
-83. Accessing Object Properties with Variables
-84. Updating Object Properties
-85. Add New Properties to a JavaScript Object
-86. Delete Properties from a JavaScript Object
-87. Using Objects for Lookups
-88. Testing Objects for Properties
-89. Manipulating Complex Objects
-90. Accessing Nested Objects
-91. Accessing Nested Arrays
-92. Record Collection
-93. Iterate with JavaScript While Loops
-94. Iterate with JavaScript For Loops
-95. Iterate Odd Numbers With a For Loop
-96. Count Backwards With a For Loop
-97. Iterate Through an Array with a For Loop
-98. Nesting For Loops
-99. Iterate with JavaScript Do...While Loops
-100. Replace Loops using Recursion
-101. Profile Lookup
-102. Generate Random Fractions with JavaScript
-103. Generate Random Whole Numbers with JavaScript
-104. Generate Random Whole Numbers within a Range
-105. Use the parseInt Function
-106. Use the parseInt Function with a Radix
-107. Use the Conditional (Ternary) Operator
-108. Use Multiple Conditional (Ternary) Operators
-109. Use Recursion to Create a Range of Numbers
-110. Use Recursion to Create a Countdown
+1. Comment Your JavaScript Code [001_comment-your-javascript-code.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/001_comment-your-javascript-code.json)
+2. Declare JavaScript Variables [002_declare-javascript-variables.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/002_declare-javascript-variables.json)
+3. Storing Values with the Assignment Operator [003_storing-values-with-the-assignment-operator.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/003_storing-values-with-the-assignment-operator.json)
+4. Initializing Variables with the Assignment Operator [004_initializing-variables-with-the-assignment-operator.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/004_initializing-variables-with-the-assignment-operator.json)
+5. Understanding Uninitialized Variables [005_understanding-uninitialized-variables.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/005_understanding-uninitialized-variables.json)
+6. Understanding Case Sensitivity in Variables [006_understanding-case-sensitivity-in-variables.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/006_understanding-case-sensitivity-in-variables.json)
+7. Add Two Numbers with JavaScript [007_add-two-numbers-with-javascript.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/007_add-two-numbers-with-javascript.json)
+8. Subtract One Number from Another with JavaScript [008_subtract-one-number-from-another-with-javascript.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/008_subtract-one-number-from-another-with-javascript.json)
+9. Multiply Two Numbers with JavaScript [009_multiply-two-numbers-with-javascript.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/009_multiply-two-numbers-with-javascript.json)
+10. Divide One Number by Another with JavaScript [010_divide-one-number-by-another-with-javascript.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/010_divide-one-number-by-another-with-javascript.json)
+11. Increment a Number with JavaScript [011_increment-a-number-with-javascript.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/011_increment-a-number-with-javascript.json)
+12. Decrement a Number with JavaScript [012_decrement-a-number-with-javascript.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/012_decrement-a-number-with-javascript.json)
+13. Create Decimal Numbers with JavaScript [013_create-decimal-numbers-with-javascript.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/013_create-decimal-numbers-with-javascript.json)
+14. Multiply Two Decimals with JavaScript [014_multiply-two-decimals-with-javascript.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/014_multiply-two-decimals-with-javascript.json)
+15. Divide One Decimal by Another with JavaScript [015_divide-one-decimal-by-another-with-javascript.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/015_divide-one-decimal-by-another-with-javascript.json)
+16. Finding a Remainder in JavaScript [016_finding-a-remainder-in-javascript.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/016_finding-a-remainder-in-javascript.json)
+17. Compound Assignment With Augmented Addition [017_compound-assignment-with-augmented-addition.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/017_compound-assignment-with-augmented-addition.json)
+18. Compound Assignment With Augmented Subtraction [018_compound-assignment-with-augmented-subtraction.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/018_compound-assignment-with-augmented-subtraction.json)
+19. Compound Assignment With Augmented Multiplication [019_compound-assignment-with-augmented-multiplication.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/019_compound-assignment-with-augmented-multiplication.json)
+20. Compound Assignment With Augmented Division [020_compound-assignment-with-augmented-division.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/020_compound-assignment-with-augmented-division.json)
+21. Declare String Variables [021_declare-string-variables.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/021_declare-string-variables.json)
+22. Escaping Literal Quotes in Strings [022_escaping-literal-quotes-in-strings.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/022_escaping-literal-quotes-in-strings.json)
+23. Quoting Strings with Single Quotes [023_quoting-strings-with-single-quotes.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/023_quoting-strings-with-single-quotes.json)
+24. Escape Sequences in Strings [024_escape-sequences-in-strings.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/024_escape-sequences-in-strings.json)
+25. Concatenating Strings with Plus Operator [025_concatenating-strings-with-plus-operator.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/025_concatenating-strings-with-plus-operator.json)
+26. Concatenating Strings with the Plus Equals Operator [026_concatenating-strings-with-the-plus-equals-operator.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/026_concatenating-strings-with-the-plus-equals-operator.json)
+27. Constructing Strings with Variables [027_constructing-strings-with-variables.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/027_constructing-strings-with-variables.json)
+28. Appending Variables to Strings [028_appending-variables-to-strings.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/028_appending-variables-to-strings.json)
+29. Find the Length of a String [029_find-the-length-of-a-string.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/029_find-the-length-of-a-string.json)
+30. Use Bracket Notation to Find the First Character in a String [030_use-bracket-notation-to-find-the-first-character-in-a-string.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/030_use-bracket-notation-to-find-the-first-character-in-a-string.json)
+31. Understand String Immutability [031_understand-string-immutability.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/031_understand-string-immutability.json)
+32. Use Bracket Notation to Find the Nth Character in a String [032_use-bracket-notation-to-find-the-nth-character-in-a-string.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/032_use-bracket-notation-to-find-the-nth-character-in-a-string.json)
+33. Use Bracket Notation to Find the Last Character in a String [033_use-bracket-notation-to-find-the-last-character-in-a-string.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/033_use-bracket-notation-to-find-the-last-character-in-a-string.json)
+34. Use Bracket Notation to Find the Nth-to-Last Character in a String [034_use-bracket-notation-to-find-the-nth-to-last-character-in-a-string.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/034_use-bracket-notation-to-find-the-nth-to-last-character-in-a-string.json)
+35. Word Blanks [035_word-blanks.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/035_word-blanks.json)
+36. Store Multiple Values in one Variable using JavaScript Arrays [036_store-multiple-values-in-one-variable-using-javascript-arrays.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/036_store-multiple-values-in-one-variable-using-javascript-arrays.json)
+37. Nest one Array within Another Array [037_nest-one-array-within-another-array.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/037_nest-one-array-within-another-array.json)
+38. Access Array Data with Indexes [038_access-array-data-with-indexes.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/038_access-array-data-with-indexes.json)
+39. Modify Array Data With Indexes [039_modify-array-data-with-indexes.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/039_modify-array-data-with-indexes.json)
+40. Access Multi-Dimensional Arrays With Indexes [040_access-multi-dimensional-arrays-with-indexes.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/040_access-multi-dimensional-arrays-with-indexes.json)
+41. Manipulate Arrays With push() [041_manipulate-arrays-with-push.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/041_manipulate-arrays-with-push.json)
+42. Manipulate Arrays With pop() [042_manipulate-arrays-with-pop.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/042_manipulate-arrays-with-pop.json)
+43. Manipulate Arrays With shift() [043_manipulate-arrays-with-shift.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/043_manipulate-arrays-with-shift.json)
+44. Manipulate Arrays With unshift() [044_manipulate-arrays-with-unshift.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/044_manipulate-arrays-with-unshift.json)
+45. Shopping List [045_shopping-list.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/045_shopping-list.json)
+46. Write Reusable JavaScript with Functions [046_write-reusable-javascript-with-functions.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/046_write-reusable-javascript-with-functions.json)
+47. Passing Values to Functions with Arguments [047_passing-values-to-functions-with-arguments.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/047_passing-values-to-functions-with-arguments.json)
+48. Global Scope and Functions [048_global-scope-and-functions.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/048_global-scope-and-functions.json)
+49. Local Scope and Functions [049_local-scope-and-functions.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/049_local-scope-and-functions.json)
+50. Global vs. Local Scope in Functions [050_global-vs.-local-scope-in-functions.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/050_global-vs.-local-scope-in-functions.json)
+51. Return a Value from a Function with Return [051_return-a-value-from-a-function-with-return.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/051_return-a-value-from-a-function-with-return.json)
+52. Understanding Undefined Value returned from a Function [052_understanding-undefined-value-returned-from-a-function.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/052_understanding-undefined-value-returned-from-a-function.json)
+53. Assignment with a Returned Value [053_assignment-with-a-returned-value.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/053_assignment-with-a-returned-value.json)
+54. Stand in Line [054_stand-in-line.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/054_stand-in-line.json)
+55. Understanding Boolean Values [055_understanding-boolean-values.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/055_understanding-boolean-values.json)
+56. Use Conditional Logic with If Statements [056_use-conditional-logic-with-if-statements.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/056_use-conditional-logic-with-if-statements.json)
+57. Comparison with the Equality Operator [057_comparison-with-the-equality-operator.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/057_comparison-with-the-equality-operator.json)
+58. Comparison with the Strict Equality Operator [058_comparison-with-the-strict-equality-operator.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/058_comparison-with-the-strict-equality-operator.json)
+59. Practice comparing different values [059_practice-comparing-different-values.json](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/059_practice-comparing-different-values.json)
+60. Comparison with the Inequality Operator [060_comparison-with-the-inequality-operator.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/060_comparison-with-the-inequality-operator.txt)
+61. Comparison with the Strict Inequality Operator [061_comparison-with-the-strict-inequality-operator.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/061_comparison-with-the-strict-inequality-operator.txt)
+62. Comparison with the Greater Than Operator [062_comparison-with-the-greater-than-operator.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/062_comparison-with-the-greater-than-operator.txt)
+63. Comparison with the Greater Than Or Equal To Operator [063_comparison-with-the-greater-than-or-equal-to-operator.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/063_comparison-with-the-greater-than-or-equal-to-operator.txt)
+64. Comparison with the Less Than Operator [064_comparison-with-the-less-than-operator.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/064_comparison-with-the-less-than-operator.txt)
+65. Comparison with the Less Than Or Equal To Operator [065_comparison-with-the-less-than-or-equal-to-operator.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/065_comparison-with-the-less-than-or-equal-to-operator.txt)
+66. Comparisons with the Logical And Operator [066_comparisons-with-the-logical-and-operator.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/066_comparisons-with-the-logical-and-operator.txt)
+67. Comparisons with the Logical Or Operator [067_comparisons-with-the-logical-or-operator.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/067_comparisons-with-the-logical-or-operator.txt)
+68. Introducing Else Statements [068_introducing-else-statements.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/068_introducing-else-statements.txt)
+69. Introducing Else If Statements [069_introducing-else-if-statements.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/069_introducing-else-if-statements.txt)
+70. Logical Order in If Else Statements [070_logical-order-in-if-else-statements.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/070_logical-order-in-if-else-statements.txt)
+71. Chaining If Else Statements [071_chaining-if-else-statements.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/071_chaining-if-else-statements.txt)
+72. Golf Code [072_golf-code.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/072_golf-code.txt)
+73. Selecting from Many Options with Switch Statements [073_selecting-from-many-options-with-switch-statements.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/073_selecting-from-many-options-with-switch-statements.txt)
+74. Adding a Default Option in Switch Statements [074_adding-a-default-option-in-switch-statements.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/074_adding-a-default-option-in-switch-statements.txt)
+75. Multiple Identical Options in Switch Statements [075_multiple-identical-options-in-switch-statements.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/075_multiple-identical-options-in-switch-statements.txt)
+76. Replacing If Else Chains with Switch [076_replacing-if-else-chains-with-switch.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/076_replacing-if-else-chains-with-switch.txt)
+77. Returning Boolean Values from Functions [077_returning-boolean-values-from-functions.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/077_returning-boolean-values-from-functions.txt)
+78. Return Early Pattern for Functions [078_return-early-pattern-for-functions.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/078_return-early-pattern-for-functions.txt)
+79. Counting Cards [079_counting-cards.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/079_counting-cards.txt)
+80. Build JavaScript Objects [080_build-javascript-objects.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/080_build-javascript-objects.txt)
+81. Accessing Object Properties with Dot Notation [081_accessing-object-properties-with-dot-notation.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/081_accessing-object-properties-with-dot-notation.txt)
+82. Accessing Object Properties with Bracket Notation [082_accessing-object-properties-with-bracket-notation.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/082_accessing-object-properties-with-bracket-notation.txt)
+83. Accessing Object Properties with Variables [083_accessing-object-properties-with-variables.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/083_accessing-object-properties-with-variables.txt)
+84. Updating Object Properties [084_updating-object-properties.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/084_updating-object-properties.txt)
+85. Add New Properties to a JavaScript Object [085_add-new-properties-to-a-javascript-object.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/085_add-new-properties-to-a-javascript-object.txt)
+86. Delete Properties from a JavaScript Object [086_delete-properties-from-a-javascript-object.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/086_delete-properties-from-a-javascript-object.txt)
+87. Using Objects for Lookups [087_using-objects-for-lookups.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/087_using-objects-for-lookups.txt)
+88. Testing Objects for Properties [088_testing-objects-for-properties.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/088_testing-objects-for-properties.txt)
+89. Manipulating Complex Objects [089_manipulating-complex-objects.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/089_manipulating-complex-objects.txt)
+90. Accessing Nested Objects [090_accessing-nested-objects.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/090_accessing-nested-objects.txt)
+91. Accessing Nested Arrays [091_accessing-nested-arrays.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/091_accessing-nested-arrays.txt)
+92. Record Collection [092_record-collection.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/092_record-collection.txt)
+93. Iterate with JavaScript While Loops [093_iterate-with-javascript-while-loops.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/093_iterate-with-javascript-while-loops.txt)
+94. Iterate with JavaScript For Loops [094_iterate-with-javascript-for-loops.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/094_iterate-with-javascript-for-loops.txt)
+95. Iterate Odd Numbers With a For Loop [095_iterate-odd-numbers-with-a-for-loop.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/095_iterate-odd-numbers-with-a-for-loop.txt)
+96. Count Backwards With a For Loop [096_count-backwards-with-a-for-loop.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/096_count-backwards-with-a-for-loop.txt)
+97. Iterate Through an Array with a For Loop [097_iterate-through-an-array-with-a-for-loop.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/097_iterate-through-an-array-with-a-for-loop.txt)
+98. Nesting For Loops [098_nesting-for-loops.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/098_nesting-for-loops.txt)
+99.  Iterate with JavaScript Do...While Loops [099_iterate-with-javascript-do...while-loops.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/099_iterate-with-javascript-do...while-loops.txt)
+100. Replace Loops using Recursion [100_replace-loops-using-recursion.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/100_replace-loops-using-recursion.txt)
+101. Profile Lookup [101_profile-lookup.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/101_profile-lookup.txt)
+102. Generate Random Fractions with JavaScript [102_generate-random-fractions-with-javascript.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/102_generate-random-fractions-with-javascript.txt)
+103. Generate Random Whole Numbers with JavaScript [103_generate-random-whole-numbers-with-javascript.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/103_generate-random-whole-numbers-with-javascript.txt)
+104. Generate Random Whole Numbers within a Range [104_generate-random-whole-numbers-within-a-range.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/104_generate-random-whole-numbers-within-a-range.txt)
+105. Use the parseInt Function [105_use-the-parseint-function.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/105_use-the-parseint-function.txt)
+106. Use the parseInt Function with a Radix [106_use-the-parseint-function-with-a-radix.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/106_use-the-parseint-function-with-a-radix.txt)
+107. Use the Conditional (Ternary) Operator [107_use-the-conditional-ternary-operator.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/107_use-the-conditional-ternary-operator.txt)
+108. Use Multiple Conditional (Ternary) Operators [108_use-multiple-conditional-ternary-operators.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/108_use-multiple-conditional-ternary-operators.txt)
+109. Use Recursion to Create a Range of Numbers [109_use-recursion-to-create-a-range-of-numbers.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript/109_use-recursion-to-create-a-range-of-numbers.txt)
+110. Use Recursion to Create a Countdown [110_use-recursion-to-create-a-countdown.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/009_BasicJavascript110_use-recursion-to-create-a-countdown.txt)
 
 #### ES6
 
-1. Explore Differences Between the var and let Keywords
-2. Compare Scopes of the var and let Keywords
-3. Declare a Read-Only Variable with the const Keyword
-4. Mutate an Array Declared with const
-5. Prevent Object Mutation
-6. Use Arrow Functions to Write Concise Anonymous Functions
-7. Write Arrow Functions with Parameters
-8. Set Default Parameters for Your Functions
-9. Use the Rest Parameter with Function Parameters
-10. Use the Spread Operator to Evaluate Arrays In-Place
-11. Use Destructuring Assignment to Extract Values from Objects
-12. Use Destructuring Assignment to Assign Variables from Objects
-13. Use Destructuring Assignment to Assign Variables from Nested Objects
-14. Use Destructuring Assignment to Assign Variables from Arrays
-15. Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements
-16. Use Destructuring Assignment to Pass an Object as a Function's Parameters
-17. Create Strings using Template Literals
-18. Write Concise Object Literal Declarations Using Object Property Shorthand
-19. Write Concise Declarative Functions with ES6
-20. Use class Syntax to Define a Constructor Function
-21. Use getters and setters to Control Access to an Object
-22. Create a Module Script
-23. Use export to Share a Code Block
-24. Reuse Javascript Code Using import
-25. Use * to Import Everything from a File
-26. Create an Export Fallback with export default
-27. Import a Default Export
-28. Create a JavaScript Promise
-29. Complete a Promise with resolve and reject
-30. Handle a Fulfilled Promise with then
-31. Handle a Rejected Promise with catch
+1. Explore Differences Between the var and let Keywords [001_explore-differences-between-the-var-and-let-keywords.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/001_explore-differences-between-the-var-and-let-keywords.txt)
+2. Compare Scopes of the var and let Keywords [002_compare-scopes-of-the-var-and-let-keywords.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/002_compare-scopes-of-the-var-and-let-keywords.txt)
+3. Declare a Read-Only Variable with the const Keyword [003_declare-a-read-only-variable-with-the-const-keyword.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/003_declare-a-read-only-variable-with-the-const-keyword.txt)
+4. Mutate an Array Declared with const [004_mutate-an-array-declared-with-const.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/004_mutate-an-array-declared-with-const.txt)
+5. Prevent Object Mutation [005_prevent-object-mutation.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/005_prevent-object-mutation.txt)
+6. Use Arrow Functions to Write Concise Anonymous Functions [006_use-arrow-functions-to-write-concise-anonymous-functions.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/006_use-arrow-functions-to-write-concise-anonymous-functions.txt)
+7. Write Arrow Functions with Parameters [007_write-arrow-functions-with-parameters.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/007_write-arrow-functions-with-parameters.txt)
+8. Set Default Parameters for Your Functions [008_set-default-parameters-for-your-functions.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/008_set-default-parameters-for-your-functions.txt)
+9. Use the Rest Parameter with Function Parameters [009_use-the-rest-parameter-with-function-parameters.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/009_use-the-rest-parameter-with-function-parameters.txt)
+10. Use the Spread Operator to Evaluate Arrays In-Place [010_use-the-spread-operator-to-evaluate-arrays-in-place.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/010_use-the-spread-operator-to-evaluate-arrays-in-place.txt)
+11. Use Destructuring Assignment to Extract Values from Objects [011_use-destructuring-assignment-to-extract-values-from-objects.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/011_use-destructuring-assignment-to-extract-values-from-objects.txt)
+12. Use Destructuring Assignment to Assign Variables from Objects [012_use-destructuring-assignment-to-assign-variables-from-objects.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/012_use-destructuring-assignment-to-assign-variables-from-objects.txt)
+13. Use Destructuring Assignment to Assign Variables from Nested Objects [013_use-destructuring-assignment-to-assign-variables-from-nested-objects.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/013_use-destructuring-assignment-to-assign-variables-from-nested-objects.txt)
+14. Use Destructuring Assignment to Assign Variables from Arrays [014_use-destructuring-assignment-to-assign-variables-from-arrays.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/014_use-destructuring-assignment-to-assign-variables-from-arrays.txt)
+15. Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements [015_use-destructuring-assignment-with-the-rest-parameter-to-reassign-array-elements.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/015_use-destructuring-assignment-with-the-rest-parameter-to-reassign-array-elements.txt)
+16. Use Destructuring Assignment to Pass an Object as a Function's Parameters [016_use-destructuring-assignment-to-pass-an-object-as-a-functions-parameters.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/016_use-destructuring-assignment-to-pass-an-object-as-a-functions-parameters.txt)
+17. Create Strings using Template Literals [017_create-strings-using-template-literals.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/017_create-strings-using-template-literals.txt)
+18. Write Concise Object Literal Declarations Using Object Property Shorthand [018_write-concise-object-literal-declarations-using-object-property-shorthand.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/018_write-concise-object-literal-declarations-using-object-property-shorthand.txt)
+19. Write Concise Declarative Functions with ES6 [019_write-concise-declarative-functions-with-es6.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/019_write-concise-declarative-functions-with-es6.txt)
+20. Use class Syntax to Define a Constructor Function [020_use-class-syntax-to-define-a-constructor-function.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/020_use-class-syntax-to-define-a-constructor-function.txt)
+21. Use getters and setters to Control Access to an Object [021_use-getters-and-setters-to-control-access-to-an-object.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/021_use-getters-and-setters-to-control-access-to-an-object.txt)
+22. Create a Module Script [022_create-a-module-script.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/022_create-a-module-script.txt)
+23. Use export to Share a Code Block [023_use-export-to-share-a-code-block.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/023_use-export-to-share-a-code-block.txt)
+24. Reuse Javascript Code Using import [024_reuse-javascript-code-using-import.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/024_reuse-javascript-code-using-import.txt)
+25. Use * to Import Everything from a File [025_use--to-import-everything-from-a-file.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/025_use--to-import-everything-from-a-file.txt)
+26. Create an Export Fallback with export default [026_create-an-export-fallback-with-export-default.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/026_create-an-export-fallback-with-export-default.txt)
+27. Import a Default Export [027_import-a-default-export.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/027_import-a-default-export.txt)
+28. Create a JavaScript Promise [028_create-a-javascript-promise.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/028_create-a-javascript-promise.txt)
+29. Complete a Promise with resolve and reject [029_complete-a-promise-with-resolve-and-reject.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/029_complete-a-promise-with-resolve-and-reject.txt)
+30. Handle a Fulfilled Promise with then [030_handle-a-fulfilled-promise-with-then.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/030_handle-a-fulfilled-promise-with-then.txt)
+31. Handle a Rejected Promise with catch [031_handle-a-rejected-promise-with-catch.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/010_ES6/031_handle-a-rejected-promise-with-catch.txt)
 
 #### Regular Expressions
 
-1. Using the Test Method
-2. Match Literal Strings
-3. Match a Literal String with Different Possibilities
-4. Ignore Case While Matching
-5. Extract Matches
-6. Find More Than the First Match
-7. Match Anything with Wildcard Period
-8. Match Single Character with Multiple Possibilities
-9. Match Letters of the Alphabet
-10. Match Numbers and Letters of the Alphabet
-11. Match Single Characters Not Specified
-12. Match Characters that Occur One or More Times
-13. Match Characters that Occur Zero or More Times
-14. Find Characters with Lazy Matching
-15. Find One or More Criminals in a Hunt
-16. Match Beginning String Patterns
-17. Match Ending String Patterns
-18. Match All Letters and Numbers
-19. Match Everything But Letters and Numbers
-20. Match All Numbers
-21. Match All Non-Numbers
-22. Restrict Possible Usernames
-23. Match Whitespace
-24. Match Non-Whitespace Characters
-25. Specify Upper and Lower Number of Matches
-26. Specify Only the Lower Number of Matches
-27. Specify Exact Number of Matches
-28. Check for All or None
-29. Positive and Negative Lookahead
-30. Check For Mixed Grouping of Characters
-31. Reuse Patterns Using Capture Groups
-32. Use Capture Groups to Search and Replace
-33. Remove Whitespace from Start and End
+1. Using the Test Method [001_using-the-test-method.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/001_using-the-test-method.txt)
+2. Match Literal Strings [002_match-literal-strings.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/002_match-literal-strings.txt)
+3. Match a Literal String with Different Possibilities [003_match-a-literal-string-with-different-possibilities.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/003_match-a-literal-string-with-different-possibilities.txt)
+4. Ignore Case While Matching [004_ignore-case-while-matching.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/004_ignore-case-while-matching.txt)
+5. Extract Matches [005_extract-matches.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/005_extract-matches.txt)
+6. Find More Than the First Match [006_find-more-than-the-first-match.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/006_find-more-than-the-first-match.txt)
+7. Match Anything with Wildcard Period [007_match-anything-with-wildcard-period.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/007_match-anything-with-wildcard-period.txt)
+8. Match Single Character with Multiple Possibilities [008_match-single-character-with-multiple-possibilities.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/008_match-single-character-with-multiple-possibilities.txt)
+9. Match Letters of the Alphabet [009_match-letters-of-the-alphabet.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/009_match-letters-of-the-alphabet.txt)
+10. Match Numbers and Letters of the Alphabet [010_match-numbers-and-letters-of-the-alphabet.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/010_match-numbers-and-letters-of-the-alphabet.txt)
+11. Match Single Characters Not Specified [011_match-single-characters-not-specified.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/011_match-single-characters-not-specified.txt)
+12. Match Characters that Occur One or More Times [012_match-characters-that-occur-one-or-more-times.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/012_match-characters-that-occur-one-or-more-times.txt)
+13. Match Characters that Occur Zero or More Times [013_match-characters-that-occur-zero-or-more-times.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/013_match-characters-that-occur-zero-or-more-times.txt)
+14. Find Characters with Lazy Matching [014_find-characters-with-lazy-matching.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/014_find-characters-with-lazy-matching.txt)
+15. Find One or More Criminals in a Hunt [015_find-one-or-more-criminals-in-a-hunt.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/015_find-one-or-more-criminals-in-a-hunt.txt)
+16. Match Beginning String Patterns [016_match-beginning-string-patterns.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/016_match-beginning-string-patterns.txt)
+17. Match Ending String Patterns [017_match-ending-string-patterns.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/017_match-ending-string-patterns.txt)
+18. Match All Letters and Numbers [018_match-all-letters-and-numbers.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/018_match-all-letters-and-numbers.txt)
+19. Match Everything But Letters and Numbers [019_match-everything-but-letters-and-numbers.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/019_match-everything-but-letters-and-numbers.txt)
+20. Match All Numbers [020_match-all-numbers.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/020_match-all-numbers.txt)
+21. Match All Non-Numbers [021_match-all-non-numbers.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/021_match-all-non-numbers.txt)
+22. Restrict Possible Usernames [022_restrict-possible-usernames.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/022_restrict-possible-usernames.txt)
+23. Match Whitespace [023_match-whitespace.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/023_match-whitespace.txt)
+24. Match Non-Whitespace Characters [024_match-non-whitespace-characters.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/024_match-non-whitespace-characters.txt)
+25. Specify Upper and Lower Number of Matches [025_specify-upper-and-lower-number-of-matches.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/025_specify-upper-and-lower-number-of-matches.txt)
+26. Specify Only the Lower Number of Matches [026_specify-only-the-lower-number-of-matches.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/026_specify-only-the-lower-number-of-matches.txt)
+27. Specify Exact Number of Matches [027_specify-exact-number-of-matches.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/027_specify-exact-number-of-matches.txt)
+28. Check for All or None [028_check-for-all-or-none.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/028_check-for-all-or-none.txt)
+29. Positive and Negative Lookahead [029_positive-and-negative-lookahead.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/029_positive-and-negative-lookahead.txt)
+30. Check For Mixed Grouping of Characters [030_check-for-mixed-grouping-of-characters.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/030_check-for-mixed-grouping-of-characters.txt)
+31. Reuse Patterns Using Capture Groups [031_reuse-patterns-using-capture-groups.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/031_reuse-patterns-using-capture-groups.txt)
+32. Use Capture Groups to Search and Replace [032_use-capture-groups-to-search-and-replace.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/032_use-capture-groups-to-search-and-replace.txt)
+33. Remove Whitespace from Start and End [033_remove-whitespace-from-start-and-end.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/011_RegularExpressions/033_remove-whitespace-from-start-and-end.txt)
 
 #### Debugging
 
-1. Use the JavaScript Console to Check the Value of a Variable
-2. Understanding the Differences between the freeCodeCamp and Browser Console
-3. Use typeof to Check the Type of a Variable
-4. Catch Misspelled Variable and Function Names
-5. Catch Unclosed Parentheses, Brackets, Braces and Quotes
-6. Catch Mixed Usage of Single and Double Quotes
-7. Catch Use of Assignment Operator Instead of Equality Operator
-8. Catch Missing Open and Closing Parenthesis After a Function Call
-9. Catch Arguments  in the Wrong Order When Calling a Function
-10. Catch Off By One Errors When Using Indexing
-11. Use Caution When Reinitializing Variables Inside a Loop
-12. Prevent Infinite Loops with a Valid Terminal Condition
+1. Use the JavaScript Console to Check the Value of a Variable [001_use-the-javascript-console-to-check-the-value-of-a-variable.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/012_Debugging/001_use-the-javascript-console-to-check-the-value-of-a-variable.txt)
+2. Understanding the Differences between the freeCodeCamp and Browser Console [002_understanding-the-differences-between-the-freecodecamp-and-browser-console.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/012_Debugging/002_understanding-the-differences-between-the-freecodecamp-and-browser-console.txt)
+3. Use typeof to Check the Type of a Variable [003_use-typeof-to-check-the-type-of-a-variable.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/012_Debugging/003_use-typeof-to-check-the-type-of-a-variable.txt)
+4. Catch Misspelled Variable and Function Names [004_catch-misspelled-variable-and-function-names.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/012_Debugging/004_catch-misspelled-variable-and-function-names.txt)
+5. Catch Unclosed Parentheses, Brackets, Braces and Quotes [005_catch-unclosed-parentheses-brackets-braces-and-quotes.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/012_Debugging/005_catch-unclosed-parentheses-brackets-braces-and-quotes.txt)
+6. Catch Mixed Usage of Single and Double Quotes [006_catch-mixed-usage-of-single-and-double-quotes.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/012_Debugging/006_catch-mixed-usage-of-single-and-double-quotes.txt)
+7. Catch Use of Assignment Operator Instead of Equality Operator [007_catch-use-of-assignment-operator-instead-of-equality-operator.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/012_Debugging/007_catch-use-of-assignment-operator-instead-of-equality-operator.txt)
+8. Catch Missing Open and Closing Parenthesis After a Function Call [008_catch-missing-open-and-closing-parenthesis-after-a-function-call.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/012_Debugging/008_catch-missing-open-and-closing-parenthesis-after-a-function-call.txt)
+9. Catch Arguments  in the Wrong Order When Calling a Function [009_catch-arguments-passed-in-the-wrong-order-when-calling-a-function.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/012_Debugging/009_catch-arguments-passed-in-the-wrong-order-when-calling-a-function.txt)
+10. Catch Off By One Errors When Using Indexing [010_catch-off-by-one-errors-when-using-indexing.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/012_Debugging/010_catch-off-by-one-errors-when-using-indexing.txt)
+11. Use Caution When Reinitializing Variables Inside a Loop [011_use-caution-when-reinitializing-variables-inside-a-loop.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/012_Debugging/011_use-caution-when-reinitializing-variables-inside-a-loop.txt)
+12. Prevent Infinite Loops with a Valid Terminal Condition [012_prevent-infinite-loops-with-a-valid-terminal-condition.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/012_Debugging/012_prevent-infinite-loops-with-a-valid-terminal-condition.txt)
 
 #### Basic Data Structures
 
-1. Use an Array to Store a Collection of Data
-2. Access an Array's Contents Using Bracket Notation
-3. Add Items to an Array with push() and unshift()
-4. Remove Items from an Array with pop() and shift()
-5. Remove Items Using splice()
-6. Add Items Using splice()
-7. Copy Array Items Using slice()
-8. Copy an Array with the Spread Operator
-9. Combine Arrays with the Spread Operator
-10. Check For The Presence of an Element With indexOf()
-11. Iterate Through All an Array's Items Using For Loops
-12. Create complex multi-dimensional arrays
-13. Add Key-Value Pairs to JavaScript Objects
-14. Modify an Object Nested Within an Object
-15. Access Property Names with Bracket Notation
-16. Use the delete Keyword to Remove Object Properties
-17. Check if an Object has a Property
-18. Iterate Through the Keys of an Object with a for...in Statement
-19. Generate an Array of All Object Keys with Object.keys()
-20. Modify an Array Stored in an Object
+1. Use an Array to Store a Collection of Data [001_use-an-array-to-store-a-collection-of-data.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/013_BasicDataStructures/001_use-an-array-to-store-a-collection-of-data.txt)
+2. Access an Array's Contents Using Bracket Notation [002_access-an-arrays-contents-using-bracket-notation.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/013_BasicDataStructures/002_access-an-arrays-contents-using-bracket-notation.txt)
+3. Add Items to an Array with push() and unshift() [003_add-items-to-an-array-with-push-and-unshift.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/013_BasicDataStructures/003_add-items-to-an-array-with-push-and-unshift.txt)
+4. Remove Items from an Array with pop() and shift() [004_remove-items-from-an-array-with-pop-and-shift.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/013_BasicDataStructures/004_remove-items-from-an-array-with-pop-and-shift.txt)
+5. Remove Items Using splice() [005_remove-items-using-splice.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/013_BasicDataStructures/005_remove-items-using-splice.txt)
+6. Add Items Using splice() [006_add-items-using-splice.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/013_BasicDataStructures/006_add-items-using-splice.txt)
+7. Copy Array Items Using slice() [007_copy-array-items-using-slice.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/013_BasicDataStructures/007_copy-array-items-using-slice.txt)
+8. Copy an Array with the Spread Operator [008_copy-an-array-with-the-spread-operator.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/013_BasicDataStructures/008_copy-an-array-with-the-spread-operator.txt)
+9. Combine Arrays with the Spread Operator [009_combine-arrays-with-the-spread-operator.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/013_BasicDataStructures/009_combine-arrays-with-the-spread-operator.txt)
+10. Check For The Presence of an Element With indexOf() [010_check-for-the-presence-of-an-element-with-indexof.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/013_BasicDataStructures/010_check-for-the-presence-of-an-element-with-indexof.txt)
+11. Iterate Through All an Array's Items Using For Loops [011_iterate-through-all-an-arrays-items-using-for-loops.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/013_BasicDataStructures/011_iterate-through-all-an-arrays-items-using-for-loops.txt)
+12. Create complex multi-dimensional arrays [012_create-complex-multi-dimensional-arrays.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/013_BasicDataStructures/012_create-complex-multi-dimensional-arrays.txt)
+13. Add Key-Value Pairs to JavaScript Objects [013_add-key-value-pairs-to-javascript-objects.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/013_BasicDataStructures/013_add-key-value-pairs-to-javascript-objects.txt)
+14. Modify an Object Nested Within an Object [014_modify-an-object-nested-within-an-object.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/013_BasicDataStructures/014_modify-an-object-nested-within-an-object.txt)
+15. Access Property Names with Bracket Notation [015_access-property-names-with-bracket-notation.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/013_BasicDataStructures/015_access-property-names-with-bracket-notation.txt)
+16. Use the delete Keyword to Remove Object Properties [016_use-the-delete-keyword-to-remove-object-properties.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/013_BasicDataStructures/016_use-the-delete-keyword-to-remove-object-properties.txt)
+17. Check if an Object has a Property [017_check-if-an-object-has-a-property.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/013_BasicDataStructures/017_check-if-an-object-has-a-property.txt)
+18. Iterate Through the Keys of an Object with a for...in Statement [018_iterate-through-the-keys-of-an-object-with-a-for...in-statement.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/013_BasicDataStructures/018_iterate-through-the-keys-of-an-object-with-a-for...in-statement.txt)
+19. Generate an Array of All Object Keys with Object.keys() [019_generate-an-array-of-all-object-keys-with-object.keys.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/013_BasicDataStructures/019_generate-an-array-of-all-object-keys-with-object.keys.txt)
+20. Modify an Array Stored in an Object [020_modify-an-array-stored-in-an-object.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/013_BasicDataStructures/020_modify-an-array-stored-in-an-object.txt)
 
 #### Basic Algorithm Scripting
 
-1. Convert Celsius to Fahrenheit
-2. Reverse a String
-3. Factorialize a Number
-4. Find the Longest Word in a String
-5. Return Largest Numbers in Arrays
-6. Confirm the Ending
-7. Repeat a String Repeat a String
-8. Truncate a String
-9. Finders Keepers
-10. Boo who
-11. Title Case a Sentence
-12. Slice and Splice
-13. Falsy Bouncer
-14. Where do I Belong
-15. Mutations
-16. Chunky Monkey
+1. Convert Celsius to Fahrenheit [001_convert-celsius-to-fahrenheit.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/014_BasicAlgorithmScripting/001_convert-celsius-to-fahrenheit.txt)
+2. Reverse a String [002_reverse-a-string.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/014_BasicAlgorithmScripting/002_reverse-a-string.txt)
+3. Factorialize a Number [003_factorialize-a-number.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/014_BasicAlgorithmScripting/003_factorialize-a-number.txt)
+4. Find the Longest Word in a String [004_find-the-longest-word-in-a-string.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/014_BasicAlgorithmScripting/004_find-the-longest-word-in-a-string.txt)
+5. Return Largest Numbers in Arrays [005_return-largest-numbers-in-arrays.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/014_BasicAlgorithmScripting/005_return-largest-numbers-in-arrays.txt)
+6. Confirm the Ending [006_confirm-the-ending.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/014_BasicAlgorithmScripting/006_confirm-the-ending.txt)
+7. Repeat a String Repeat a String [007_repeat-a-string-repeat-a-string.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/014_BasicAlgorithmScripting/007_repeat-a-string-repeat-a-string.txt)
+8. Truncate a String [008_truncate-a-string.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/014_BasicAlgorithmScripting/008_truncate-a-string.txt)
+9. Finders Keepers [009_finders-keepers.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/014_BasicAlgorithmScripting/009_finders-keepers.txt)
+10. Boo who [010_boo-who.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/014_BasicAlgorithmScripting/010_boo-who.txt)
+11. Title Case a Sentence [011_title-case-a-sentence.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/014_BasicAlgorithmScripting/011_title-case-a-sentence.txt)
+12. Slice and Splice [012_slice-and-splice.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/014_BasicAlgorithmScripting/012_slice-and-splice.txt)
+13. Falsy Bouncer [013_falsy-bouncer.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/014_BasicAlgorithmScripting/013_falsy-bouncer.txt)
+14. Where do I Belong [014_where-do-i-belong.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/014_BasicAlgorithmScripting/014_where-do-i-belong.txt)
+15. Mutations [015_mutations.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/014_BasicAlgorithmScripting/015_mutations.txt)
+16. Chunky Monkey [016_chunky-monkey.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/014_BasicAlgorithmScripting/016_chunky-monkey.txt)
 
 #### Object Oriented Programming
 
-1. Create a Basic JavaScript Object
-2. Use Dot Notation to Access the Properties of an Object
-3. Create a Method on an Object
-4. Make Code More Reusable with the this Keyword
-5. Define a Constructor Function
-6. Use a Constructor to Create Objects
-7. Extend Constructors to Receive Arguments
-8. Verify an Object's Constructor with instanceof
-9. Understand Own Properties
-10. Use Prototype Properties to Reduce Duplicate Code
-11. Iterate Over All Properties
-12. Understand the Constructor Property
-13. Change the Prototype to a New Object
-14. Remember to Set the Constructor Property when Changing the Prototype
-15. Understand Where an Object’s Prototype Comes From
-16. Understand the Prototype Chain
-17. Use Inheritance So You Don't Repeat Yourself
-18. Inherit Behaviors from a Supertype
-19. Set the Child's Prototype to an Instance of the Parent
-20. Reset an Inherited Constructor Property
-21. Add Methods After Inheritance
-22. Override Inherited Methods
-23. Use a Mixin to Add Common Behavior Between Unrelated Objects
-24. Use Closure to Protect Properties Within an Object from Being Modified Externally
-25. Understand the Immediately Invoked Function Expression (IIFE)
-26. Use an IIFE to Create a Module
+1. Create a Basic JavaScript Object [001_create-a-basic-javascript-object.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/001_create-a-basic-javascript-object.txt)
+2. Use Dot Notation to Access the Properties of an Object [002_use-dot-notation-to-access-the-properties-of-an-object.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/002_use-dot-notation-to-access-the-properties-of-an-object.txt)
+3. Create a Method on an Object [003_create-a-method-on-an-object.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/003_create-a-method-on-an-object.txt)
+4. Make Code More Reusable with the this Keyword [004_make-code-more-reusable-with-the-this-keyword.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/004_make-code-more-reusable-with-the-this-keyword.txt)
+5. Define a Constructor Function [005_define-a-constructor-function.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/005_define-a-constructor-function.txt)
+6. Use a Constructor to Create Objects [006_use-a-constructor-to-create-objects.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/006_use-a-constructor-to-create-objects.txt)
+7. Extend Constructors to Receive Arguments [007_extend-constructors-to-receive-arguments.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/007_extend-constructors-to-receive-arguments.txt)
+8. Verify an Object's Constructor with instanceof [008_verify-an-objects-constructor-with-instanceof.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/008_verify-an-objects-constructor-with-instanceof.txt)
+9. Understand Own Properties [009_understand-own-properties.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/009_understand-own-properties.txt)
+10. Use Prototype Properties to Reduce Duplicate Code [010_use-prototype-properties-to-reduce-duplicate-code.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/010_use-prototype-properties-to-reduce-duplicate-code.txt)
+11. Iterate Over All Properties [011_iterate-over-all-properties.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/011_iterate-over-all-properties.txt)
+12. Understand the Constructor Property [012_understand-the-constructor-property.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/012_understand-the-constructor-property.txt)
+13. Change the Prototype to a New Object [013_change-the-prototype-to-a-new-object.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/013_change-the-prototype-to-a-new-object.txt)
+14. Remember to Set the Constructor Property when Changing the Prototype [014_remember-to-set-the-constructor-property-when-changing-the-prototype.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/014_remember-to-set-the-constructor-property-when-changing-the-prototype.txt)
+15. Understand Where an Object’s Prototype Comes From [015_understand-where-an-objects-prototype-comes-from.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/015_understand-where-an-objects-prototype-comes-from.txt)
+16. Understand the Prototype Chain [016_understand-the-prototype-chain.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/016_understand-the-prototype-chain.txt)
+17. Use Inheritance So You Don't Repeat Yourself [017_use-inheritance-so-you-dont-repeat-yourself.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/017_use-inheritance-so-you-dont-repeat-yourself.txt)
+18. Inherit Behaviors from a Supertype [018_inherit-behaviors-from-a-supertype.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/018_inherit-behaviors-from-a-supertype.txt)
+19. Set the Child's Prototype to an Instance of the Parent [019_set-the-childs-prototype-to-an-instance-of-the-parent.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/019_set-the-childs-prototype-to-an-instance-of-the-parent.txt)
+20. Reset an Inherited Constructor Property [020_reset-an-inherited-constructor-property.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/020_reset-an-inherited-constructor-property.txt)
+21. Add Methods After Inheritance [021_add-methods-after-inheritance.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/021_add-methods-after-inheritance.txt)
+22. Override Inherited Methods [022_override-inherited-methods.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/022_override-inherited-methods.txt)
+23. Use a Mixin to Add Common Behavior Between Unrelated Objects [023_use-a-mixin-to-add-common-behavior-between-unrelated-objects.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/023_use-a-mixin-to-add-common-behavior-between-unrelated-objects.txt)
+24. Use Closure to Protect Properties Within an Object from Being Modified Externally [024_use-closure-to-protect-properties-within-an-object-from-being-modified-externally.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/024_use-closure-to-protect-properties-within-an-object-from-being-modified-externally.txt)
+25. Understand the Immediately Invoked Function Expression (IIFE) [025_understand-the-immediately-invoked-function-expression-iife.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/025_understand-the-immediately-invoked-function-expression-iife.txt)
+26. Use an IIFE to Create a Module [026_use-an-iife-to-create-a-module.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/015_ObjectOrientedProgramming/026_use-an-iife-to-create-a-module.txt)
 
 #### Functional Programming
 
-1. Learn About Functional Programming
-2. Understand Functional Programming Terminology
-3. Understand the Hazards of Using Imperative Code
-4. Avoid Mutations and Side Effects Using Functional Programming
-5. Pass Arguments to Avoid External Dependence in a Function
-6. Refactor Global Variables Out of Functions
-7. Use the map Method to Extract Data from an Array
-8. Implement map on a Prototype
-9. Use the filter Method to Extract Data from an Array
-10. Implement the filter Method on a Prototype
-11. Return Part of an Array Using the slice Method
-12. Remove Elements from an Array Using slice Instead of splice
-13. Combine Two Arrays Using the concat Method
-14. Add Elements to the End of an Array Using concat Instead of push
-15. Use the reduce Method to Analyze Data
-16. Use Higher-Order Functions map, filter, or reduce to Solve a Complex Problem
-17. Sort an Array Alphabetically using the sort Method
-18. Return a Sorted Array Without Changing the Original Array
-19. Split a String into an Array Using the split Method
-20. Combine an Array into a String Using the join Method
-21. Apply Functional Programming to Convert Strings to URL Slugs
-22. Use the every Method to Check that Every Element in an Array Meets a Criteria
-23. Use the some Method to Check that Any Elements in an Array Meet a Criteria
-24. Introduction to Currying and Partial Application
+1. Learn About Functional Programming [001_learn-about-functional-programming.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/001_learn-about-functional-programming.txt)
+2. Understand Functional Programming Terminology [002_understand-functional-programming-terminology.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/002_understand-functional-programming-terminology.txt)
+3. Understand the Hazards of Using Imperative Code [003_understand-the-hazards-of-using-imperative-code.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/003_understand-the-hazards-of-using-imperative-code.txt)
+4. Avoid Mutations and Side Effects Using Functional Programming [004_avoid-mutations-and-side-effects-using-functional-programming.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/004_avoid-mutations-and-side-effects-using-functional-programming.txt)
+5. Pass Arguments to Avoid External Dependence in a Function [005_pass-arguments-to-avoid-external-dependence-in-a-function.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/005_pass-arguments-to-avoid-external-dependence-in-a-function.txt)
+6. Refactor Global Variables Out of Functions [006_refactor-global-variables-out-of-functions.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/006_refactor-global-variables-out-of-functions.txt)
+7. Use the map Method to Extract Data from an Array [007_use-the-map-method-to-extract-data-from-an-array.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/007_use-the-map-method-to-extract-data-from-an-array.txt)
+8. Implement map on a Prototype [008_implement-map-on-a-prototype.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/008_implement-map-on-a-prototype.txt)
+9. Use the filter Method to Extract Data from an Array [009_use-the-filter-method-to-extract-data-from-an-array.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/009_use-the-filter-method-to-extract-data-from-an-array.txt)
+10. Implement the filter Method on a Prototype [010_implement-the-filter-method-on-a-prototype.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/010_implement-the-filter-method-on-a-prototype.txt)
+11. Return Part of an Array Using the slice Method [011_return-part-of-an-array-using-the-slice-method.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/011_return-part-of-an-array-using-the-slice-method.txt)
+12. Remove Elements from an Array Using slice Instead of splice [012_remove-elements-from-an-array-using-slice-instead-of-splice.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/012_remove-elements-from-an-array-using-slice-instead-of-splice.txt)
+13. Combine Two Arrays Using the concat Method [013_combine-two-arrays-using-the-concat-method.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/013_combine-two-arrays-using-the-concat-method.txt)
+14. Add Elements to the End of an Array Using concat Instead of push [014_add-elements-to-the-end-of-an-array-using-concat-instead-of-push.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/014_add-elements-to-the-end-of-an-array-using-concat-instead-of-push.txt)
+15. Use the reduce Method to Analyze Data [015_use-the-reduce-method-to-analyze-data.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/015_use-the-reduce-method-to-analyze-data.txt)
+16. Use Higher-Order Functions map, filter, or reduce to Solve a Complex Problem [016_use-higher-order-functions-map-filter-or-reduce-to-solve-a-complex-problem.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/016_use-higher-order-functions-map-filter-or-reduce-to-solve-a-complex-problem.txt)
+17. Sort an Array Alphabetically using the sort Method [017_sort-an-array-alphabetically-using-the-sort-method.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/017_sort-an-array-alphabetically-using-the-sort-method.txt)
+18. Return a Sorted Array Without Changing the Original Array [018_return-a-sorted-array-without-changing-the-original-array.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/018_return-a-sorted-array-without-changing-the-original-array.txt)
+19. Split a String into an Array Using the split Method [019_split-a-string-into-an-array-using-the-split-method.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/019_split-a-string-into-an-array-using-the-split-method.txt)
+20. Combine an Array into a String Using the join Method [020_combine-an-array-into-a-string-using-the-join-method.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/020_combine-an-array-into-a-string-using-the-join-method.txt)
+21. Apply Functional Programming to Convert Strings to URL Slugs [021_apply-functional-programming-to-convert-strings-to-url-slugs.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/021_apply-functional-programming-to-convert-strings-to-url-slugs.txt)
+22. Use the every Method to Check that Every Element in an Array Meets a Criteria [022_use-the-every-method-to-check-that-every-element-in-an-array-meets-a-criteria.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/022_use-the-every-method-to-check-that-every-element-in-an-array-meets-a-criteria.txt)
+23. Use the some Method to Check that Any Elements in an Array Meet a Criteria [023_use-the-some-method-to-check-that-any-elements-in-an-array-meet-a-criteria.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/023_use-the-some-method-to-check-that-any-elements-in-an-array-meet-a-criteria.txt)
+24. Introduction to Currying and Partial Application [024_introduction-to-currying-and-partial-application.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/016_FunctionalProgramming/024_introduction-to-currying-and-partial-application.txt)
 
 #### Intermediate Algorithm Scripting
 
-1. Sum All Numbers in a Range
-2. Diff Two Arrays
-3. Seek and Destroy
-4. Wherefore art thou
-5. Spinal Tap Case
-6. Pig Latin
-7. Search and Replace
-8. DNA Pairing
-9. Missing letters
-10. Sorted Union
-11. Convert HTML Entities
-12. Sum All Odd Fibonacci Numbers
-13. Sum All Primes
-14. Smallest Common Multiple
-15. Drop it
-16. Steamroller
-17. Binary Agents
-18. Everything Be True
-19. Arguments Optional
-20. Make a Person
-21. Map the Debris
+1. Sum All Numbers in a Range [001_sum-all-numbers-in-a-range.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/001_sum-all-numbers-in-a-range.txt)
+2. Diff Two Arrays [002_diff-two-arrays.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/002_diff-two-arrays.txt)
+3. Seek and Destroy [003_seek-and-destroy.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/003_seek-and-destroy.txt)
+4. Wherefore art thou [004_wherefore-art-thou.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/004_wherefore-art-thou.txt)
+5. Spinal Tap Case [005_spinal-tap-case.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/005_spinal-tap-case.txt)
+6. Pig Latin [006_pig-latin.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/006_pig-latin.txt)
+7. Search and Replace [007_search-and-replace.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/007_search-and-replace.txt)
+8. DNA Pairing [008_dna-pairing.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/008_dna-pairing.txt)
+9. Missing letters [009_missing-letters.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/009_missing-letters.txt)
+10. Sorted Union [010_sorted-union.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/010_sorted-union.txt)
+11. Convert HTML Entities [011_convert-html-entities.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/011_convert-html-entities.txt)
+12. Sum All Odd Fibonacci Numbers [012_sum-all-odd-fibonacci-numbers.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/012_sum-all-odd-fibonacci-numbers.txt)
+13. Sum All Primes [013_sum-all-primes.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/013_sum-all-primes.txt)
+14. Smallest Common Multiple [014_smallest-common-multiple.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/014_smallest-common-multiple.txt)
+15. Drop it [015_drop-it.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/015_drop-it.txt)
+16. Steamroller [016_steamroller.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/016_steamroller.txt)
+17. Binary Agents [017_binary-agents.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/017_binary-agents.txt)
+18. Everything Be True [018_everything-be-true.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/018_everything-be-true.txt)
+19. Arguments Optional [019_arguments-optional.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/019_arguments-optional.txt)
+20. Make a Person [020_make-a-person.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/020_make-a-person.txt)
+21. Map the Debris [021_map-the-debris.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/017_IntermediateAlgorithmScripting/021_map-the-debris.txt)
 
 #### JavaScript Algorithms and Data Structures Projects
+
+[](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/018_JavascriptAlgorithmsAndDataStructuresProjects/)
+
 
 1. Palindrome Checker
 2. Roman Numeral Converter
