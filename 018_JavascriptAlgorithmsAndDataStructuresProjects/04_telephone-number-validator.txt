@@ -1,0 +1,33 @@
+function telephoneCheck(str) {
+  // Optional Country Code with optional space
+  // area code with optional parentheses or dashes
+  // Prefix + Suffix with optional dashes
+  return /^(1\s?)?(\(\d{3}\)|\d{3})[\s\-]?\d{3}[\s\-]?\d{4}$/.test(str);
+}
+
+assert(telephoneCheck("1 555-555-5555") == true);
+assert(telephoneCheck("1 (555) 555-5555") == true);
+assert(telephoneCheck("5555555555") == true);
+assert(telephoneCheck("555-555-5555") == true);
+assert(telephoneCheck("(555)555-5555") == true);
+assert(telephoneCheck("1(555)555-5555") == true);
+assert(telephoneCheck("555-5555") == false);
+assert(telephoneCheck("5555555") == false);
+assert(telephoneCheck("1 555)555-5555") == false);
+assert(telephoneCheck("1 555 555 5555") == true);
+assert(telephoneCheck("1 456 789 4444") == true);
+assert(telephoneCheck("123**&!!asdf#") == false);
+assert(telephoneCheck("55555555") == false);
+assert(telephoneCheck("(6054756961)") == false);
+assert(telephoneCheck("2 (757) 622-7382") == false);
+assert(telephoneCheck("0 (757) 622-7382") == false);
+assert(telephoneCheck("-1 (757) 622-7382")  == false);
+assert(telephoneCheck("2 757 622-7382") == false);
+assert(telephoneCheck("10 (757) 622-7382") == false);
+assert(telephoneCheck("27576227382") == false);
+assert(telephoneCheck("(275)76227382") == false);
+assert(telephoneCheck("2(757)6227382") == false);
+assert(telephoneCheck("2(757)622-7382") == false);
+assert(telephoneCheck("555)-555-5555") == false);
+assert(telephoneCheck("(555-555-5555") == false);
+assert(telephoneCheck("(555)5(55?)-5555") == false);

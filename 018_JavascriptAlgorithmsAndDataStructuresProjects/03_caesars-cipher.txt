@@ -1,0 +1,31 @@
+function rot13(str) {
+
+  let chars = str.split("");
+  let mapping = chars.map((char) => {
+
+    let cCode = char.charCodeAt(0);
+    
+    if (cCode < 65 || cCode > 90) {
+
+      // we only care about A-Z
+      return String.fromCharCode(cCode);
+
+    } else if (cCode < 78) {
+      
+      // if its < N shift it 13 to the right
+      return String.fromCharCode(cCode + 13);
+    }
+
+    // otherwise shift it 13 to the left.
+    return String.fromCharCode(cCode - 13);
+  });
+
+  return mapping.join("");
+}
+
+// Change the inputs below to test
+assert(rot13("SERR PBQR PNZC") == "FREE CODE CAMP");
+assert(rot13("SERR CVMMN!") == "FREE PIZZA!"); 
+assert(rot13("SERR YBIR?") == "FREE LOVE?");
+assert(rot13("GUR DHVPX OEBJA SBK WHZCF BIRE GUR YNML QBT.") == "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.");
+

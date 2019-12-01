@@ -1,0 +1,51 @@
+function convertToRoman(num) {
+  // the decimal values
+  let decimalValue = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1];
+  
+  // ... and their roman numeral equivalents
+  let romanNumeral = [ "M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I" ];
+
+  let result = "";
+  let decValueLen = decimalValue.length;
+
+  for (let index = 0; index < decValueLen; index++) {
+    while (decimalValue[index] <= num) {
+
+      // add to the roman number
+      result += romanNumeral[index];
+      
+      // decrement the original # by the decimal value
+      num -= decimalValue[index];
+    }
+  }
+
+  return result;
+}
+
+assert(convertToRoman(2) == "II");
+assert(convertToRoman(3) == "III");
+assert(convertToRoman(4) == "IV");
+assert(convertToRoman(5) == "V");
+assert(convertToRoman(9) == "IX");
+assert(convertToRoman(12) == "XII");
+assert(convertToRoman(16) == "XVI");
+assert(convertToRoman(29) == "XXIX");
+assert(convertToRoman(44) == "XLIV");
+assert(convertToRoman(45) == "XLV");
+assert(convertToRoman(68) == "LXVIII");
+assert(convertToRoman(83) == "LXXXIII");
+assert(convertToRoman(97) == "XCVII");
+assert(convertToRoman(99) == "XCIX");
+assert(convertToRoman(400) == "CD");
+assert(convertToRoman(500) == "D");
+assert(convertToRoman(501) == "DI");
+assert(convertToRoman(649) == "DCXLIX");
+assert(convertToRoman(798) == "DCCXCVIII");
+assert(convertToRoman(891) == "DCCCXCI");
+assert(convertToRoman(1000) == "M");
+assert(convertToRoman(1004) == "MIV");
+assert(convertToRoman(1006) == "MVI");
+assert(convertToRoman(1023) == "MXXIII");
+assert(convertToRoman(2014) == "MMXIV");
+assert(convertToRoman(3999) == "MMMCMXCIX");
+

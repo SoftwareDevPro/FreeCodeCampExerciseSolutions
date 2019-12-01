@@ -1,0 +1,142 @@
+// the denominations and their values
+let denominations = [
+  { name: "ONE HUNDRED", val: 100.0 },
+  { name: "TWENTY", val: 20.0 },
+  { name: "TEN", val: 10.0 },
+  { name: "FIVE", val: 5.0 },
+  { name: "ONE", val: 1.0 },
+  { name: "QUARTER", val: 0.25 },
+  { name: "DIME", val: 0.1 },
+  { name: "NICKEL", val: 0.05 },
+  { name: "PENNY", val: 0.01 }
+];
+
+// Take the cash in the drawer, and add it all all up, and
+// add a total field.
+function getCashDrawerObject(cashInDrawer) {
+  return cashInDrawer.reduce(function(accumulator, current) {
+      accumulator.total += current[1];
+      accumulator[current[0]] = current[1];
+      return accumulator;
+    },
+    { total: 0 }
+  )
+}
+
+function checkCashRegister(price, cash, cashInDrawer) {
+
+  // Determine the change required.
+  let change = cash - price;
+
+  // Transform cashInDrawer array into an object
+  // which has the total as well.
+  let register = getCashDrawerObject(cashInDrawer);
+
+  //  Exact change, we're done
+  if (register.total === change) {
+    return { status: 'CLOSED', change: cashInDrawer };
+  }
+  // Handle insufficient funds, can't complete transaction.
+  if (register.total < change) {
+    return { status: 'INSUFFICIENT_FUNDS', change: [] };
+  }
+
+  // Reduce again, determining the change to return
+  // using the denominations.
+  let change_arr = denominations.reduce(function(accumulator, current) {
+    
+    // the value of the change in the current denomination.
+    let value = 0;
+
+    while (register[current.name] > 0 && change >= current.val) {
+      
+      // Subtract out the current value based on what
+      // the denominatiomn value is.
+      change -= current.val;
+
+      // Subtract out the current value from what we have
+      // in the register.
+      register[current.name] -= current.val;
+
+      // Add the amount of the current denomination to value
+      // returned.
+      value += current.val;
+
+      // Round out the change to deal with precision errors.
+      change = Math.round(change * 100) / 100;
+    }
+
+    // if we determined an amount, then add it to the return
+    // denominations array.
+    if (value > 0) {
+      accumulator.push([current.name, value]);
+    }
+    
+    return accumulator;
+
+  // Note: we start with an empty array of denominations to return.
+  }, []);
+
+  // Can't fulfill transaction with our cash drawer.
+  if (change_arr.length < 1 || change > 0) {
+    return { status: "INSUFFICIENT_FUNDS", change: [] };
+  }
+  return { status: "OPEN", change: change_arr };
+}
+
+let obj;
+
+obj = checkCashRegister(19.5, 20, [["PENNY", 1.01], ["NICKEL", 2.05], ["DIME", 3.1], ["QUARTER", 4.25], ["ONE", 90], ["FIVE", 55], ["TEN", 20], ["TWENTY", 60], ["ONE HUNDRED", 100]]);
+assert(obj.status == "OPEN");
+assert(obj.change.length == 1);
+assert(obj.change[0][0] == "QUARTER");
+assert(obj.change[0][1] == 0.5);
+
+obj = checkCashRegister(3.26, 100, [["PENNY", 1.01], ["NICKEL", 2.05], ["DIME", 3.1], ["QUARTER", 4.25], ["ONE", 90], ["FIVE", 55], ["TEN", 20], ["TWENTY", 60], ["ONE HUNDRED", 100]]);
+assert(obj.status == "OPEN");
+assert(obj.change.length == 7);
+assert(obj.change[0][0] == "TWENTY");
+assert(obj.change[0][1] == 60);
+assert(obj.change[1][0] == "TEN");
+assert(obj.change[1][1] == 20);
+assert(obj.change[2][0] == "FIVE");
+assert(obj.change[2][1] == 15);
+assert(obj.change[3][0] == "ONE");
+assert(obj.change[3][1] == 1);
+assert(obj.change[4][0] == "QUARTER");
+assert(obj.change[4][1] == 0.5);
+assert(obj.change[5][0] == "DIME");
+assert(obj.change[5][1] == 0.2);
+assert(obj.change[6][0] == "PENNY");
+assert(obj.change[6][1] == 0.04);
+
+obj = checkCashRegister(19.5, 20, [["PENNY", 0.01], ["NICKEL", 0], ["DIME", 0], ["QUARTER", 0], ["ONE", 0], ["FIVE", 0], ["TEN", 0], ["TWENTY", 0], ["ONE HUNDRED", 0]]);
+assert(obj.status == "INSUFFICIENT_FUNDS");
+assert(obj.change.length == 0);
+
+obj = checkCashRegister(19.5, 20, [["PENNY", 0.01], ["NICKEL", 0], ["DIME", 0], ["QUARTER", 0], ["ONE", 1], ["FIVE", 0], ["TEN", 0], ["TWENTY", 0], ["ONE HUNDRED", 0]]);
+assert(obj.status == "INSUFFICIENT_FUNDS");
+assert(obj.change.length == 0);
+
+obj = checkCashRegister(19.5, 20, [["PENNY", 0.5], ["NICKEL", 0], ["DIME", 0], ["QUARTER", 0], ["ONE", 0], ["FIVE", 0], ["TEN", 0], ["TWENTY", 0], ["ONE HUNDRED", 0]]);
+assert(obj.status == "CLOSED");
+assert(obj.change.length == 9);
+assert(obj.change[0][0] == "PENNY");
+assert(obj.change[0][1] == 0.5);
+assert(obj.change[1][0] == "NICKEL");
+assert(obj.change[1][1] == 0);
+assert(obj.change[2][0] == "DIME");
+assert(obj.change[2][1] == 0);
+assert(obj.change[3][0] == "QUARTER");
+assert(obj.change[3][1] == 0);
+assert(obj.change[4][0] == "ONE");
+assert(obj.change[4][1] == 0);
+assert(obj.change[5][0] == "FIVE");
+assert(obj.change[5][1] == 0);
+assert(obj.change[6][0] == "TEN");
+assert(obj.change[6][1] == 0);
+assert(obj.change[7][0] == "TWENTY");
+assert(obj.change[7][1] == 0);
+assert(obj.change[8][0] == "ONE HUNDRED");
+assert(obj.change[8][1] == 0);
+
