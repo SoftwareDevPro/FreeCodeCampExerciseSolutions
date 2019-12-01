@@ -1,0 +1,16 @@
+<style type='text/sass'>
+  $colors: (blue-bg: blue, black-bg: black, red-bg: red);
+  @each $key, $color in $colors {
+    .#{$key} { background-color: $color; }
+  } 
+
+
+  div {
+    height: 200px;
+    width: 200px;
+  }
+</style>
+
+<div class="blue-bg"></div>
+<div class="black-bg"></div>
+<div class="red-bg"></div>
