@@ -565,140 +565,141 @@
 
 #### Bootstrap
 
-1. Use Responsive Design with Bootstrap Fluid Containers
-2. Make Images Mobile Responsive
-3. Center Text with Bootstrap
-4. Create a Bootstrap Button
-5. Create a Block Element Bootstrap Button
-6. Taste the Bootstrap Button Color Rainbow
-7. Call out Optional Actions with btn-info
-8. Warn Your Users of a Dangerous Action with btn-danger
-9. Use the Bootstrap Grid to Put Elements Side By Side
-10. Ditch Custom CSS for Bootstrap
-11. Use a span to Target Inline Elements
-12. Create a Custom Heading
-13. Add Font Awesome Icons to our Buttons
-14. Add Font Awesome Icons to all of our Buttons
-15. Responsively Style Radio Buttons
-16. Responsively Style Checkboxes
-17. Style Text Inputs as Form Controls
-18. Line up Form Elements Responsively with Bootstrap
-19. Create a Bootstrap Headline
-20. House our page within a Bootstrap container-fluid div
-21. Create a Bootstrap Row
-22. Split Your Bootstrap Row
-23. Create Bootstrap Wells
-24. Add Elements within Your Bootstrap Wells
-25. Apply the Default Bootstrap Button Style
-26. Create a Class to Target with jQuery Selectors
-27. Add id Attributes to Bootstrap Elements
-28. Label Bootstrap Wells
-29. Give Each Element a Unique id
-30. Label Bootstrap Buttons
-31. Use Comments to Clarify Code
+1. Use Responsive Design with Bootstrap Fluid Containers [001_use-responsive-design-with-bootstrap-fluid-containers.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/001_use-responsive-design-with-bootstrap-fluid-containers.txt)
+2. Make Images Mobile Responsive [002_make-images-mobile-responsive.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/002_make-images-mobile-responsive.txt)
+3. Center Text with Bootstrap [003_center-text-with-bootstrap.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/003_center-text-with-bootstrap.txt)
+4. Create a Bootstrap Button [004_create-a-bootstrap-button.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/004_create-a-bootstrap-button.txt)
+5. Create a Block Element Bootstrap Button [005_create-a-block-element-bootstrap-button.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/005_create-a-block-element-bootstrap-button.txt)
+6. Taste the Bootstrap Button Color Rainbow [006_taste-the-bootstrap-button-color-rainbow.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/006_taste-the-bootstrap-button-color-rainbow.txt)
+7. Call out Optional Actions with btn-info [007_call-out-optional-actions-with-btn-info.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/007_call-out-optional-actions-with-btn-info.txt)
+8. Warn Your Users of a Dangerous Action with btn-danger [008_warn-your-users-of-a-dangerous-action-with-btn-danger.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/008_warn-your-users-of-a-dangerous-action-with-btn-danger.txt)
+9. Use the Bootstrap Grid to Put Elements Side By Side [009_use-the-bootstrap-grid-to-put-elements-side-by-side.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/009_use-the-bootstrap-grid-to-put-elements-side-by-side.txt)
+10. Ditch Custom CSS for Bootstrap [010_ditch-custom-css-for-bootstrap.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/010_ditch-custom-css-for-bootstrap.txt)
+11. Use a span to Target Inline Elements [011_use-a-span-to-target-inline-elements.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/011_use-a-span-to-target-inline-elements.txt)
+12. Create a Custom Heading [012_create-a-custom-heading.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/012_create-a-custom-heading.txt)
+13. Add Font Awesome Icons to our Buttons [013_add-font-awesome-icons-to-our-buttons.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/013_add-font-awesome-icons-to-our-buttons.txt)
+14. Add Font Awesome Icons to all of our Buttons [014_add-font-awesome-icons-to-all-of-our-buttons.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/014_add-font-awesome-icons-to-all-of-our-buttons.txt)
+15. Responsively Style Radio Buttons [015_responsively-style-radio-buttons.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/015_responsively-style-radio-buttons.txt)
+16. Responsively Style Checkboxes [016_responsively-style-checkboxes.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/016_responsively-style-checkboxes.txt)
+17. Style Text Inputs as Form Controls [017_style-text-inputs-as-form-controls.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/017_style-text-inputs-as-form-controls.txt)
+18. Line up Form Elements Responsively with Bootstrap [018_line-up-form-elements-responsively-with-bootstrap.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/018_line-up-form-elements-responsively-with-bootstrap.txt)
+19. Create a Bootstrap Headline [019_create-a-bootstrap-headline.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/019_create-a-bootstrap-headline.txt)
+20. House our page within a Bootstrap container-fluid div [020_house-our-page-within-a-bootstrap-container-fluid-div.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/020_house-our-page-within-a-bootstrap-container-fluid-div.txt)
+21. Create a Bootstrap Row [021_create-a-bootstrap-row.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/021_create-a-bootstrap-row.txt)
+22. Split Your Bootstrap Row [022_split-your-bootstrap-row.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/022_split-your-bootstrap-row.txt)
+23. Create Bootstrap Wells [023_create-bootstrap-wells.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/023_create-bootstrap-wells.txt)
+24. Add Elements within Your Bootstrap Wells [024_add-elements-within-your-bootstrap-wells.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/024_add-elements-within-your-bootstrap-wells.txt)
+25. Apply the Default Bootstrap Button Style [025_apply-the-default-bootstrap-button-style.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/025_apply-the-default-bootstrap-button-style.txt)
+26. Create a Class to Target with jQuery Selectors [026_create-a-class-to-target-with-jquery-selectors.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/026_create-a-class-to-target-with-jquery-selectors.txt)
+27. Add id Attributes to Bootstrap Elements [027_add-id-attributes-to-bootstrap-elements.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/027_add-id-attributes-to-bootstrap-elements.txt)
+28. Label Bootstrap Wells [028_label-bootstrap-wells.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/028_label-bootstrap-wells.txt)
+29. Give Each Element a Unique id [029_give-each-element-a-unique-id.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/029_give-each-element-a-unique-id.txt)
+30. Label Bootstrap Buttons [030_label-bootstrap-buttons.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/030_label-bootstrap-buttons.txt)
+31. Use Comments to Clarify Code [031_use-comments-to-clarify-code.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/019_Bootstrap/031_use-comments-to-clarify-code.txt)
 
 #### jQuery
 
-1. Learn How Script Tags and Document Ready Work
-2. Target HTML Elements with Selectors Using jQuery
-3. Target Elements by Class Using jQuery
-4. Target Elements by id Using jQuery
-5. Delete Your jQuery Functions
-6. Target the Same Element with Multiple jQuery Selectors
-7. Remove Classes from an Element with jQuery
-8. Change the CSS of an Element Using jQuery
-9. Disable an Element Using jQuery
-10. Change Text Inside an Element Using jQuery
-11. Remove an Element Using jQuery
-12. Use appendTo to Move Elements with jQuery
-13. Clone an Element Using jQuery
-14. Target the Parent of an Element Using jQuery
-15. Target the Children of an Element Using jQuery
-16. Target a Specific Child of an Element Using jQuery
-17. Target Even Elements Using jQuery
-18. Use jQuery to Modify the Entire Page
+1. Learn How Script Tags and Document Ready Work [001_learn-how-script-tags-and-document-ready-work.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/020_jQuery/001_learn-how-script-tags-and-document-ready-work.txt)
+2. Target HTML Elements with Selectors Using jQuery [002_target-html-elements-with-selectors-using-jquery.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/020_jQuery/002_target-html-elements-with-selectors-using-jquery.txt)
+3. Target Elements by Class Using jQuery [003_target-elements-by-class-using-jquery.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/020_jQuery/003_target-elements-by-class-using-jquery.txt)
+4. Target Elements by id Using jQuery [004_target-elements-by-id-using-jquery.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/020_jQuery/004_target-elements-by-id-using-jquery.txt)
+5. Delete Your jQuery Functions [005_delete-your-jquery-functions.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/020_jQuery/005_delete-your-jquery-functions.txt)
+6. Target the Same Element with Multiple jQuery Selectors [006_target-the-same-element-with-multiple-jquery-selectors.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/020_jQuery/006_target-the-same-element-with-multiple-jquery-selectors.txt)
+7. Remove Classes from an Element with jQuery [007_remove-classes-from-an-element-with-jquery.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/020_jQuery/007_remove-classes-from-an-element-with-jquery.txt)
+8. Change the CSS of an Element Using jQuery [008_change-the-css-of-an-element-using-jquery.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/020_jQuery/008_change-the-css-of-an-element-using-jquery.txt)
+9. Disable an Element Using jQuery [009_disable-an-element-using-jquery.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/020_jQuery/009_disable-an-element-using-jquery.txt)
+10. Change Text Inside an Element Using jQuery [010_change-text-inside-an-element-using-jquery.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/020_jQuery/010_change-text-inside-an-element-using-jquery.txt)
+11. Remove an Element Using jQuery [011_remove-an-element-using-jquery.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/020_jQuery/011_remove-an-element-using-jquery.txt)
+12. Use appendTo to Move Elements with jQuery [012_use-appendto-to-move-elements-with-jquery.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/020_jQuery/012_use-appendto-to-move-elements-with-jquery.txt)
+13. Clone an Element Using jQuery [013_clone-an-element-using-jquery.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/020_jQuery/013_clone-an-element-using-jquery.txt)
+14. Target the Parent of an Element Using jQuery [014_target-the-parent-of-an-element-using-jquery.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/020_jQuery/014_target-the-parent-of-an-element-using-jquery.txt)
+15. Target the Children of an Element Using jQuery [015_target-the-children-of-an-element-using-jquery.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/020_jQuery/015_target-the-children-of-an-element-using-jquery.txt)
+16. Target a Specific Child of an Element Using jQuery [016_target-a-specific-child-of-an-element-using-jquery.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/020_jQuery/016_target-a-specific-child-of-an-element-using-jquery.txt)
+17. Target Even Elements Using jQuery [017_target-even-elements-using-jquery.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/020_jQuery/017_target-even-elements-using-jquery.txt)
+18. Use jQuery to Modify the Entire Page [018_use-jquery-to-modify-the-entire-page.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/020_jQuery/018_use-jquery-to-modify-the-entire-page.txt)
 
 #### Sass
 
-1. Store Data with Sass Variables
-2. Nest CSS with Sass
-3. Create Reusable CSS with Mixins
-4. Use @if and @else to Add Logic To Your Styles
-5. Use @for to Create a Sass Loop
-6. Use @each to Map Over Items in a List
-7. Apply a Style Until a Condition is Met with @while
-8. Split Your Styles into Smaller Chunks with Partials
-9. Extend One Set of CSS Styles to Another Element
+1. Store Data with Sass Variables [001_store-data-with-sass-variables.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/021_Sass/001_store-data-with-sass-variables.txt)
+2. Nest CSS with Sass [002_nest-css-with-sass.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/021_Sass/002_nest-css-with-sass.txt)
+3. Create Reusable CSS with Mixins [003_create-reusable-css-with-mixins.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/021_Sass/003_create-reusable-css-with-mixins.txt)
+4. Use @if and @else to Add Logic To Your Styles [004_use-if-and-else-to-add-logic-to-your-styles.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/021_Sass/004_use-if-and-else-to-add-logic-to-your-styles.txt)
+5. Use @for to Create a Sass Loop [005_use-for-to-create-a-sass-loop.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/021_Sass/005_use-for-to-create-a-sass-loop.txt)
+6. Use @each to Map Over Items in a List [006_use-each-to-map-over-items-in-a-list.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/021_Sass/006_use-each-to-map-over-items-in-a-list.txt)
+7. Apply a Style Until a Condition is Met with @while [007_apply-a-style-until-a-condition-is-met-with-while.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/021_Sass/007_apply-a-style-until-a-condition-is-met-with-while.txt)
+8. Split Your Styles into Smaller Chunks with Partials [008_split-your-styles-into-smaller-chunks-with-partials.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/021_Sass/008_split-your-styles-into-smaller-chunks-with-partials.txt)
+9. Extend One Set of CSS Styles to Another Element [009_extend-one-set-of-css-styles-to-another-element.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/021_Sass/009_extend-one-set-of-css-styles-to-another-element.txt)
 
 #### React
 
-1. Create a Simple JSX Element
-2. Create a Complex JSX Element
-3. Add Comments in JSX
-4. Render HTML Elements to the DOM
-5. Define an HTML Class in JSX
-6. Learn About Self-Closing JSX Tags
-7. Create a Stateless Functional Component
-8. Create a React Component
-9. Create a Component with Composition
-1. 0Use React to Render Nested Components
-11. Compose React Components
-12. Render a Class Component to the DOM
-13. Write a React Component from Scratch
-14. Pass Props to a Stateless Functional Component
-15. Pass an Array as Props
-16. Use Default Props
-17. Override Default Props
-18. Use PropTypes to Define the Props You Expect
-19. Access Props Using this.props
-20. Review Using Props with Stateless Functional Components
-21. Create a Stateful Component
-22. Render State in the User Interface
-23. Render State in the User Interface Another Way
-24. Set State with this.setState
-25. Bind 'this' to a Class Method
-26. Use State to Toggle an Element
-27. Write a Simple Counter
-28. Create a Controlled Input
-29. Create a Controlled Form
-30. Pass State as Props to Child Components
-31. Pass a Callback as Props
-32. Use the Lifecycle Method componentWillMount
-33. Use the Lifecycle Method componentDidMount
-34. Add Event Listeners
-35. Optimize Re-Renders with shouldComponentUpdate
-36. Introducing Inline Styles
-37. Add Inline Styles in React
-38. Use Advanced JavaScript in React Render Method
-39. Render with an If-Else Condition
-40. Use && for a More Concise Conditional999
-41. Use a Ternary Expression for Conditional Rendering
-42. Render Conditionally from Props
-43. Change Inline CSS Conditionally Based on Component State
-44. Use Array.map() to Dynamically Render Elements
-45. Give Sibling Elements a Unique Key Attribute
-46. Use Array.filter() to Dynamically Filter an Array
-47. Render React on the Server with renderToString
+1. Create a Simple JSX Element [001_create-a-simple-jsx-element.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/001_create-a-simple-jsx-element.txt)
+2. Create a Complex JSX Element [002_create-a-complex-jsx-element.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/002_create-a-complex-jsx-element.txt)
+3. Add Comments in JSX [003_add-comments-in-jsx.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/003_add-comments-in-jsx.txt)
+4. Render HTML Elements to the DOM [004_render-html-elements-to-the-dom.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/004_render-html-elements-to-the-dom.txt)
+5. Define an HTML Class in JSX [005_define-an-html-class-in-jsx.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/005_define-an-html-class-in-jsx.txt)
+6. Learn About Self-Closing JSX Tags [006_learn-about-self-closing-jsx-tags.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/006_learn-about-self-closing-jsx-tags.txt)
+7. Create a Stateless Functional Component [007_create-a-stateless-functional-component.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/007_create-a-stateless-functional-component.txt)
+8. Create a React Component [008_create-a-react-component.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/008_create-a-react-component.txt)
+9. Create a Component with Composition [009_create-a-component-with-composition.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/009_create-a-component-with-composition.txt)
+10. 0Use React to Render Nested Components [010_use-react-to-render-nested-components.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/010_use-react-to-render-nested-components.txt)
+11. Compose React Components [011_compose-react-components.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/011_compose-react-components.txt)
+12. Render a Class Component to the DOM [012_render-a-class-component-to-the-dom.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/012_render-a-class-component-to-the-dom.txt)
+13. Write a React Component from Scratch [013_write-a-react-component-from-scratch.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/013_write-a-react-component-from-scratch.txt)
+14. Pass Props to a Stateless Functional Component [014_pass-props-to-a-stateless-functional-component.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/014_pass-props-to-a-stateless-functional-component.txt)
+15. Pass an Array as Props [015_pass-an-array-as-props.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/015_pass-an-array-as-props.txt)
+16. Use Default Props [016_use-default-props.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/016_use-default-props.txt)
+17. Override Default Props [017_override-default-props.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/017_override-default-props.txt)
+18. Use PropTypes to Define the Props You Expect [018_use-proptypes-to-define-the-props-you-expect.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/018_use-proptypes-to-define-the-props-you-expect.txt)
+19. Access Props Using this.props [019_access-props-using-this.props.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/019_access-props-using-this.props.txt)
+20. Review Using Props with Stateless Functional Components [020_review-using-props-with-stateless-functional-components.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/020_review-using-props-with-stateless-functional-components.txt)
+21. Create a Stateful Component [021_create-a-stateful-component.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/021_create-a-stateful-component.txt)
+22. Render State in the User Interface [022_render-state-in-the-user-interface.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/022_render-state-in-the-user-interface.txt)
+23. Render State in the User Interface Another Way [023_render-state-in-the-user-interface-another-way.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/023_render-state-in-the-user-interface-another-way.txt)
+24. Set State with this.setState [024_set-state-with-this.setstate.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/024_set-state-with-this.setstate.txt)
+25. Bind 'this' to a Class Method [025_bind-this-to-a-class-method.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/025_bind-this-to-a-class-method.txt)
+26. Use State to Toggle an Element [026_use-state-to-toggle-an-element.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/026_use-state-to-toggle-an-element.txt)
+27. Write a Simple Counter [027_write-a-simple-counter.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/027_write-a-simple-counter.txt)
+28. Create a Controlled Input [028_create-a-controlled-input.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/028_create-a-controlled-input.txt)
+29. Create a Controlled Form [029_create-a-controlled-form.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/029_create-a-controlled-form.txt)
+30. Pass State as Props to Child Components [030_pass-state-as-props-to-child-components.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/030_pass-state-as-props-to-child-components.txt)
+31. Pass a Callback as Props [031_pass-a-callback-as-props.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/031_pass-a-callback-as-props.txt)
+32. Use the Lifecycle Method componentWillMount [032_use-the-lifecycle-method-componentwillmount.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/032_use-the-lifecycle-method-componentwillmount.txt)
+33. Use the Lifecycle Method componentDidMount [033_use-the-lifecycle-method-componentdidmount.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/033_use-the-lifecycle-method-componentdidmount.txt)
+34. Add Event Listeners [034_add-event-listeners.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/034_add-event-listeners.txt)
+35. Optimize Re-Renders with shouldComponentUpdate [035_optimize-re-renders-with-shouldcomponentupdate.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/035_optimize-re-renders-with-shouldcomponentupdate.txt)
+36. Introducing Inline Styles [036_introducing-inline-styles.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/036_introducing-inline-styles.txt)
+37. Add Inline Styles in React [037_add-inline-styles-in-react.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/037_add-inline-styles-in-react.txt)
+38. Use Advanced JavaScript in React Render Method [038_use-advanced-javascript-in-react-render-method.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/038_use-advanced-javascript-in-react-render-method.txt)
+39. Render with an If-Else Condition [039_render-with-an-if-else-condition.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/039_render-with-an-if-else-condition.txt)
+40. Use && for a More Concise Conditional [040_use--for-a-more-concise-conditional.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/040_use--for-a-more-concise-conditional.txt)
+41. Use a Ternary Expression for Conditional Rendering [041_use-a-ternary-expression-for-conditional-rendering.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/041_use-a-ternary-expression-for-conditional-rendering.txt)
+42. Render Conditionally from Props [042_render-conditionally-from-props.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/042_render-conditionally-from-props.txt)
+43. Change Inline CSS Conditionally Based on Component State [043_change-inline-css-conditionally-based-on-component-state.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/043_change-inline-css-conditionally-based-on-component-state.txt)
+44. Use Array.map() to Dynamically Render Elements [044_use-array.map-to-dynamically-render-elements.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/044_use-array.map-to-dynamically-render-elements.txt)
+45. Give Sibling Elements a Unique Key Attribute [045_give-sibling-elements-a-unique-key-attribute.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/045_give-sibling-elements-a-unique-key-attribute.txt)
+46. Use Array.filter() to Dynamically Filter an Array [046_use-array.filter-to-dynamically-filter-an-array.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/046_use-array.filter-to-dynamically-filter-an-array.txt)
+47. Render React on the Server with renderToString [047_render-react-on-the-server-with-rendertostring.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/022_React/047_render-react-on-the-server-with-rendertostring.txt)
 
 #### Redux
 
-1. Create a Redux Store
-2. Get State from the Redux Store9
-3. Define a Redux Action
-4. Define an Action Creator
-5. Dispatch an Action Event
-6. Handle an Action in the Store
-7. Use a Switch Statement to Handle Multiple Actions
-8. Use const for Action Types
-9. Register a Store Listener
-10. Combine Multiple Reducers
-11. Send Action Data to the Store
-12. Use Middleware to Handle Asynchronous Actions
-13. Write a Counter with Redux
-14. Never Mutate State
-15. Use the Spread Operator on Arrays
-16. Remove an Item from an Array
-17. Copy an Object with Object.assign
+1. Create a Redux Store [001_create-a-redux-store.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/023_Redux/001_create-a-redux-store.txt)
+2. Get State from the Redux Store [002_get-state-from-the-redux-store.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/023_Redux/002_get-state-from-the-redux-store.txt)
+3. Define a Redux Action [003_define-a-redux-action.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/023_Redux/003_define-a-redux-action.txt)
+4. Define an Action Creator [004_define-an-action-creator.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/023_Redux/004_define-an-action-creator.txt)
+5. Dispatch an Action Event [005_dispatch-an-action-event.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/023_Redux/005_dispatch-an-action-event.txt)
+6. Handle an Action in the Store [006_handle-an-action-in-the-store.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/023_Redux/006_handle-an-action-in-the-store.txt)
+7. Use a Switch Statement to Handle Multiple Actions [007_use-a-switch-statement-to-handle-multiple-actions.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/023_Redux/007_use-a-switch-statement-to-handle-multiple-actions.txt)
+8. Use const for Action Types [008_use-const-for-action-types.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/023_Redux/008_use-const-for-action-types.txt)
+9. Register a Store Listener [009_register-a-store-listener.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/023_Redux/009_register-a-store-listener.txt)
+10. Combine Multiple Reducers [010_combine-multiple-reducers.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/023_Redux/010_combine-multiple-reducers.txt)
+11. Send Action Data to the Store [011_send-action-data-to-the-store.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/023_Redux/011_send-action-data-to-the-store.txt)
+12. Use Middleware to Handle Asynchronous Actions [012_use-middleware-to-handle-asynchronous-actions.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/023_Redux/012_use-middleware-to-handle-asynchronous-actions.txt)
+13. Write a Counter with Redux [013_write-a-counter-with-redux.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/023_Redux/013_write-a-counter-with-redux.txt)
+14. Never Mutate State [014_never-mutate-state.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/023_Redux/014_never-mutate-state.txt)
+15. Use the Spread Operator on Arrays [015_use-the-spread-operator-on-arrays.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/023_Redux/015_use-the-spread-operator-on-arrays.txt)
+16. Remove an Item from an Array [016_remove-an-item-from-an-array.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/023_Redux/016_remove-an-item-from-an-array.txt)
+17. Copy an Object with Object.assign [017_copy-an-object-with-object.assign.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/023_Redux/017_copy-an-object-with-object.assign.txt)
+
 
 #### React and Redux
 
