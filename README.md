@@ -1,6 +1,8 @@
-# FreeCodeCampExerciseSolutions
+# Free Code Camp Exercise Solutions
 
 # My solutions to the Free Code Camp Exercises
+
+---
 
 ## Responsive Web Design Certification
 
@@ -224,6 +226,8 @@
 3. Build A Product Landing Page
 4. Build A Technical Documentation Page
 5. Build A Personal Portfolio Page
+
+---
 
 ### JavaScript Algorithms and Data Structures Certification
 
@@ -549,14 +553,364 @@
 
 #### JavaScript Algorithms and Data Structures Projects
 
-[](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/018_JavascriptAlgorithmsAndDataStructuresProjects/)
+1. Palindrome Checker [01_palindrome-checker.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/018_JavascriptAlgorithmsAndDataStructuresProjects/01_palindrome-checker.txt)
+2. Roman Numeral Converter [02_roman-numeral-converter.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/018_JavascriptAlgorithmsAndDataStructuresProjects/02_roman-numeral-converter.txt)
+3. Caesars Cipher [03_caesars-cipher.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/018_JavascriptAlgorithmsAndDataStructuresProjects/03_caesars-cipher.txt)
+4. Telephone Number Validator [04_telephone-number-validator.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/018_JavascriptAlgorithmsAndDataStructuresProjects/04_telephone-number-validator.txt)
+5. Cash Register [05_cash-register.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/018_JavascriptAlgorithmsAndDataStructuresProjects/05_cash-register.txt)
 
+---
 
-1. Palindrome Checker
-2. Roman Numeral Converter
-3. Caesars Cipher
-4. Telephone Number Validator
-5. Cash Register
+### Front End Libraries Certification
 
+#### Bootstrap
 
+1. Use Responsive Design with Bootstrap Fluid Containers
+2. Make Images Mobile Responsive
+3. Center Text with Bootstrap
+4. Create a Bootstrap Button
+5. Create a Block Element Bootstrap Button
+6. Taste the Bootstrap Button Color Rainbow
+7. Call out Optional Actions with btn-info
+8. Warn Your Users of a Dangerous Action with btn-danger
+9. Use the Bootstrap Grid to Put Elements Side By Side
+10. Ditch Custom CSS for Bootstrap
+11. Use a span to Target Inline Elements
+12. Create a Custom Heading
+13. Add Font Awesome Icons to our Buttons
+14. Add Font Awesome Icons to all of our Buttons
+15. Responsively Style Radio Buttons
+16. Responsively Style Checkboxes
+17. Style Text Inputs as Form Controls
+18. Line up Form Elements Responsively with Bootstrap
+19. Create a Bootstrap Headline
+20. House our page within a Bootstrap container-fluid div
+21. Create a Bootstrap Row
+22. Split Your Bootstrap Row
+23. Create Bootstrap Wells
+24. Add Elements within Your Bootstrap Wells
+25. Apply the Default Bootstrap Button Style
+26. Create a Class to Target with jQuery Selectors
+27. Add id Attributes to Bootstrap Elements
+28. Label Bootstrap Wells
+29. Give Each Element a Unique id
+30. Label Bootstrap Buttons
+31. Use Comments to Clarify Code
+
+#### jQuery
+
+1. Learn How Script Tags and Document Ready Work
+2. Target HTML Elements with Selectors Using jQuery
+3. Target Elements by Class Using jQuery
+4. Target Elements by id Using jQuery
+5. Delete Your jQuery Functions
+6. Target the Same Element with Multiple jQuery Selectors
+7. Remove Classes from an Element with jQuery
+8. Change the CSS of an Element Using jQuery
+9. Disable an Element Using jQuery
+10. Change Text Inside an Element Using jQuery
+11. Remove an Element Using jQuery
+12. Use appendTo to Move Elements with jQuery
+13. Clone an Element Using jQuery
+14. Target the Parent of an Element Using jQuery
+15. Target the Children of an Element Using jQuery
+16. Target a Specific Child of an Element Using jQuery
+17. Target Even Elements Using jQuery
+18. Use jQuery to Modify the Entire Page
+
+#### Sass
+
+1. Store Data with Sass Variables
+2. Nest CSS with Sass
+3. Create Reusable CSS with Mixins
+4. Use @if and @else to Add Logic To Your Styles
+5. Use @for to Create a Sass Loop
+6. Use @each to Map Over Items in a List
+7. Apply a Style Until a Condition is Met with @while
+8. Split Your Styles into Smaller Chunks with Partials
+9. Extend One Set of CSS Styles to Another Element
+
+#### React
+
+1. Create a Simple JSX Element
+2. Create a Complex JSX Element
+3. Add Comments in JSX
+4. Render HTML Elements to the DOM
+5. Define an HTML Class in JSX
+6. Learn About Self-Closing JSX Tags
+7. Create a Stateless Functional Component
+8. Create a React Component
+9. Create a Component with Composition
+1. 0Use React to Render Nested Components
+11. Compose React Components
+12. Render a Class Component to the DOM
+13. Write a React Component from Scratch
+14. Pass Props to a Stateless Functional Component
+15. Pass an Array as Props
+16. Use Default Props
+17. Override Default Props
+18. Use PropTypes to Define the Props You Expect
+19. Access Props Using this.props
+20. Review Using Props with Stateless Functional Components
+21. Create a Stateful Component
+22. Render State in the User Interface
+23. Render State in the User Interface Another Way
+24. Set State with this.setState
+25. Bind 'this' to a Class Method
+26. Use State to Toggle an Element
+27. Write a Simple Counter
+28. Create a Controlled Input
+29. Create a Controlled Form
+30. Pass State as Props to Child Components
+31. Pass a Callback as Props
+32. Use the Lifecycle Method componentWillMount
+33. Use the Lifecycle Method componentDidMount
+34. Add Event Listeners
+35. Optimize Re-Renders with shouldComponentUpdate
+36. Introducing Inline Styles
+37. Add Inline Styles in React
+38. Use Advanced JavaScript in React Render Method
+39. Render with an If-Else Condition
+40. Use && for a More Concise Conditional999
+41. Use a Ternary Expression for Conditional Rendering
+42. Render Conditionally from Props
+43. Change Inline CSS Conditionally Based on Component State
+44. Use Array.map() to Dynamically Render Elements
+45. Give Sibling Elements a Unique Key Attribute
+46. Use Array.filter() to Dynamically Filter an Array
+47. Render React on the Server with renderToString
+
+#### Redux
+
+1. Create a Redux Store
+2. Get State from the Redux Store9
+3. Define a Redux Action
+4. Define an Action Creator
+5. Dispatch an Action Event
+6. Handle an Action in the Store
+7. Use a Switch Statement to Handle Multiple Actions
+8. Use const for Action Types
+9. Register a Store Listener
+10. Combine Multiple Reducers
+11. Send Action Data to the Store
+12. Use Middleware to Handle Asynchronous Actions
+13. Write a Counter with Redux
+14. Never Mutate State
+15. Use the Spread Operator on Arrays
+16. Remove an Item from an Array
+17. Copy an Object with Object.assign
+
+#### React and Redux
+
+1. Getting Started with React Redux
+2. Manage State Locally First
+3. Extract State Logic to Redux
+4. Use Provider to Connect Redux to React
+5. Map State to Props
+6. Map Dispatch to Props
+7. Connect Redux to React
+8. Connect Redux to the Messages App
+9. Extract Local State into Redux
+10. Moving Forward From Here
+
+#### Front End Libraries Projects
+
+1. Build a Random Quote Machine
+2. Build a Markdown Previewer
+3. Build a Drum Machine
+4. Build a JavaScript Calculator
+5. Build a Pomodoro Clock
+
+---
+
+### Data Visualization Certification
+
+#### Data Visualization with D3
+
+1. Add Document Elements with D3
+2. Select a Group of Elements with D3
+3. Work with Data in D3
+4. Work with Dynamic Data in D3
+5. Add Inline Styling to Elements
+6. Change Styles Based on Data
+7. Add Classes with D3
+8. Update the Height of an Element Dynamically
+9. Change the Presentation of a Bar Chart
+10. Learn About SVG in D3
+11. Display Shapes with SVG
+12. Create a Bar for Each Data Point in the Set
+13. Dynamically Set the Coordinates for Each Bar
+14. Dynamically Change the Height of Each Bar
+15. Invert SVG Elements
+16. Change the Color of an SVG Element
+17. Add Labels to D3 Elements
+18. Style D3 Labels
+19. Add a Hover Effect to a D3 Element
+20. Add a Tooltip to a D3 Element
+21. Create a Scatterplot with SVG Circles
+22. Add Attributes to the Circle Elements
+23. Add Labels to Scatter Plot Circles
+24. Create a Linear Scale with D3
+25. Set a Domain and a Range on a Scale
+26. Use the d3.max and d3.min Functions to Find Minimum and Maximum Values in a Dataset
+27. Use Dynamic Scales
+28. Use a Pre-Defined Scale to Place Elements
+29. Add Axes to a Visualization
+
+#### JSON APIs and Ajax
+
+1. Handle Click Events with JavaScript using the onclick property
+2. Change Text with click Events
+3. Get JSON with the JavaScript XMLHttpRequest Method
+4. Get JSON with the JavaScript fetch method
+5. Access the JSON Data from an API
+6. Convert JSON Data to HTML
+7. Render Images from Data Sources
+8. Pre-filter JSON to Get the Data You Need
+9. Get Geolocation Data to Find A User's GPS Coordinates
+10. Post Data with the JavaScript XMLHttpRequest Method
+
+#### Data Visualization Projects
+
+1. Visualize Data with a Bar Chart
+2. Visualize Data with a Scatterplot Graph
+3. Visualize Data with a Heat Map
+4. Visualize Data with a Choropleth Map
+5. Visualize Data with a Treemap Diagram
+
+---
+
+### APIs and Microservices Certification
+
+#### Managing Packages with Npm
+
+1. How to Use package.json, the Core of Any Node.js Project or npm Package
+2. Add a Description to Your package.json
+3. Add Keywords to Your package.json
+4. Add a License to Your package.json
+5. Add a Version to Your package.json
+6. Expand Your Project with External Packages from npm
+7. Manage npm Dependencies By Understanding Semantic Versioning
+8. Use the Tilde-Character to Always Use the Latest Patch Version of a Dependency
+9. Use the Caret-Character to Use the Latest Minor Version of a Dependency
+10. Remove a Package from Your Dependencies
+
+#### Basic Node and Express
+
+1. Meet the Node console
+2. Start a Working Express Server
+3. Serve an HTML File
+4. Serve Static Assets
+5. Serve JSON on a Specific Route
+6. Use the .env File
+7. Implement a Root-Level Request Logger Middleware
+8. Chain Middleware to Create a Time Server
+9. Get Route Parameter Input from the Client
+10. Get Query Parameter Input from the Client
+11. Use body-parser to Parse POST Requests
+12. Get Data from POST Requests
+
+#### MongoDB and Mongoose
+
+1. Install and Set Up Mongoose
+2. Create a Model
+3. Create and Save a Record of a Model
+4. Create Many Records with model.create()
+5. Use model.find() to Search Your Database
+6. Use model.findOne() to Return a Single Matching Document from Your Database
+7. Use model.findById() to Search Your Database By _id
+8. Perform Classic Updates by Running Find, Edit, then Save
+9. Perform New Updates on a Document Using model.findOneAndUpdate()
+10. Delete One Document Using model.findByIdAndRemove
+11. Delete Many Documents with model.remove()
+12. Chain Search Query Helpers to Narrow Search Results
+
+#### APIs and Microservices Projects
+
+1. Timestamp Microservice
+2. Request Header Parser Microservice
+3. URL Shortener Microservice
+4. Exercise Tracker
+5. File Metadata Microservice
+
+---
+
+### Information Security and Quality Assurance Certification
+
+#### Information Security with HelmetJS
+
+1. Install and Require Helmet
+2. Hide Potentially Dangerous Information Using helmet.hidePoweredBy()
+3. Mitigate the Risk of Clickjacking with helmet.frameguard()
+4. Mitigate the Risk of Cross Site Scripting (XSS) Attacks with helmet.xssFilter()
+5. Avoid Inferring the Response MIME Type with helmet.noSniff()
+6. Prevent IE from Opening Untrusted HTML with helmet.ieNoOpen()
+7. Ask Browsers to Access Your Site via HTTPS Only with helmet.hsts()
+8. Disable DNS Prefetching with helmet.dnsPrefetchControl()
+9. Disable Client-Side Caching with helmet.noCache()
+10. Set a Content Security Policy with helmet.contentSecurityPolicy()
+11. Configure Helmet Using the ‘parent’ helmet() Middleware
+12. Understand BCrypt Hashes
+13. Hash and Compare Passwords Asynchronously
+14. Hash and Compare Passwords Synchronously
+
+#### Quality Assurance and Testing with Chai
+
+1. Learn How JavaScript Assertions Work
+2. Test if a Variable or Function is Defined
+3. Use Assert.isOK and Assert.isNotOK
+4. Test for Truthiness
+5. Use the Double Equals to Assert Equality
+6. Use the Triple Equals to Assert Strict Equality
+7. Assert Deep Equality with .deepEqual and .notDeepEqual
+8. Compare the Properties of Two Elements
+9. Test if One Value is Below or At Least as Large as Another
+10. Test if a Value Falls within a Specific Range
+11. Test if a Value is an Array
+12. Test if an Array Contains an Item
+13. Test if a Value is a String
+14. Test if a String Contains a Substring
+15. Use Regular Expressions to Test a String
+16. Test if an Object has a Property
+17. Test if a Value is of a Specific Data Structure Type
+18. Test if an Object is an Instance of a Constructor
+19. Run Functional Tests on API Endpoints using Chai-HTTP
+20. Run Functional Tests on API Endpoints using Chai-HTTP II
+21. Run Functional Tests on an API Response using Chai-HTTP III - PUT method
+22. Run Functional Tests on an API Response using Chai-HTTP IV - PUT method
+23. Run Functional Tests using a Headless Browser
+24. Run Functional Tests using a Headless Browser II
+
+#### Advanced Node and Express
+
+1. Set up a Template Engine
+2. Use a Template Engine's Powers
+3. Set up Passport
+4. Serialization of a User Object
+5. Implement the Serialization of a Passport User
+6. Authentication Strategies
+7. How to Use Passport Strategies
+8. Create New Middleware
+9. How to Put a Profile Together
+10. Logging a User Out
+11. Registration of New Users
+12. Hashing Your Passwords
+13. Clean Up Your Project with Modules
+14. Implementation of Social Authentication
+15. Implementation of Social Authentication II
+16. Implementation of Social Authentication III
+17. Set up the Environment
+18. Communicate by Emitting
+19. Handle a Disconnect
+20. Authentication with Socket.IO
+21. Announce New Users
+22. Send and Display Chat Messages
+
+#### Information Security and Quality Assurance Projects
+
+1. Metric-Imperial Converter
+2. Issue Tracker
+3. Personal Library
+4. Stock Price Checker
+5. Anonymous Message Board
 
