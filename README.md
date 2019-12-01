@@ -700,19 +700,18 @@
 16. Remove an Item from an Array [016_remove-an-item-from-an-array.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/023_Redux/016_remove-an-item-from-an-array.txt)
 17. Copy an Object with Object.assign [017_copy-an-object-with-object.assign.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/023_Redux/017_copy-an-object-with-object.assign.txt)
 
-
 #### React and Redux
 
-1. Getting Started with React Redux
-2. Manage State Locally First
-3. Extract State Logic to Redux
-4. Use Provider to Connect Redux to React
-5. Map State to Props
-6. Map Dispatch to Props
-7. Connect Redux to React
-8. Connect Redux to the Messages App
-9. Extract Local State into Redux
-10. Moving Forward From Here
+1. Getting Started with React Redux [001_getting-started-with-react-redux.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/024_ReactAndRedux/001_getting-started-with-react-redux.txt)
+2. Manage State Locally First [002_manage-state-locally-first.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/024_ReactAndRedux/002_manage-state-locally-first.txt)
+3. Extract State Logic to Redux [003_extract-state-logic-to-redux.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/024_ReactAndRedux/003_extract-state-logic-to-redux.txt)
+4. Use Provider to Connect Redux to React [004_use-provider-to-connect-redux-to-react.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/024_ReactAndRedux/004_use-provider-to-connect-redux-to-react.txt)
+5. Map State to Props [005_map-state-to-props.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/024_ReactAndRedux/005_map-state-to-props.txt)
+6. Map Dispatch to Props [006_map-dispatch-to-props.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/024_ReactAndRedux/006_map-dispatch-to-props.txt)
+7. Connect Redux to React [007_connect-redux-to-react.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/024_ReactAndRedux/007_connect-redux-to-react.txt)
+8. Connect Redux to the Messages App [008_connect-redux-to-the-messages-app.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/024_ReactAndRedux/008_connect-redux-to-the-messages-app.txt)
+9. Extract Local State into Redux [009_extract-local-state-into-redux.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/024_ReactAndRedux/009_extract-local-state-into-redux.txt)
+10. Moving Forward From Here [010_moving-forward-from-here.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/024_ReactAndRedux/010_moving-forward-from-here.txt)
 
 #### Front End Libraries Projects
 
