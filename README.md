@@ -727,48 +727,54 @@
 
 #### Data Visualization with D3
 
-1. Add Document Elements with D3
-2. Select a Group of Elements with D3
-3. Work with Data in D3
-4. Work with Dynamic Data in D3
-5. Add Inline Styling to Elements
-6. Change Styles Based on Data
-7. Add Classes with D3
-8. Update the Height of an Element Dynamically
-9. Change the Presentation of a Bar Chart
-10. Learn About SVG in D3
-11. Display Shapes with SVG
-12. Create a Bar for Each Data Point in the Set
-13. Dynamically Set the Coordinates for Each Bar
-14. Dynamically Change the Height of Each Bar
-15. Invert SVG Elements
-16. Change the Color of an SVG Element
-17. Add Labels to D3 Elements
-18. Style D3 Labels
-19. Add a Hover Effect to a D3 Element
-20. Add a Tooltip to a D3 Element
-21. Create a Scatterplot with SVG Circles
-22. Add Attributes to the Circle Elements
-23. Add Labels to Scatter Plot Circles
-24. Create a Linear Scale with D3
-25. Set a Domain and a Range on a Scale
-26. Use the d3.max and d3.min Functions to Find Minimum and Maximum Values in a Dataset
-27. Use Dynamic Scales
-28. Use a Pre-Defined Scale to Place Elements
-29. Add Axes to a Visualization
+1. Add Document Elements with D3 [001_add-document-elements-with-d3.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/001_add-document-elements-with-d3.txt)
+2. Select a Group of Elements with D3 [002_select-a-group-of-elements-with-d3.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/002_select-a-group-of-elements-with-d3.txt)
+3. Work with Data in D3 [003_work-with-data-in-d3.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/003_work-with-data-in-d3.txt)
+4. Work with Dynamic Data in D3 [004_work-with-dynamic-data-in-d3.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/004_work-with-dynamic-data-in-d3.txt)
+5. Add Inline Styling to Elements [005_add-inline-styling-to-elements.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/005_add-inline-styling-to-elements.txt)
+6. Change Styles Based on Data [006_change-styles-based-on-data.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/006_change-styles-based-on-data.txt)
+7. Add Classes with D3 [007_add-classes-with-d3.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/007_add-classes-with-d3.txt)
+8. Update the Height of an Element Dynamically [008_update-the-height-of-an-element-dynamically.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/008_update-the-height-of-an-element-dynamically.txt)
+9. Change the Presentation of a Bar Chart [009_change-the-presentation-of-a-bar-chart.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/009_change-the-presentation-of-a-bar-chart.txt)
+10. Learn About SVG in D3 [010_learn-about-svg-in-d3.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/010_learn-about-svg-in-d3.txt)
+11. Display Shapes with SVG [011_display-shapes-with-svg.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/011_display-shapes-with-svg.txt)
+12. Create a Bar for Each Data Point in the Set [012_create-a-bar-for-each-data-point-in-the-set.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/012_create-a-bar-for-each-data-point-in-the-set.txt)
+13. Dynamically Set the Coordinates for Each Bar [013_dynamically-set-the-coordinates-for-each-bar.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/013_dynamically-set-the-coordinates-for-each-bar.txt)
+14. Dynamically Change the Height of Each Bar [014_dynamically-change-the-height-of-each-bar.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/014_dynamically-change-the-height-of-each-bar.txt)
+15. Invert SVG Elements [015_invert-svg-elements.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/015_invert-svg-elements.txt)
+16. Change the Color of an SVG Element [016_change-the-color-of-an-svg-element.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/016_change-the-color-of-an-svg-element.txt)
+17. Add Labels to D3 Elements [017_add-labels-to-d3-elements.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/017_add-labels-to-d3-elements.txt)
+18. Style D3 Labels [018_style-d3-labels.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/018_style-d3-labels.txt)
+19. Add a Hover Effect to a D3 Element [019_add-a-hover-effect-to-a-d3-element.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/019_add-a-hover-effect-to-a-d3-element.txt)
+20. Add a Tooltip to a D3 Element [020_add-a-tooltip-to-a-d3-element.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/020_add-a-tooltip-to-a-d3-element.txt)
+21. Create a Scatterplot with SVG Circles [021_create-a-scatterplot-with-svg-circles.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/021_create-a-scatterplot-with-svg-circles.txt)
+22. Add Attributes to the Circle Elements [022_add-attributes-to-the-circle-elements.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/022_add-attributes-to-the-circle-elements.txt)
+23. Add Labels to Scatter Plot Circles [023_add-labels-to-scatter-plot-circles.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/023_add-labels-to-scatter-plot-circles.txt)
+24. Create a Linear Scale with D3 [024_create-a-linear-scale-with-d3.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/024_create-a-linear-scale-with-d3.txt)
+25. Set a Domain and a Range on a Scale [025_set-a-domain-and-a-range-on-a-scale.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/025_set-a-domain-and-a-range-on-a-scale.txt)
+26. Use the d3.max and d3.min Functions to Find Minimum and Maximum Values in a Dataset [026_use-the-d3.max-and-d3.min-functions-to-find-minimum-and-maximum-values-in-a-dataset.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/026_use-the-d3.max-and-d3.min-functions-to-find-minimum-and-maximum-values-in-a-dataset.txt)
+27. Use Dynamic Scales [027_use-dynamic-scales.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/027_use-dynamic-scales.txt)
+28. Use a Pre-Defined Scale to Place Elements [028_use-a-pre-defined-scale-to-place-elements.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/028_use-a-pre-defined-scale-to-place-elements.txt)
+29. Add Axes to a Visualization [029_add-axes-to-a-visualization.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/029_add-axes-to-a-visualization.txt)
+[021_create-a-scatterplot-with-svg-circles.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/021_create-a-scatterplot-with-svg-circles.txt)
+[022_add-attributes-to-the-circle-elements.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/022_add-attributes-to-the-circle-elements.txt)
+[023_add-labels-to-scatter-plot-circles.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/023_add-labels-to-scatter-plot-circles.txt)
+[024_create-a-linear-scale-with-d3.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/024_create-a-linear-scale-with-d3.txt)
+[025_set-a-domain-and-a-range-on-a-scale.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/025_set-a-domain-and-a-range-on-a-scale.txt)
+[026_use-the-d3.max-and-d3.min-functions-to-find-minimum-and-maximum-values-in-a-dataset.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/026_use-the-d3.max-and-d3.min-functions-to-find-minimum-and-maximum-values-in-a-dataset.txt)
 
 #### JSON APIs and Ajax
 
-1. Handle Click Events with JavaScript using the onclick property
-2. Change Text with click Events
-3. Get JSON with the JavaScript XMLHttpRequest Method
-4. Get JSON with the JavaScript fetch method
-5. Access the JSON Data from an API
-6. Convert JSON Data to HTML
-7. Render Images from Data Sources
-8. Pre-filter JSON to Get the Data You Need
-9. Get Geolocation Data to Find A User's GPS Coordinates
-10. Post Data with the JavaScript XMLHttpRequest Method
+1. Handle Click Events with JavaScript using the onclick property [001_handle-click-events-with-javascript-using-the-onclick-property.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/027_JSONApisAndAjax/001_handle-click-events-with-javascript-using-the-onclick-property.txt)
+2. Change Text with click Events [002_change-text-with-click-events.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/027_JSONApisAndAjax/002_change-text-with-click-events.txt)
+3. Get JSON with the JavaScript XMLHttpRequest Method [003_get-json-with-the-javascript-xmlhttprequest-method.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/027_JSONApisAndAjax/003_get-json-with-the-javascript-xmlhttprequest-method.txt)
+4. Get JSON with the JavaScript fetch method [004_get-json-with-the-javascript-fetch-method.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/027_JSONApisAndAjax/004_get-json-with-the-javascript-fetch-method.txt)
+5. Access the JSON Data from an API [005_access-the-json-data-from-an-api.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/027_JSONApisAndAjax/005_access-the-json-data-from-an-api.txt)
+6. Convert JSON Data to HTML [006_convert-json-data-to-html.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/027_JSONApisAndAjax/006_convert-json-data-to-html.txt)
+7. Render Images from Data Sources [007_render-images-from-data-sources.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/027_JSONApisAndAjax/007_render-images-from-data-sources.txt)
+8. Pre-filter JSON to Get the Data You Need [008_pre-filter-json-to-get-the-data-you-need.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/027_JSONApisAndAjax/008_pre-filter-json-to-get-the-data-you-need.txt)
+9. Get Geolocation Data to Find A User's GPS Coordinates [009_get-geolocation-data-to-find-a-users-gps-coordinates.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/027_JSONApisAndAjax/009_get-geolocation-data-to-find-a-users-gps-coordinates.txt)
+10. Post Data with the JavaScript XMLHttpRequest Method [010_post-data-with-the-javascript-xmlhttprequest-method.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/027_JSONApisAndAjax/010_post-data-with-the-javascript-xmlhttprequest-method.txt)
 
 #### Data Visualization Projects
 
@@ -784,46 +790,46 @@
 
 #### Managing Packages with Npm
 
-1. How to Use package.json, the Core of Any Node.js Project or npm Package
-2. Add a Description to Your package.json
-3. Add Keywords to Your package.json
-4. Add a License to Your package.json
-5. Add a Version to Your package.json
-6. Expand Your Project with External Packages from npm
-7. Manage npm Dependencies By Understanding Semantic Versioning
-8. Use the Tilde-Character to Always Use the Latest Patch Version of a Dependency
-9. Use the Caret-Character to Use the Latest Minor Version of a Dependency
-10. Remove a Package from Your Dependencies
+1. How to Use package.json, the Core of Any Node.js Project or npm Package [001_ManagingPackagesWithNpm.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/029_ManagingPackagesWithNPM/001_ManagingPackagesWithNpm.tgz)
+2. Add a Description to Your package.json [002_ManagingPackagesWithNpm.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/029_ManagingPackagesWithNPM/002_ManagingPackagesWithNpm.tgz)
+3. Add Keywords to Your package.json [003_ManagingPackagesWithNpm.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/029_ManagingPackagesWithNPM/003_ManagingPackagesWithNpm.tgz)
+4. Add a License to Your package.json [004_ManagingPackagesWithNpm.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/029_ManagingPackagesWithNPM/004_ManagingPackagesWithNpm.tgz)
+5. Add a Version to Your package.json [005_ManagingPackagesWithNpm.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/029_ManagingPackagesWithNPM/005_ManagingPackagesWithNpm.tgz)
+6. Expand Your Project with External Packages from npm [006_ManagingPackagesWithNpm.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/029_ManagingPackagesWithNPM/006_ManagingPackagesWithNpm.tgz)
+7. Manage npm Dependencies By Understanding Semantic Versioning [007_ManagingPackagesWithNpm.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/029_ManagingPackagesWithNPM/007_ManagingPackagesWithNpm.tgz)
+8. Use the Tilde-Character to Always Use the Latest Patch Version of a Dependency [008_ManagingPackagesWithNpm.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/029_ManagingPackagesWithNPM/008_ManagingPackagesWithNpm.tgz)
+9. Use the Caret-Character to Use the Latest Minor Version of a Dependency [009_ManagingPackagesWithNpm.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/029_ManagingPackagesWithNPM/009_ManagingPackagesWithNpm.tgz)
+10. Remove a Package from Your Dependencies [010_ManagingPackagesWithNpm.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/029_ManagingPackagesWithNPM/010_ManagingPackagesWithNpm.tgz)
 
 #### Basic Node and Express
 
-1. Meet the Node console
-2. Start a Working Express Server
-3. Serve an HTML File
-4. Serve Static Assets
-5. Serve JSON on a Specific Route
-6. Use the .env File
-7. Implement a Root-Level Request Logger Middleware
-8. Chain Middleware to Create a Time Server
-9. Get Route Parameter Input from the Client
-10. Get Query Parameter Input from the Client
-11. Use body-parser to Parse POST Requests
-12. Get Data from POST Requests
+1. Meet the Node console [001_BasicNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/030_BasicNodeAndExpress/001_BasicNodeAndExpress.tgz)
+2. Start a Working Express Server [002_BasicNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/030_BasicNodeAndExpress/002_BasicNodeAndExpress.tgz)
+3. Serve an HTML File [003_BasicNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/030_BasicNodeAndExpress/003_BasicNodeAndExpress.tgz)
+4. Serve Static Assets [004_BasicNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/030_BasicNodeAndExpress/004_BasicNodeAndExpress.tgz)
+5. Serve JSON on a Specific Route [005_BasicNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/030_BasicNodeAndExpress/005_BasicNodeAndExpress.tgz)
+6. Use the .env File [006_BasicNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/030_BasicNodeAndExpress/006_BasicNodeAndExpress.tgz)
+7. Implement a Root-Level Request Logger Middleware [007_BasicNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/030_BasicNodeAndExpress/007_BasicNodeAndExpress.tgz)
+8. Chain Middleware to Create a Time Server [008_BasicNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/030_BasicNodeAndExpress/008_BasicNodeAndExpress.tgz)
+9. Get Route Parameter Input from the Client [009_BasicNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/030_BasicNodeAndExpress/009_BasicNodeAndExpress.tgz)
+10. Get Query Parameter Input from the Client [010_BasicNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/030_BasicNodeAndExpress/010_BasicNodeAndExpress.tgz)
+11. Use body-parser to Parse POST Requests [011_BasicNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/030_BasicNodeAndExpress/011_BasicNodeAndExpress.tgz)
+12. Get Data from POST Requests [012_BasicNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/030_BasicNodeAndExpress/012_BasicNodeAndExpress.tgz)
 
 #### MongoDB and Mongoose
 
-1. Install and Set Up Mongoose
-2. Create a Model
-3. Create and Save a Record of a Model
-4. Create Many Records with model.create()
-5. Use model.find() to Search Your Database
-6. Use model.findOne() to Return a Single Matching Document from Your Database
-7. Use model.findById() to Search Your Database By _id
-8. Perform Classic Updates by Running Find, Edit, then Save
-9. Perform New Updates on a Document Using model.findOneAndUpdate()
-10. Delete One Document Using model.findByIdAndRemove
-11. Delete Many Documents with model.remove()
-12. Chain Search Query Helpers to Narrow Search Results
+1. Install and Set Up Mongoose [001_MongoDbAndMongoose.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/031_MongoDBAndMongoose/001_MongoDbAndMongoose.tgz)
+2. Create a Model [002_MongoDbAndMongoose.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/031_MongoDBAndMongoose/002_MongoDbAndMongoose.tgz)
+3. Create and Save a Record of a Model [003_MongoDbAndMongoose.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/031_MongoDBAndMongoose/003_MongoDbAndMongoose.tgz)
+4. Create Many Records with model.create() [004_MongoDbAndMongoose.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/031_MongoDBAndMongoose/004_MongoDbAndMongoose.tgz)
+5. Use model.find() to Search Your Database [005_MongoDbAndMongoose.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/031_MongoDBAndMongoose/005_MongoDbAndMongoose.tgz)
+6. Use model.findOne() to Return a Single Matching Document from Your Database [006_MongoDbAndMongoose.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/031_MongoDBAndMongoose/006_MongoDbAndMongoose.tgz)
+7. Use model.findById() to Search Your Database By _id [007_MongoDbAndMongoose.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/031_MongoDBAndMongoose/007_MongoDbAndMongoose.tgz)
+8. Perform Classic Updates by Running Find, Edit, then Save [008_MongoDbAndMongoose.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/031_MongoDBAndMongoose/008_MongoDbAndMongoose.tgz)
+9. Perform New Updates on a Document Using model.findOneAndUpdate() [009_MongoDbAndMongoose.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/031_MongoDBAndMongoose/009_MongoDbAndMongoose.tgz)
+10. Delete One Document Using model.findByIdAndRemove [010_MongoDbAndMongoose.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/031_MongoDBAndMongoose/010_MongoDbAndMongoose.tgz)
+11. Delete Many Documents with model.remove() [011_MongoDbAndMongoose.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/031_MongoDBAndMongoose/011_MongoDbAndMongoose.tgz)
+12. Chain Search Query Helpers to Narrow Search Results [012_MongoDbAndMongoose.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/031_MongoDBAndMongoose/012_MongoDbAndMongoose.tgz)
 
 #### APIs and Microservices Projects
 
@@ -839,47 +845,47 @@
 
 #### Information Security with HelmetJS
 
-1. Install and Require Helmet
-2. Hide Potentially Dangerous Information Using helmet.hidePoweredBy()
-3. Mitigate the Risk of Clickjacking with helmet.frameguard()
-4. Mitigate the Risk of Cross Site Scripting (XSS) Attacks with helmet.xssFilter()
-5. Avoid Inferring the Response MIME Type with helmet.noSniff()
-6. Prevent IE from Opening Untrusted HTML with helmet.ieNoOpen()
-7. Ask Browsers to Access Your Site via HTTPS Only with helmet.hsts()
-8. Disable DNS Prefetching with helmet.dnsPrefetchControl()
-9. Disable Client-Side Caching with helmet.noCache()
-10. Set a Content Security Policy with helmet.contentSecurityPolicy()
-11. Configure Helmet Using the ‘parent’ helmet() Middleware
-12. Understand BCrypt Hashes
-13. Hash and Compare Passwords Asynchronously
-14. Hash and Compare Passwords Synchronously
+1. Install and Require Helmet [001_InformationSecurityWithHelmetJS.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/033_InformationSecurityWithHelmetJS/001_InformationSecurityWithHelmetJS.tgz)
+2. Hide Potentially Dangerous Information Using helmet.hidePoweredBy() [002_InformationSecurityWithHelmetJS.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/033_InformationSecurityWithHelmetJS/002_InformationSecurityWithHelmetJS.tgz)
+3. Mitigate the Risk of Clickjacking with helmet.frameguard() [003_InformationSecurityWithHelmetJS.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/033_InformationSecurityWithHelmetJS/003_InformationSecurityWithHelmetJS.tgz)
+4. Mitigate the Risk of Cross Site Scripting (XSS) Attacks with helmet.xssFilter() [004_InformationSecurityWithHelmetJS.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/033_InformationSecurityWithHelmetJS/004_InformationSecurityWithHelmetJS.tgz)
+5. Avoid Inferring the Response MIME Type with helmet.noSniff() [005_InformationSecurityWithHelmetJS.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/033_InformationSecurityWithHelmetJS/005_InformationSecurityWithHelmetJS.tgz)
+6. Prevent IE from Opening Untrusted HTML with helmet.ieNoOpen() [006_InformationSecurityWithHelmetJS.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/033_InformationSecurityWithHelmetJS/006_InformationSecurityWithHelmetJS.tgz)
+7. Ask Browsers to Access Your Site via HTTPS Only with helmet.hsts() [007_InformationSecurityWithHelmetJS.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/033_InformationSecurityWithHelmetJS/007_InformationSecurityWithHelmetJS.tgz)
+8. Disable DNS Prefetching with helmet.dnsPrefetchControl() [008_InformationSecurityWithHelmetJS.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/033_InformationSecurityWithHelmetJS/008_InformationSecurityWithHelmetJS.tgz)
+9. Disable Client-Side Caching with helmet.noCache() [009_InformationSecurityWithHelmetJS.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/033_InformationSecurityWithHelmetJS/009_InformationSecurityWithHelmetJS.tgz)
+10. Set a Content Security Policy with helmet.contentSecurityPolicy() [010_InformationSecurityWithHelmetJS.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/033_InformationSecurityWithHelmetJS/010_InformationSecurityWithHelmetJS.tgz)
+11. Configure Helmet Using the ‘parent’ helmet() Middleware [011_InformationSecurityWithHelmetJS.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/033_InformationSecurityWithHelmetJS/011_InformationSecurityWithHelmetJS.tgz)
+12. Understand BCrypt Hashes [012_InformationSecurityWithHelmetJS.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/033_InformationSecurityWithHelmetJS/012_InformationSecurityWithHelmetJS.tgz)
+13. Hash and Compare Passwords Asynchronously [013_InformationSecurityWithHelmetJS.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/033_InformationSecurityWithHelmetJS/013_InformationSecurityWithHelmetJS.tgz)
+14. Hash and Compare Passwords Synchronously [014_InformationSecurityWithHelmetJS.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/033_InformationSecurityWithHelmetJS/014_InformationSecurityWithHelmetJS.tgz)
 
 #### Quality Assurance and Testing with Chai
 
-1. Learn How JavaScript Assertions Work
-2. Test if a Variable or Function is Defined
-3. Use Assert.isOK and Assert.isNotOK
-4. Test for Truthiness
-5. Use the Double Equals to Assert Equality
-6. Use the Triple Equals to Assert Strict Equality
-7. Assert Deep Equality with .deepEqual and .notDeepEqual
-8. Compare the Properties of Two Elements
-9. Test if One Value is Below or At Least as Large as Another
-10. Test if a Value Falls within a Specific Range
-11. Test if a Value is an Array
-12. Test if an Array Contains an Item
-13. Test if a Value is a String
-14. Test if a String Contains a Substring
-15. Use Regular Expressions to Test a String
-16. Test if an Object has a Property
-17. Test if a Value is of a Specific Data Structure Type
-18. Test if an Object is an Instance of a Constructor
-19. Run Functional Tests on API Endpoints using Chai-HTTP
-20. Run Functional Tests on API Endpoints using Chai-HTTP II
-21. Run Functional Tests on an API Response using Chai-HTTP III - PUT method
-22. Run Functional Tests on an API Response using Chai-HTTP IV - PUT method
-23. Run Functional Tests using a Headless Browser
-24. Run Functional Tests using a Headless Browser II
+1. Learn How JavaScript Assertions Work [001_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/001_QaAndTestingWithChai.tgz)
+2. Test if a Variable or Function is Defined [002_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/002_QaAndTestingWithChai.tgz)
+3. Use Assert.isOK and Assert.isNotOK [003_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/003_QaAndTestingWithChai.tgz)
+4. Test for Truthiness [004_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/004_QaAndTestingWithChai.tgz)
+5. Use the Double Equals to Assert Equality [005_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/005_QaAndTestingWithChai.tgz)
+6. Use the Triple Equals to Assert Strict Equality [006_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/006_QaAndTestingWithChai.tgz)
+7. Assert Deep Equality with .deepEqual and .notDeepEqual [007_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/007_QaAndTestingWithChai.tgz)
+8. Compare the Properties of Two Elements [008_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/008_QaAndTestingWithChai.tgz)
+9. Test if One Value is Below or At Least as Large as Another [009_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/009_QaAndTestingWithChai.tgz)
+10. Test if a Value Falls within a Specific Range [010_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/010_QaAndTestingWithChai.tgz)
+11. Test if a Value is an Array [011_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/011_QaAndTestingWithChai.tgz)
+12. Test if an Array Contains an Item [012_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/012_QaAndTestingWithChai.tgz)
+13. Test if a Value is a String [013_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/013_QaAndTestingWithChai.tgz)
+14. Test if a String Contains a Substring [014_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/014_QaAndTestingWithChai.tgz)
+15. Use Regular Expressions to Test a String [015_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/015_QaAndTestingWithChai.tgz)
+16. Test if an Object has a Property [016_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/016_QaAndTestingWithChai.tgz)
+17. Test if a Value is of a Specific Data Structure Type [017_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/017_QaAndTestingWithChai.tgz)
+18. Test if an Object is an Instance of a Constructor [018_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/018_QaAndTestingWithChai.tgz)
+19. Run Functional Tests on API Endpoints using Chai-HTTP [019_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/019_QaAndTestingWithChai.tgz)
+20. Run Functional Tests on API Endpoints using Chai-HTTP II [020_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/020_QaAndTestingWithChai.tgz)
+21. Run Functional Tests on an API Response using Chai-HTTP III - PUT method [021_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/021_QaAndTestingWithChai.tgz)
+22. Run Functional Tests on an API Response using Chai-HTTP IV - PUT method [022_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/022_QaAndTestingWithChai.tgz)
+23. Run Functional Tests using a Headless Browser [023_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/023_QaAndTestingWithChai.tgz)
+24. Run Functional Tests using a Headless Browser II [024_QaAndTestingWithChai.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/034_QualityAssuranceAndTestingWithChai/024_QaAndTestingWithChai.tgz)
 
 #### Advanced Node and Express
 
