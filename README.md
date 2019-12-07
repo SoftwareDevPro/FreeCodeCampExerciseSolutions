@@ -756,12 +756,6 @@
 27. Use Dynamic Scales [027_use-dynamic-scales.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/027_use-dynamic-scales.txt)
 28. Use a Pre-Defined Scale to Place Elements [028_use-a-pre-defined-scale-to-place-elements.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/028_use-a-pre-defined-scale-to-place-elements.txt)
 29. Add Axes to a Visualization [029_add-axes-to-a-visualization.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/029_add-axes-to-a-visualization.txt)
-[021_create-a-scatterplot-with-svg-circles.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/021_create-a-scatterplot-with-svg-circles.txt)
-[022_add-attributes-to-the-circle-elements.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/022_add-attributes-to-the-circle-elements.txt)
-[023_add-labels-to-scatter-plot-circles.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/023_add-labels-to-scatter-plot-circles.txt)
-[024_create-a-linear-scale-with-d3.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/024_create-a-linear-scale-with-d3.txt)
-[025_set-a-domain-and-a-range-on-a-scale.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/025_set-a-domain-and-a-range-on-a-scale.txt)
-[026_use-the-d3.max-and-d3.min-functions-to-find-minimum-and-maximum-values-in-a-dataset.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/026_DataVisualizationWithD3/026_use-the-d3.max-and-d3.min-functions-to-find-minimum-and-maximum-values-in-a-dataset.txt)
 
 #### JSON APIs and Ajax
 
