@@ -883,28 +883,28 @@
 
 #### Advanced Node and Express
 
-1. Set up a Template Engine
-2. Use a Template Engine's Powers
-3. Set up Passport
-4. Serialization of a User Object
-5. Implement the Serialization of a Passport User
-6. Authentication Strategies
-7. How to Use Passport Strategies
-8. Create New Middleware
-9. How to Put a Profile Together
-10. Logging a User Out
-11. Registration of New Users
-12. Hashing Your Passwords
-13. Clean Up Your Project with Modules
-14. Implementation of Social Authentication
-15. Implementation of Social Authentication II
-16. Implementation of Social Authentication III
-17. Set up the Environment
-18. Communicate by Emitting
-19. Handle a Disconnect
-20. Authentication with Socket.IO
-21. Announce New Users
-22. Send and Display Chat Messages
+1. Set up a Template Engine [001_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/001_AdvancedNodeAndExpress.tgz)
+2. Use a Template Engine's Powers [002_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/002_AdvancedNodeAndExpress.tgz)
+3. Set up Passport [003_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/003_AdvancedNodeAndExpress.tgz)
+4. Serialization of a User Object [004_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/004_AdvancedNodeAndExpress.tgz)
+5. Implement the Serialization of a Passport User [005_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/005_AdvancedNodeAndExpress.tgz)
+6. Authentication Strategies [006_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/006_AdvancedNodeAndExpress.tgz)
+7. How to Use Passport Strategies [007_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/007_AdvancedNodeAndExpress.tgz)
+8. Create New Middleware [008_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/008_AdvancedNodeAndExpress.tgz)
+9. How to Put a Profile Together [009_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/009_AdvancedNodeAndExpress.tgz)
+10. Logging a User Out [010_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/010_AdvancedNodeAndExpress.tgz)
+11. Registration of New Users [011_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/011_AdvancedNodeAndExpress.tgz)
+12. Hashing Your Passwords [012_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/012_AdvancedNodeAndExpress.tgz)
+13. Clean Up Your Project with Modules [013_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/013_AdvancedNodeAndExpress.tgz)
+14. Implementation of Social Authentication [014_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/014_AdvancedNodeAndExpress.tgz)
+15. Implementation of Social Authentication II [015_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/015_AdvancedNodeAndExpress.tgz)
+16. Implementation of Social Authentication III [016_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/016_AdvancedNodeAndExpress.tgz)
+17. Set up the Environment [017_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/017_AdvancedNodeAndExpress.tgz)
+18. Communicate by Emitting [018_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/018_AdvancedNodeAndExpress.tgz)
+19. Handle a Disconnect [019_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/019_AdvancedNodeAndExpress.tgz)
+20. Authentication with Socket.IO [020_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/020_AdvancedNodeAndExpress.tgz)
+21. Announce New Users [021_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/021_AdvancedNodeAndExpress.tgz)
+22. Send and Display Chat Messages [022_AdvancedNodeAndExpress.tgz](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/035_AdvancedNodeAndExpress/022_AdvancedNodeAndExpress.tgz)
 
 #### Information Security and Quality Assurance Projects
 
