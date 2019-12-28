@@ -1,0 +1,54 @@
+var Node = function(data, prev) {
+  this.data = data;
+  this.prev = prev;
+  this.next = null;
+};
+var DoublyLinkedList = function() {
+  this.head = null;
+  this.tail = null;  
+  // change code below this line
+  this.add = function(item) {
+    if (this.head == null) {
+      this.head = new Node(item, null);
+      this.tail = this.head;
+    } else {
+      let newNode = new Node(item, this.tail);
+      this.tail.next = newNode;
+      this.tail = newNode;
+    }
+  }  
+    this.reverse = function() {
+
+    // if we have an empty list return null
+    if (this.head === null) {
+      return null;
+    }
+
+    let nodes = [];
+    let curNode = this.head;
+
+    // save each of the nodes
+    while (curNode != null) {
+      nodes.push(curNode);
+      curNode = curNode.next;
+    }
+
+    // change the head and tail around
+    this.head = nodes[nodes.length - 1];
+    this.tail = nodes[0];
+
+    // for each node, change the next to
+    // the prev, and prev to the next,
+    // and move to the next (which is the prev
+    // since we reversed them)
+    curNode = nodes[0];
+
+    while (curNode != null) {
+      let temp = curNode.prev;
+      curNode.prev = curNode.next;
+      curNode.next = temp;
+      curNode = curNode.prev;
+    }
+  } 
+  // change code above this line
+};

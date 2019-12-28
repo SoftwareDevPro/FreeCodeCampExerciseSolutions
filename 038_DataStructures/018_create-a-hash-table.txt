@@ -1,0 +1,48 @@
+var called = 0;
+var hash = string => {
+  called++;
+  var hashed = 0;
+  for (var i = 0; i < string.length; i++) {
+    hashed += string.charCodeAt(i);
+  }
+  return hashed;
+};
+var HashTable = function() {
+  this.collection = {};
+  // change code below this line
+  this.add = function(key, val) {
+    // hash the key
+    let hashed = hash(key);
+    // if it doesnt exist in the object
+    // set it to an empty object.
+    if (!this.collection.hasOwnProperty(hashed)) {
+      this.collection[hashed] = {};
+    }
+    // Set the hash/key/value
+    this.collection[hashed][key] = val;
+  }
+  this.remove = function(key) {
+    // Attempt to grab the object
+    let hashedObj = this.collection[hash(key)];
+    // If it has the key delete it
+    if (hashedObj.hasOwnProperty(key)) {
+      delete hashedObj[key];
+    }
+    // if its now empty delete the sub object
+    if (!Object.keys(hashedObj).length) {
+      delete this.collection[hash(key)];
+    }
+  }
+
+  this.lookup = function(key) {
+    // hash the key
+    let hashed = hash(key);
+    // if it exists, then return it
+    if (this.collection.hasOwnProperty(hashed)) {
+      return this.collection[hashed][key];
+    }
+    // otherwise return null
+    return null
+  }
+  // change code above this line
+};

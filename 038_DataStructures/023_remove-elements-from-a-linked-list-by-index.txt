@@ -1,0 +1,77 @@
+function LinkedList() {
+  var length = 0;
+  var head = null;
+
+  var Node = function(element){ // {1}
+    this.element = element;
+    this.next = null;
+  };
+
+  this.size = function(){
+    return length;
+  };
+
+  this.head = function(){
+    return head;
+  };
+
+  this.add = function(element){
+    var node = new Node(element);
+    if(head === null){
+        head = node;
+    } else {
+        var currentNode = head;
+
+        while(currentNode.next){
+            currentNode  = currentNode.next;
+        }
+
+        currentNode.next = node;
+    }
+
+    length++;
+  };
+
+  // Only change code below this line
+this.removeAt  = function(index) {
+    if (index < 0) {
+      return null;
+    } else if (index >= length) {
+      return null;
+    }
+    if (length == 1) {
+      let curVal = head.element;
+      head = null;
+      length--;
+      return curVal;
+    }
+    if (index == 0 && head != null) {
+      retVal = head.element; 
+      head = head.next;
+      length--;
+      return retVal;
+    } else {
+      let curIdx = 0;
+      let curNode = head;
+      while (curNode != null) {
+        //console.log("index: " + index + ", curIdx: " + curIdx);
+        if (index == curIdx) {
+          //console.log("inside the check")
+          //console.log("curNode.element " + curNode.element)
+          var curVal = curNode.element;
+          let n = head;
+          while (n.next != curNode) {
+            n = n.next;
+          }
+          n.next = n.next.next;
+          length--;
+
+          return curVal;
+        }
+        curIdx += 1;
+        curNode = curNode.next;
+      }
+    }
+  }
+  // Only change code above this line
+}

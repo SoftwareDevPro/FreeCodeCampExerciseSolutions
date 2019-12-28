@@ -1,0 +1,77 @@
+var displayTree = tree => console.log(JSON.stringify(tree, null, 2));
+function Node(value) {
+  this.value = value;
+  this.left = null;
+  this.right = null;
+}
+function BinarySearchTree() {
+  this.root = null;
+  // change code below this line
+  this.findMinHeight = function(root = this.root) {
+    // empty tree.
+    if (root === null) {
+      return -1;
+    }
+    // leaf node.
+    if (root.left === null && root.right === null) {
+      return 0;
+    }
+    // empty left subtree
+    if (root.left === null) {
+      return this.findMinHeight(root.right) + 1;
+    }
+    // empty right subtree
+    if (root.right === null) {
+      return this.findMinHeight(root.left) + 1;
+    }
+    const lh = this.findMinHeight(root.left);
+    const rh = this.findMinHeight(root.right);
+    return Math.min(lh, rh) + 1;
+  };
+  this.findMaxHeight = function(root = this.root) {
+    // empty tree.
+    if (root === null) {
+      return -1;
+    }
+    // empty leaf node.
+    if (root.left === null && root.right === null) {
+      return 0;
+    }
+    // empty left subtree
+    if (root.left === null) {
+      return this.findMaxHeight(root.right) + 1;
+    }
+    // empty right subtree
+    if (root.right === null) {
+      return this.findMaxHeight(root.left) + 1;
+    }
+    let lh = this.findMaxHeight(root.left);
+    let rh = this.findMaxHeight(root.right);
+    return Math.max(lh, rh) + 1;
+  };
+  this.isBalanced = function(root = this.root) {
+    // if there is nothing to check return true
+    if ((root === null) ||
+        (root.left === null && root.right === null)) {
+      return true;
+    }
+    // make sure the right sub-tree is max height of 0
+    if (root.left === null) {
+      return this.findMaxHeight(root.right) <= 0;
+    }
+    // make sure the left sub-tree is max height of 0
+    if (root.right === null) {
+      return this.findMaxHeight(root.left) <= 0;
+    }
+    // Get the left/right max heights, and make
+    // sure the difference is not > 1
+    let lh = this.findMaxHeight(root.left);
+    let rh = this.findMaxHeight(root.right);
+    if (Math.abs(lh - rh) > 1) {
+      return false;
+    }
+    // recurse down each sub-tree checking for balanace
+    return this.isBalanced(root.left) && this.isBalanced(root.right);
+  };  
+  // change code above this line
+}

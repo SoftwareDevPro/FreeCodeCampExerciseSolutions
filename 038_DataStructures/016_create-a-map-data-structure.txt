@@ -1,0 +1,26 @@
+var Map = function() {
+  this.collection = {};
+  // change code below this line
+  this.add = function(k, v) {
+    this.collection[k] = v;
+  }
+  this.remove = function(k) {
+    delete this.collection[k];
+  }
+  this.get = function(k) {
+    return this.collection[k];
+  }
+  this.has = function(k) {
+    return Object.keys(this.collection).indexOf(k) !== -1;
+  }
+  this.values = function() {
+    return Object.values(this.collection);
+  }
+  this.size = function() {
+    return Object.keys(this.collection).length;
+  }
+  this.clear = function() {
+    this.collection = {};
+  }
+  // change code above this line
+};

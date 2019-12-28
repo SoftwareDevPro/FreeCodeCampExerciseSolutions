@@ -1,0 +1,69 @@
+var Node = function(data, prev) {
+  this.data = data;
+  this.prev = prev;
+  this.next = null;
+};
+var DoublyLinkedList = function() {
+  this.head = null;
+  this.tail = null;
+  // change code below this line
+  this.add = function(item) {
+    if (this.head == null) {
+      this.head = new Node(item, null);
+      this.tail = this.head;
+    } else {
+      let newNode = new Node(item, this.tail);
+      this.tail.next = newNode;
+      this.tail = newNode;
+    }
+  }
+  this.has = function(item) {
+    let node = this.head;
+    while (node != null) {
+      if (node.data == item) {
+        return true;
+      }
+      node = node.next;
+    }
+    return false;
+  }
+  this.remove = function(item) {
+    let node = this.head;
+    let done = false;
+    if (node == null) {
+      return null;
+    }
+    while (this.has(item)) {
+      let curNode = this.head;
+      while (curNode) {
+        if (curNode.data == item) {
+          if (curNode == this.head) {
+            this.head = this.head.next;
+
+            if (this.head) {
+              this.head.prev = null;
+            }
+          } else if (curNode == this.tail) {
+            this.tail = this.tail.prev;
+
+            if (this.tail) {
+              this.tail.next = null;
+            }
+          } else {
+            console.log(curNode.data);
+            console.log(curNode);
+
+            if (curNode.next) {
+              curNode.next.prev = curNode.prev;
+            }
+            if (curNode.prev) {
+              curNode.prev.next = curNode.next;
+            }
+          }
+        }
+        curNode = curNode.next;
+      }
+    }
+  }
+  // change code above this line
+};

@@ -918,48 +918,48 @@
 
 #### Algorithms
 
-1. Find the Symmetric Difference
-2. Inventory Update
-3. No Repeats Please
-4. Pairwise
-5. Implement Bubble Sort
-6. Implement Selection Sort
-7. Implement Insertion Sort
-8. Implement Quick Sort
-9. Implement Merge Sort
+1. Find the Symmetric Difference [001_find-the-symmetric-difference.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/037_Algorithms/001_find-the-symmetric-difference.txt)
+2. Inventory Update [002_inventory-update.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/037_Algorithms/002_inventory-update.txt)
+3. No Repeats Please [003_no-repeats-please.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/037_Algorithms/003_no-repeats-please.txt)
+4. Pairwise [004_pairwise.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/037_Algorithms/004_pairwise.txt)
+5. Implement Bubble Sort [005_implement-bubble-sort.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/037_Algorithms/005_implement-bubble-sort.txt)
+6. Implement Selection Sort [006_implement-selection-sort.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/037_Algorithms/006_implement-selection-sort.txt)
+7. Implement Insertion Sort [007_implement-insertion-sort.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/037_Algorithms/007_implement-insertion-sort.txt)
+8. Implement Quick Sort [008_implement-quick-sort.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/037_Algorithms/008_implement-quick-sort.txt)
+9. Implement Merge Sort [009_implement-merge-sort.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/037_Algorithms/009_implement-merge-sort.txt)
 
 #### Data Structures
 
-1. Typed Arrays
-2. Learn how a Stack Works
-3. Create a Stack Class
-4. Create a Queue Class
-5. Create a Priority Queue Class
-6. Create a Circular Queue
-7. Create a Set Class
-8. Perform a Union on Two Sets
-9. Perform an Intersection on Two Sets of Data
-10. Perform a Difference on Two Sets of Data
-11. Perform a Subset Check on Two Sets of Data
-12. Create and Add to Sets in ES6
-13. Remove items from a set in ES6
-14. Use .has and .size on an ES6 Set
-15. Use Spread and Notes for ES5 Set() Integration
-16. Create a Map Data Structure
-17. Create an ES6 JavaScript Map
-18. Create a Hash Table
-19. Work with Nodes in a Linked List
-20. Create a Linked List Class
-21. Remove Elements from a Linked List
-22. Search within a Linked List
-23. Remove Elements from a Linked List by Index
-24. Add Elements at a Specific Index in a Linked List
-25. Create a Doubly Linked List
-26. Reverse a Doubly Linked List
-27. Add a New Element to a Binary Search Tree
-28. Find the Minimum and Maximum Value in a Binary Search Tree
-29. Check if an Element is Present in a Binary Search Tree
-30. Check if Tree is Binary Search Tree
+1. Typed Arrays [001_typed-arrays.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/001_typed-arrays.txt)
+2. Learn how a Stack Works [002_learn-how-a-stack-works.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/002_learn-how-a-stack-works.txt)
+3. Create a Stack Class [003_create-a-stack-class.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/003_create-a-stack-class.txt)
+4. Create a Queue Class [004_create-a-queue-class.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/004_create-a-queue-class.txt)
+5. Create a Priority Queue Class [005_create-a-priority-queue-class.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/005_create-a-priority-queue-class.txt)
+6. Create a Circular Queue [006_create-a-circular-queue.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/006_create-a-circular-queue.txt)
+7. Create a Set Class [007_create-a-set-class.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/007_create-a-set-class.txt)
+8. Perform a Union on Two Sets [008_perform-a-union-on-two-sets.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/008_perform-a-union-on-two-sets.txt)
+9. Perform an Intersection on Two Sets of Data [009_perform-an-intersection-on-two-sets-of-data.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/009_perform-an-intersection-on-two-sets-of-data.txt)
+10. Perform a Difference on Two Sets of Data [010_perform-a-difference-on-two-sets-of-data.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/010_perform-a-difference-on-two-sets-of-data.txt)
+11. Perform a Subset Check on Two Sets of Data [011_perform-a-subset-check-on-two-sets-of-data.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/011_perform-a-subset-check-on-two-sets-of-data.txt)
+12. Create and Add to Sets in ES6 [012_create-and-add-to-sets-in-es6.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/012_create-and-add-to-sets-in-es6.txt)
+13. Remove items from a set in ES6 [013_remove-items-from-a-set-in-es6.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/013_remove-items-from-a-set-in-es6.txt)
+14. Use .has and .size on an ES6 Set [014_use-.has-and-.size-on-an-es6-set.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/014_use-.has-and-.size-on-an-es6-set.txt)
+15. Use Spread and Notes for ES5 Set() Integration [015_use-spread-and-notes-for-es5-set-integration.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/015_use-spread-and-notes-for-es5-set-integration.txt)
+16. Create a Map Data Structure [016_create-a-map-data-structure.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/016_create-a-map-data-structure.txt)
+17. Create an ES6 JavaScript Map [017_create-an-es6-javascript-map.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/017_create-an-es6-javascript-map.txt)
+18. Create a Hash Table [018_create-a-hash-table.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/018_create-a-hash-table.txt)
+19. Work with Nodes in a Linked List [019_work-with-nodes-in-a-linked-list.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/019_work-with-nodes-in-a-linked-list.txt)
+20. Create a Linked List Class [020_create-a-linked-list-class.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/020_create-a-linked-list-class.txt)
+21. Remove Elements from a Linked List [021_remove-elements-from-a-linked-list.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/021_remove-elements-from-a-linked-list.txt)
+22. Search within a Linked List [022_search-within-a-linked-list.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/022_search-within-a-linked-list.txt)
+23. Remove Elements from a Linked List by Index [023_remove-elements-from-a-linked-list-by-index.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/023_remove-elements-from-a-linked-list-by-index.txt)
+24. Add Elements at a Specific Index in a Linked List [024_add-elements-at-a-specific-index-in-a-linked-list.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/024_add-elements-at-a-specific-index-in-a-linked-list.txt)
+25. Create a Doubly Linked List [025_create-a-doubly-linked-list.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/025_create-a-doubly-linked-list.txt)
+26. Reverse a Doubly Linked List [026_reverse-a-doubly-linked-list.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/026_reverse-a-doubly-linked-list.txt)
+27. Add a New Element to a Binary Search Tree [027_add-a-new-element-to-a-binary-search-tree.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/027_add-a-new-element-to-a-binary-search-tree.txt)
+28. Find the Minimum and Maximum Value in a Binary Search Tree [028_find-the-minimum-and-maximum-value-in-a-binary-search-tree.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/028_find-the-minimum-and-maximum-value-in-a-binary-search-tree.txt)
+29. Check if an Element is Present in a Binary Search Tree [029_check-if-an-element-is-present-in-a-binary-search-tree.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/029_check-if-an-element-is-present-in-a-binary-search-tree.txt)
+30. Check if Tree is Binary Search Tree [030_check-if-tree-is-binary-search-tree.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/030_check-if-tree-is-binary-search-tree.txt)
 31. Find the Minimum and Maximum Height of a Binary Search Tree
 32. Use Depth First Search in a Binary Search Tree
 33. Use Breadth First Search in a Binary Search Tree

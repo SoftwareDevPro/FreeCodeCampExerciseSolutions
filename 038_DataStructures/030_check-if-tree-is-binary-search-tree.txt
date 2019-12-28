@@ -1,0 +1,35 @@
+var displayTree = (tree) => console.log(JSON.stringify(tree, null, 2));
+function Node(value) {
+  this.value = value;
+  this.left = null;
+  this.right = null;
+}
+function BinarySearchTree() {
+  this.root = null;
+
+  this.checkNode = function(node) {
+    if (node == null) {
+      return true;
+    }
+    if(node.left == null && node.right == null) {
+      return true;
+    }
+    if(node.left != null && node.left.value > node.value) {
+      return false;
+    }
+    else if(node.left != null && node.left.value <= node.value) {
+      return this.checkNode(node.left);
+    }
+    else if(node.right != null && node.right.value < node.value) {
+      return false;
+    }
+    else if(node.right != null && node.right.value > node.value) {
+      return this.checkNode(node.right);
+    }
+  }  
+}
+function isBinarySearchTree(tree) {
+  // change code below this line
+  return tree.checkNode(tree.root);
+  // change code above this line
+}
