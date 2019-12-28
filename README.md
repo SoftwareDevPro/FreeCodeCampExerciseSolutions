@@ -960,7 +960,7 @@
 28. Find the Minimum and Maximum Value in a Binary Search Tree [028_find-the-minimum-and-maximum-value-in-a-binary-search-tree.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/028_find-the-minimum-and-maximum-value-in-a-binary-search-tree.txt)
 29. Check if an Element is Present in a Binary Search Tree [029_check-if-an-element-is-present-in-a-binary-search-tree.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/029_check-if-an-element-is-present-in-a-binary-search-tree.txt)
 30. Check if Tree is Binary Search Tree [030_check-if-tree-is-binary-search-tree.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/030_check-if-tree-is-binary-search-tree.txt)
-31. Find the Minimum and Maximum Height of a Binary Search Tree
+31. Find the Minimum and Maximum Height of a Binary Search Tree [031_find-the-minimum-and-maximum-height-of-a-binary-search-tree.txt](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/blob/master/038_DataStructures/031_find-the-minimum-and-maximum-height-of-a-binary-search-tree.txt)
 32. Use Depth First Search in a Binary Search Tree
 33. Use Breadth First Search in a Binary Search Tree
 34. Delete a Leaf Node in a Binary Search Tree
