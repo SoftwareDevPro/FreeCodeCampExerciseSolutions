@@ -1,0 +1,53 @@
+function permAlone(str) {
+  //  match repeated consecutive characters.
+  let regex = /(.)\1+/;
+
+  // Split the string into an array of characters.
+  let arr = str.split("");
+  let permutations = [];
+  let tmp;
+
+  // Return 0 if str contains same character.
+  if (str.match(regex) !== null && str.match(regex)[0] === str) {
+    return 0;
+  }
+
+  function swap(idx1, idx2) {
+    tmp = arr[idx1];
+    arr[idx1] = arr[idx2];
+    arr[idx2] = tmp;
+  }
+
+  // Generate arrays of permutations using the algorithm.
+  function generate(int) {
+    if (int === 1) {
+      // Make sure to join the characters as we create  the permutation arrays
+      permutations.push(arr.join(""));
+    } else {
+      for (let idx = 0; idx != int; ++idx) {
+        generate(int - 1);
+        swap(int % 2 ? 0 : idx, int - 1);
+      }
+    }
+  }
+
+  generate(arr.length);
+
+  // Filter the array of repeated permutations.
+  const filtered = permutations.filter(function(string) {
+    return !string.match(regex);
+  });
+
+  // Return how many have no repetitions.
+  return filtered.length;
+}
+
+assert(permAlone("aab") == 2)
+assert(permAlone("aaa") == 0)
+assert(permAlone("aabb") == 8)
+assert(permAlone("abcdefa") == 3600)
+assert(permAlone("abfdefa") == 2640)
+assert(permAlone("zzzzzzzz") == 0)
+assert(permAlone("a") == 1)
+assert(permAlone("aaab") == 0)
+assert(permAlone("aaabb") == 12)

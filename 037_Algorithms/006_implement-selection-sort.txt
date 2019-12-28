@@ -1,0 +1,30 @@
+function selectionSort(array) {
+
+  // swap function 
+  function swap(idx1, idx2, arr) {
+    const tmp = arr[idx1];
+    arr[idx1] = arr[idx2];
+    arr[idx2] = tmp;
+  }
+
+  // loop through the whole array
+  for (let i = 0; i < array.length - 1; i++) {
+    // set the minimum to the current location
+    let min = i;
+    // loop through the remaining sub array
+    for (let j = i + 1; j < array.length; j++) {
+      // if the min at the current location is greater
+      // then set the new minimum to the current location 
+      if (array[min] > array[j]) {
+        min = j;
+      }
+    }
+    // perform the swap.
+    swap(i, min, array);
+  }
+  return array;
+}
+
+
+
+selectionSort([1, 4, 2, 8, 345, 123, 43, 32, 5643, 63, 123, 43, 2, 55, 1, 234, 92]);

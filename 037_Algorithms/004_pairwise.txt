@@ -1,0 +1,16 @@
+function pairwise(arr, arg) {
+  let total = 0;
+  let indices = [];
+  for(let idx = 0; idx < arr.length; idx++) {
+    for(let jdx = idx + 1; jdx < arr.length; jdx++) {
+      if (arr[idx] + arr[jdx] == arg && indices.indexOf(idx) == -1 && indices.indexOf(jdx) == -1) {
+        indices.push(idx);
+        indices.push(jdx);
+        total += (idx + jdx)
+      }
+    }
+  }
+  return total;
+}
+
+pairwise([1,4,2,3,0,5], 7);

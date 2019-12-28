@@ -914,3 +914,66 @@
 4. Stock Price Checker
 5. Anonymous Message Board
 
+### Coding Interview Prep
+
+#### Algorithms
+
+1. Find the Symmetric Difference
+2. Inventory Update
+3. No Repeats Please
+4. Pairwise
+5. Implement Bubble Sort
+6. Implement Selection Sort
+7. Implement Insertion Sort
+8. Implement Quick Sort
+9. Implement Merge Sort
+
+#### Data Structures
+
+1. Typed Arrays
+2. Learn how a Stack Works
+3. Create a Stack Class
+4. Create a Queue Class
+5. Create a Priority Queue Class
+6. Create a Circular Queue
+7. Create a Set Class
+8. Perform a Union on Two Sets
+9. Perform an Intersection on Two Sets of Data
+10. Perform a Difference on Two Sets of Data
+11. Perform a Subset Check on Two Sets of Data
+12. Create and Add to Sets in ES6
+13. Remove items from a set in ES6
+14. Use .has and .size on an ES6 Set
+15. Use Spread and Notes for ES5 Set() Integration
+16. Create a Map Data Structure
+17. Create an ES6 JavaScript Map
+18. Create a Hash Table
+19. Work with Nodes in a Linked List
+20. Create a Linked List Class
+21. Remove Elements from a Linked List
+22. Search within a Linked List
+23. Remove Elements from a Linked List by Index
+24. Add Elements at a Specific Index in a Linked List
+25. Create a Doubly Linked List
+26. Reverse a Doubly Linked List
+27. Add a New Element to a Binary Search Tree
+28. Find the Minimum and Maximum Value in a Binary Search Tree
+29. Check if an Element is Present in a Binary Search Tree
+30. Check if Tree is Binary Search Tree
+31. Find the Minimum and Maximum Height of a Binary Search Tree
+32. Use Depth First Search in a Binary Search Tree
+33. Use Breadth First Search in a Binary Search Tree
+34. Delete a Leaf Node in a Binary Search Tree
+35. Delete a Node with One Child in a Binary Search Tree
+36. Delete a Node with Two Children in a Binary Search Tree
+37. Invert a Binary Tree
+38. Create a Trie Search Tree
+39. Insert an Element into a Max Heap
+40. Remove an Element from a Max Heap
+41. Implement Heap Sort with a Min Heap
+42. Adjacency List
+43. Adjacency Matrix
+44. Incidence Matrix
+45. Breadth-First Search
+46. Depth-First Search
+

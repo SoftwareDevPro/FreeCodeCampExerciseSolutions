@@ -1,0 +1,52 @@
+
+// Comparator, can determine the direction (smallest to biggest <)
+// or (biggest to smallest, >)
+function comparator(element1, element2) {
+  return element1 > element2;
+}
+
+// Sub merge function, which merges 2 sorted array into 1 sorted array
+function merge2arrays(arr1, arr2) {
+  let idx = 0, jdx = 0;
+  const mergedArr = [];
+  // Loop through both arrays, pushing the smaller
+  // element of the 2 first
+  while (idx < arr1.length && jdx < arr2.length) {
+    if (comparator(arr1[idx], arr2[jdx]))  {
+      mergedArr.push(arr2[jdx++]);
+    } else {
+      mergedArr.push(arr1[idx++]);
+    }
+  }
+  // add the remaining elements from array 1
+  while (idx < arr1.length) {
+    mergedArr.push(arr1[idx++]);
+  }
+  // add the remaining elements from array 2
+  while (jdx < arr2.length) {
+    mergedArr.push(arr2[jdx++]);
+  }
+  return mergedArr;
+}
+
+function mergeSort(array) {
+  // change code below this line
+  // Nothing to sort if we are down to 1 element
+  if (array.length == 1) {
+    return array;
+  }
+
+  // Break down the array to half from middle into left and right
+  // Grab the middle point, and recursively merge sort on the
+  // left and right halves.
+  const middle = Math.floor(array.length / 2);
+  const left = mergeSort(array.slice(0, middle));
+  const right = mergeSort(array.slice(middle));
+
+  // Return the merged sorted array
+  return merge2arrays(left, right);
+  
+  // change code above this line
+}
+
+console.log(mergeSort([1, 4, 2, 8, 345, 123, 43, 32, 5643, 63, 123, 43, 2, 55, 1, 234, 92]));

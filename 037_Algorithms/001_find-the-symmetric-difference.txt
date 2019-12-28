@@ -1,0 +1,12 @@
+let diff = (arr1, arr2) => [
+  // create a new array where the difference 
+  // is the elements are not in common
+  ...arr1.filter(e => !arr2.includes(e)),
+  ...arr2.filter(e => !arr1.includes(e))
+];
+
+// Create a new set reducing args to the differences
+// between all the arrays.
+let sym = (...args) => [...new Set(args.reduce(diff))];
+
+sym([1, 2, 3], [5, 2, 1, 4]);
