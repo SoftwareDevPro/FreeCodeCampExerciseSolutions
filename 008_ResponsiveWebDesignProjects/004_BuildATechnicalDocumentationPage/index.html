@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <link rel="stylesheet" type="text/css" href="styles.css">
+    </head>
+    <body>
+        <div class="container">
+            <nav id="navbar">
+                <header>Brief Introduction to the Ruby Language</header>
+                <ul>
+                    <li><a class="nav-link" href="#Introduction">Introduction</a></li>
+                    <li><a class="nav-link" href="#Downloading_Ruby_and_an_Editor">Downloading Ruby and an Editor</a></li>
+                    <li><a class="nav-link" href="#Hello_World">Hello World</a></li>
+                    <li><a class="nav-link" href="#Variables">Variables</a></li>
+                    <li><a class="nav-link" href="#Constants">Constants</a></li>
+                    <li><a class="nav-link" href="#Data_Types">Data Types</a></li>
+                    <li><a class="nav-link" href="#Ruby_on_Rails">Ruby on Rails</a></li>
+                </ul>
+            </nav>
+
+            <main id="main-doc">
+                <section id="Introduction" class="main-section">
+                    <header>
+                        Introduction
+                    </header>
+                    <p>
+                        Ruby is an interpreted, high-level, general-purpose programming language. It was designed and developed in the 
+                        mid-1990s by Yukihiro "Matz" Matsumoto in Japan.
+                    </p>
+                    <p>
+                        Ruby is dynamically typed and garbage-collected. It supports multiple programming paradigms, including 
+                        procedural, object-oriented, and functional programming. According to the creator, Ruby was influenced by 
+                        Perl, Smalltalk, Eiffel, Ada, Basic, and Lisp.
+                    </p>
+                </section>
+                <section id="Downloading_Ruby_and_an_Editor" class="main-section">                    
+                    <header>
+                        Downloading Ruby and an Editor
+                    </header>
+                    <p>
+                        As an open source language, Ruby has been ported to run
+                        on many different computer platforms and architectures. 
+                        This means that if you develop a Ruby program on one 
+                        machine, it's likely you'll be able to run it without 
+                        any changes on a different machine. You can use Ruby, 
+                        in one form or another, on most operating systems and 
+                        platforms.                        
+                    </p>
+                    <p>
+                        There are multiple ways to install and manage Ruby. If 
+                        you are on Windows, the simplest way to get Ruby installed 
+                        is by using the <a href="http://rubyinstaller.org/">Ruby  
+                        Installer for Windows</a>.
+                    </p>
+                    <p>
+                        You can use any editor you like, as long as it's a 
+                        plain-text editor (and not a word processor) and a 
+                        directory (a.k.a. a folder) in which to store your Ruby 
+                        program files. The folder is separate from other work 
+                        areas so that you can keep track of your practice 
+                        program files.
+                    </p>
+                </section>
+                <section id="Hello_World" class="main-section">
+                    <header>
+                        Hello World
+                    </header>
+                    <p>
+                        Create a text file called hello_world.rb containing the following code:
+                    </p>
+                    <p>                        
+                        <code>
+                            puts 'Hello, world!'
+                        </code>                        
+                    </p>
+                </section>
+                <section id="Variables" class="main-section">
+                    <header>
+                        Variables
+                    </header>
+                    <p>
+                        Variables are the memory locations, which hold any data to 
+                        be used by any program.
+                    </p>
+                    <p>
+                        There are five types of variables supported by Ruby. You 
+                        already have gone through a small description of these 
+                        variables in the previous chapter as well. These five 
+                        types of variables are explained in this chapter.                        
+                    </p>
+                        <ul>
+                            <li>Global Variables</li>
+                            <li>Instance Variables</li>
+                            <li>Class Variables</li>
+                            <li>Local Variables</li>
+                            <li>Constants</li>
+                        </ul>
+                </section>
+                <section id="Constants" class="main-section">
+                    <header>
+                        Constants
+                    </header>
+                    <p>
+                        Constants begin with an uppercase letter. Constants defined 
+                        within a class or module can be accessed from within that class 
+                        or module, and those defined outside a class or module can 
+                        be accessed globally.
+                    </p>
+                    <p>
+                        Constants may not be defined within methods. Referencing 
+                        an uninitialized constant produces an error. Making an 
+                        assignment to a constant that is already initialized 
+                        produces a warning.
+                    </p>
+                </section>
+                <section id="Data_Types" class="main-section">
+                    <header>Data Types</header>
+                    <p>
+                        Ruby has several data types. All data types are based on 
+                        classes. The following are the data types recognized in 
+                        Ruby:
+                        <ul>                            
+                            <li>Booleans</li>
+                            <li>Symbols</li>
+                            <li>Numbers</li>
+                            <li>Strings</li>
+                            <li>Arrays</li>
+                            <li>Hashes</li>
+                        </ul>                        
+                    </p>
+                    <p>
+                        In Ruby the boolean data type can have one of the two 
+                        values: true or false                        
+                    </p>
+                    <p>
+                        <pre>
+                        <code>
+                                #!/usr/bin/ruby
+
+                                # kid.rb
+                                
+                                bool = [true, false]
+                                
+                                male = bool[rand(2)]
+                                
+                                
+                                if male
+                                    puts "We will use name John"
+                                else 
+                                    puts "We will use name Victoria"
+                                end                            
+                        </code>
+                        </pre>
+                    </p>
+                    <p>Symbols are used to represent other objects. Using symbols 
+                        instead of strings may save some resources. A symbol is 
+                        an instance object of a Symbol class. Symbols are generated 
+                        by using an colon before an identifier, like :name. 
+                        Several objects also have to_sym methods. These methods 
+                        convert those objects to symbols.
+                    </p>
+                    <p>
+                        <pre>
+                        <code>
+                                #!/usr/bin/ruby
+
+                                p :name
+                                p :name.class
+                                p :name.methods.size
+                                p "Jane".methods.size
+                                
+                                p :name.object_id
+                                p :name.object_id
+                                p "name".object_id
+                                p "name".object_id                            
+                        </code>
+                    </pre>
+                    </p>
+                    <p>
+                        Integers are a subset of the real numbers. They are written 
+                        without a fraction or a decimal component. Integers fall 
+                        within a set Z = {..., -2, -1, 0, 1, 2, ...} This set is infinite.                        
+                    </p>
+                    <p>
+                        <pre><code>
+                                #!/usr/bin/ruby
+
+                                p -2
+                                p 121
+                                p 123265
+                                p -34253464356
+                                p 34867367893463476
+                                
+                                p 1.class
+                                p 23453246.class
+                                p 234532423563456346.class
+                                p 2345324235632363463456456346.class
+                                
+                                p 5 / 2
+                                p 5.div 2                            
+                        </code></pre>
+                    </p>
+                    <p>
+                        Floating point numbers represent real numbers in computing. 
+                        Real numbers measure continuous quantities like weight, 
+                        height or speed. In Ruby, decimal numbers are objects 
+                        of the Float or a BigDecimal class. The BigDecimal class, 
+                        a Ruby core class, is part of Ruby's standard library. In 
+                        addition, we can use Rational objects too.</p>
+                    <p>
+                        <pre><code>
+                                #!/usr/bin/ruby
+
+                                p 15.4
+                                p 0.3455
+                                p -343.4563
+                                
+                                p 12.5.class
+                                p -12.5.class
+                                p (5.0 / 2).class
+                                
+                                p 5.fdiv 2
+                                p 12.to_f                            
+                        </code></pre>
+                    </p>
+                    <p>A string is a data type representing textual data in 
+                        computer programs. A Ruby string is a sequence of 
+                        unicode characters. A string is an instance of the String. 
+                        String literals are characters enclosed in double or 
+                        single qoutes.</p>
+                    <p>
+                        <pre><code>
+                                #!/usr/bin/ruby
+
+                                p "Ruby"
+                                p 'Python'
+                                
+                                p "Ruby".size
+                                p "Ruby".upcase
+                                
+                                p 23.to_s
+                        </code></pre>
+                    </p>
+                    <p>
+                        Arrays and hashes are collections of objects. They group 
+                        objects into one place.
+                    </p>
+                    <p>
+                        Arrays are ordered collections of objects. Hashes are 
+                        collections of key-value pairs. We will have a single 
+                        chapter for both arrays and hashes. The following example 
+                        just gives a quick look at both containers.
+                    </p>
+                    <p>
+                        <pre><code>
+                                #!/usr/bin/ruby
+
+                                nums = [1, 2, 3, 4]
+                                
+                                puts "There are #{nums.size} items in the array"
+                                
+                                nums.each do |num|
+                                    puts num
+                                end
+                                
+                                
+                                domains = { :de => "Germany", :sk => "Slovakia",
+                                            :us => "United States", :no => "Norway" }
+                                
+                                puts domains.keys
+                                puts domains.values                            
+                        </code></pre>
+                    </p>
+                </section>
+                <section id="Ruby_on_Rails" class="main-section">
+                    <header>Ruby on Rails</header>
+                    <p>
+                        Rails is a web application development framework written 
+                        in the Ruby programming language. It is designed to make 
+                        programming web applications easier by making assumptions 
+                        about what every developer needs to get started. It 
+                        allows you to write less code while accomplishing more 
+                        than many other languages and frameworks. Experienced 
+                        Rails developers also report that it makes web application 
+                        development more fun.                        
+                    </p>
+                </section>    
+            </main>
+        </div>
+       
+        <script src='https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js'></script>
+    </body>
+</html>

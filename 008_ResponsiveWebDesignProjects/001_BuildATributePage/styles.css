@@ -1,0 +1,55 @@
+
+body {
+    background-color: black;
+    color: white;
+}
+
+#title {
+    text-align: center;
+    font-size: 40;
+    margin: 60;
+}
+
+img {
+    max-width: 550px; 
+    display: block; 
+    height: auto;
+    margin: auto;
+  }
+  
+#img-caption {
+    text-align: center;
+    font-size: 20;
+    margin: 60;
+}
+
+#tribute-link {
+    text-align: center;
+    display: block;
+    font-size: 20;
+    margin: 60;
+    color: white;
+}
+
+#tribute-quote {
+    text-align: center;
+    display: block;
+    font-size: 20;
+}
+
+#tribute-info {
+    margin: 0 auto;   
+}
+
+ul {
+    list-style-position: inside;
+    max-width: 750px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+li {
+    margin: 20;
+}
+
+

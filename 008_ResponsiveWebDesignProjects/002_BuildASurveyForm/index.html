@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Survey Form</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" type="text/css" media="screen" href="styles.css">
+    </head>
+    <body>
+        <h1 id="title">Streaming Survey Form</h1>
+        <p id="description">
+            Lets see how your using streaming services
+        </p>
+        <form id="survey-form">
+            <label id="name-label">
+            * Name:
+            </label>
+            <input id="name" type="text" placeholder="Enter your name" required/> <br><br>
+            <label id="email-label">
+            * Email:
+            </label>
+            <input id="email" type="email" placeholder="Enter your email" required/> <br><br>
+            <label id="number-label">
+            * Age:
+            </label>
+            <input id="number" type="number" placeholder="Enter your age" required min="13" max="125"/> <br>
+
+            <br>
+            What is your gender identity?<br><br>
+            <select id="dropdown">
+                <option value="0">Male</option>
+                <option value="1">Female</option>
+            </select>            
+            <br><br>
+
+            What is your relationship status?<br><br>
+
+            <div class="rightTab">
+                <input type="radio" value="single" name="relationship_status">Single<br>
+                <input type="radio" value="in_rel_living_separately" name="relationship_status">In a relationship but living separately from my significant other<br>
+                <input type="radio" value="in_rel_living_with_so" name="relationship_status">In a relationship and living with my significant other<br>
+                <input type="radio" value="married_living" name="relationship_status">Married and living with my spouse<br>
+                <input type="radio" value="divorced_sep" name="relationship_status">Divorced and/or separated<br>
+                <input type="radio" value="widowed" name="relationship_status">Widowed<br>
+                <input type="radio" value="other" name="relationship_status">Other<br>
+                <input type="radio" value="prefer_no_say" name="relationship_status">Prefer not to say<br>
+            </div>            
+
+            <br><br>
+            Which streaming services are you subscribed to?<br><br>            
+          
+            <div class="rightTab">
+                <ul id="preferences" style="list-style: none;">
+                    <li class="checkbox"><label><input name="streaming_service" value="1" type="checkbox">Netflix</label></li>
+                    <li class="checkbox"><input name="streaming_service" value="2" type="checkbox">Hulu</li>
+                    <li class="checkbox"><label><input name="streaming_service" value="3" type="checkbox">Amazon Prime Instant Video</label></li>
+                    <li class="checkbox"><label><input name="streaming_service" value="4" type="checkbox">Playstation Vue</label></li>
+                    <li class="checkbox"><label><input name="streaming_service" value="5" type="checkbox">Sling Orange</label></li>
+                    <li class="checkbox"><label><input name="streaming_service" value="6" type="checkbox">HBO GO</label></li>
+                    <li class="checkbox"><label><input name="streaming_service" value="7" type="checkbox">Twitch</label></li>
+                    <li class="checkbox"><label><input name="streaming_service" value="8" type="checkbox">Vevo</label></li>
+                    <li class="checkbox"><label><input name="streaming_service" value="9" type="checkbox">Youtube TV</label></li>
+                    <li class="checkbox"><label><input name="streaming_service" value="10" type="checkbox">Vudu</label></li>
+                </ul>
+            </div>
+            
+            <br><br>Any Comments or Suggestions?<br><br>
+            <textarea id="comments"
+                      style="height:100px;resize:vertical;"
+                      name="comment"
+                      placeholder="Enter your comments or suggestions here..."></textarea>
+
+            <br>
+            <button id="submit" type="submit">Submit</button>
+        </form>
+
+
+
+        <script src='https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js'></script>
+    </body>
+</html>
