@@ -1,0 +1,29 @@
+{
+  "name": "backend_rhp_microservice_fastify",
+  "version": "1.0.0",
+  "description": "Implementation of the request header parser microservice with fastify",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "clean": "rm -rf node_modules",
+    "build": "npm install",
+    "rebuild": "npm run clean && npm run build",
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "request",
+    "header",
+    "parser",
+    "microservice",
+    "node",
+    "fastify"
+  ],
+  "author": "Chris Adamson",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^2.13.1"
+  },
+  "devDependencies": {
+    "tap": "^14.10.7"
+  }
+}
