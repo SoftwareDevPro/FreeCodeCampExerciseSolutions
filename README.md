@@ -828,7 +828,7 @@
 #### APIs and Microservices Projects
 
 1. [Timestamp Microservice](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/tree/master/032_APIsAndMicroservicesProjects/001_timestamp_microservice)
-2. Request Header Parser Microservice
+2. [Request Header Parser Microservice](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/tree/master/032_APIsAndMicroservicesProjects/002_requestheaderparser_microservice)
 3. URL Shortener Microservice
 4. Exercise Tracker
 5. File Metadata Microservice
