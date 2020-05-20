@@ -1,0 +1,27 @@
+{
+  "name": "timestamp_microservice_fastify",
+  "version": "1.0.0",
+  "description": "Implementation of the timestamp microservice with fastify",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "clean": "rm -rf node_modules",
+    "build": "npm install",
+    "rebuild": "npm run clean && npm run build",
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "timestamp",
+    "microservice",
+    "node",
+    "fastify"
+  ],
+  "author": "Chris Adamson",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^2.13.0"
+  },
+  "devDependencies": {
+    "tap": "^14.10.7"
+  }
+}
