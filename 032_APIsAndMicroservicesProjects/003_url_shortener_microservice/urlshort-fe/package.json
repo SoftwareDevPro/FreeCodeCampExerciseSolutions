@@ -1,0 +1,45 @@
+{
+  "name": "urlshort-fe",
+  "version": "1.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1",
+    "reactstrap": "^8.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "clean": "rm -rf node_modules",
+    "rebuild": "npm run clean && npm install && npm run build",
+    "testcafe": "testcafe chrome test/test.js && testcafe chrome test/test2.js",
+    "cypress": "./node_modules/.bin/cypress run --spec 'cypress/integration/urlshort/urlshort.spec.js'"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "cypress": "^4.4.1",
+    "testcafe": "^1.8.4"
+  }
+}

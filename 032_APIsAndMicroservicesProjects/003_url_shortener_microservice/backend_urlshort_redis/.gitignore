@@ -1,0 +1,9 @@
+node_modules/
+bin/
+redis*/
+redis*.gz
+package-lock.json
+*.exe
+*.pdf
+test_urls.txt
+sample.env

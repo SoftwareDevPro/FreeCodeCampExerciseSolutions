@@ -1,0 +1,33 @@
+{
+  "name": "urlshort_microservice_fastify",
+  "version": "1.0.0",
+  "description": "Implementation of the urlshort microservice with fastify",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "clean": "rm -rf node_modules",
+    "build": "npm install",
+    "rebuild": "npm run clean && npm run build",
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "url",
+    "shortener",
+    "microservice",
+    "fastify",
+    "node"
+  ],
+  "author": "Chris Adamson",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fastify": "^2.13.1",
+    "fastify-cors": "^3.0.3",
+    "mongoose": "^5.9.10",
+    "shortid": "^2.2.15",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "tap": "^14.10.7"
+  }
+}
