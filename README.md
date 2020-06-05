@@ -830,8 +830,8 @@
 1. [Timestamp Microservice](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/tree/master/032_APIsAndMicroservicesProjects/001_timestamp_microservice)
 2. [Request Header Parser Microservice](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/tree/master/032_APIsAndMicroservicesProjects/002_requestheaderparser_microservice)
 3. [URL Shortener Microservice](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/tree/master/032_APIsAndMicroservicesProjects/003_url_shortener_microservice)
-4. Exercise Tracker
-5. File Metadata Microservice
+4. [Exercise Tracker](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/tree/master/032_APIsAndMicroservicesProjects/004_exercise_tracker_microservice)
+5. [File Metadata Microservice](https://github.com/SoftwareDevPro/FreeCodeCampExerciseSolutions/tree/master/032_APIsAndMicroservicesProjects/005_filemetadata_microservice)
 
 ---
 
